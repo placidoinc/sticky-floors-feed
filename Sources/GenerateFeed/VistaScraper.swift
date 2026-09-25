@@ -52,7 +52,7 @@ enum VistaScraper {
     }
 
     private static func fetchSlugs() async throws -> [String] {
-        let (data, response) = try await URLSession.shared.data(from: scheduleURL)
+        let (data, response) = try await Net.data(from: scheduleURL)
         guard let http = response as? HTTPURLResponse, 200..<300 ~= http.statusCode else {
             throw URLError(.badServerResponse)
         }
@@ -71,7 +71,7 @@ enum VistaScraper {
 
     private static func fetchFilm(slug: String) async throws -> ScrapedFilmMeta? {
         guard let url = URL(string: moviePageBase + slug) else { return nil }
-        let (data, response) = try await URLSession.shared.data(from: url)
+        let (data, response) = try await Net.data(from: url)
         guard let http = response as? HTTPURLResponse, 200..<300 ~= http.statusCode else {
             throw URLError(.badServerResponse)
         }
@@ -84,7 +84,7 @@ enum VistaScraper {
         var year: String?
         var runtimeMinutes: Int?
         if let details {
-            let parts = details.components(separatedBy: "·").map { $0.trimmingCharacters(in: .whitespaces) }
+            let parts = details.components(separatedBy: "·").map { $0.trimmingCharacters(in: CharacterSet.whitespaces) }
             year = parts.first { $0.count == 4 && Int($0) != nil }
             runtimeMinutes = parts.compactMap(parseRuntime).first
         }
@@ -140,5 +140,5 @@ enum VistaScraper {
 /// stripping here, since Vista's own page titles don't carry that noise).
 func looseTitleKey(_ s: String) -> String {
     s.lowercased().replacingOccurrences(of: #"[^a-z0-9]+"#, with: " ", options: .regularExpression)
-        .trimmingCharacters(in: .whitespaces)
+        .trimmingCharacters(in: CharacterSet.whitespaces)
 }

@@ -36,7 +36,7 @@ enum ZeitgeistsFetch {
     private static let feedURL = URL(string: "https://feeds.zeitgeists.org/region/los-angeles.json")!
 
     static func fetchScreenings() async throws -> [FeedScreening] {
-        let (data, response) = try await URLSession.shared.data(from: feedURL)
+        let (data, response) = try await Net.data(from: feedURL)
         guard let http = response as? HTTPURLResponse, 200..<300 ~= http.statusCode else {
             throw ZeitgeistsError.badResponse
         }
