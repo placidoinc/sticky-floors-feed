@@ -13,7 +13,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    container: swift:6.0-jammy
+    container: swift:5.10-jammy
     steps:
       - uses: actions/checkout@v4
 
