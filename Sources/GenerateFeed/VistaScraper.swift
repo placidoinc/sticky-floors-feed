@@ -7,6 +7,9 @@
 // one, only once it actually needs one.
 
 import Foundation
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
 
 struct ScrapedFilmMeta {
     let title: String

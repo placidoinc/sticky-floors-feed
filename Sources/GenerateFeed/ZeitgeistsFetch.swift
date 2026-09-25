@@ -4,6 +4,9 @@
 // this runs once nightly on a server instead of once per phone per launch.
 
 import Foundation
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
 
 struct FeedWork: Encodable {
     let rawName: String
