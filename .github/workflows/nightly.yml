@@ -1,0 +1,30 @@
+name: Nightly feed refresh
+
+on:
+  schedule:
+    # 9:00 UTC = 1am/2am Pacific (DST-dependent) — after the last LA
+    # screenings of the night have started, before anyone's morning check.
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    container: swift:6.0-jammy
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate feed
+        run: swift run GenerateFeed
+
+      - name: Commit and push if the feed changed
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name "sticky-floors-bot"
+          git config user.email "actions@github.com"
+          git add docs/feed.json
+          git diff --cached --quiet && echo "No changes." || git commit -m "Nightly feed refresh"
+          git push
