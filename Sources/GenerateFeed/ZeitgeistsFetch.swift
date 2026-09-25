@@ -4,9 +4,6 @@
 // this runs once nightly on a server instead of once per phone per launch.
 
 import Foundation
-#if canImport(FoundationNetworking)
-import FoundationNetworking
-#endif
 
 struct FeedWork: Encodable {
     let rawName: String
@@ -37,7 +34,7 @@ enum ZeitgeistsFetch {
 
     static func fetchScreenings() async throws -> [FeedScreening] {
         let (data, response) = try await Net.data(from: feedURL)
-        guard let http = response as? HTTPURLResponse, 200..<300 ~= http.statusCode else {
+        guard 200..<300 ~= response.statusCode else {
             throw ZeitgeistsError.badResponse
         }
         guard let root = try JSONSerialization.jsonObject(with: data) as? [String: Any],

@@ -7,9 +7,6 @@
 // one, only once it actually needs one.
 
 import Foundation
-#if canImport(FoundationNetworking)
-import FoundationNetworking
-#endif
 
 struct ScrapedFilmMeta {
     let title: String
@@ -53,7 +50,7 @@ enum VistaScraper {
 
     private static func fetchSlugs() async throws -> [String] {
         let (data, response) = try await Net.data(from: scheduleURL)
-        guard let http = response as? HTTPURLResponse, 200..<300 ~= http.statusCode else {
+        guard 200..<300 ~= response.statusCode else {
             throw URLError(.badServerResponse)
         }
         let html = String(decoding: data, as: UTF8.self)
@@ -72,7 +69,7 @@ enum VistaScraper {
     private static func fetchFilm(slug: String) async throws -> ScrapedFilmMeta? {
         guard let url = URL(string: moviePageBase + slug) else { return nil }
         let (data, response) = try await Net.data(from: url)
-        guard let http = response as? HTTPURLResponse, 200..<300 ~= http.statusCode else {
+        guard 200..<300 ~= response.statusCode else {
             throw URLError(.badServerResponse)
         }
         let html = String(decoding: data, as: UTF8.self)

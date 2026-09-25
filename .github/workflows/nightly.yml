@@ -17,12 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Diagnose reachability (temporary)
-        run: |
-          apt-get update -qq && apt-get install -qq -y curl >/dev/null
-          curl -sv -o /tmp/body.html -w "\nHTTP %{http_code}\n" https://feeds.zeitgeists.org/region/los-angeles.json 2>&1 | tail -40
-          echo "--- first 500 bytes of body ---"
-          head -c 500 /tmp/body.html
+      - name: Install curl
+        run: apt-get update -qq && apt-get install -qq -y curl >/dev/null
 
       - name: Generate feed
         run: swift run GenerateFeed
