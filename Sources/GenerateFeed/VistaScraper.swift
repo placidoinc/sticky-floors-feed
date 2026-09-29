@@ -131,11 +131,22 @@ enum VistaScraper {
     }
 }
 
+/// Real bug, caught live (2026-09-29): the feed's raw screening title
+/// carries format suffixes Vista's own clean movie-page title doesn't
+/// ("Resident Evil 35mm" vs. "Resident Evil") — the doc comment this
+/// replaced assumed "Vista's own page titles don't carry that noise,"
+/// which is true of the *scraped* side but not the *feed* side being
+/// matched against it. Silently broke the hint for every Vista screening
+/// whose title carries a format tag (35mm/70mm/4K/3D), not just this one.
+private let formatSuffixPattern = try! NSRegularExpression(
+    pattern: #"\b((in|on) )?\d+mm\b|\b((in|on) )?4k( restoration)?\b|\b(in )?3-?d\b"#,
+    options: [.caseInsensitive])
+
 /// A loose, punctuation/case-insensitive key for matching a Vista scrape
-/// title against the feed's own raw screening title for that same film —
-/// not the app's full matchKey() (no need for the format/presenter/series
-/// stripping here, since Vista's own page titles don't carry that noise).
+/// title against the feed's own raw screening title for that same film.
 func looseTitleKey(_ s: String) -> String {
-    s.lowercased().replacingOccurrences(of: #"[^a-z0-9]+"#, with: " ", options: .regularExpression)
+    let range = NSRange(s.startIndex..., in: s)
+    let stripped = formatSuffixPattern.stringByReplacingMatches(in: s, range: range, withTemplate: "")
+    return stripped.lowercased().replacingOccurrences(of: #"[^a-z0-9]+"#, with: " ", options: .regularExpression)
         .trimmingCharacters(in: CharacterSet.whitespaces)
 }
