@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-01T09:08:30.857Z",
+  "generatedAt" : "2026-10-02T09:08:16.586Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -8,8 +8,6 @@
   ],
   "screenings" : [
     {
-      "feedDirectorHint" : "Zach Cregger",
-      "feedRuntimeHint" : 94,
       "rawTitle" : "Resident Evil 35mm",
       "start" : "2026-10-01T01:45:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4146?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
@@ -187,8 +185,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Zach Cregger",
-      "feedRuntimeHint" : 94,
       "rawTitle" : "Resident Evil 35mm",
       "start" : "2026-10-01T04:45:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4147?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
@@ -239,8 +235,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Zach Cregger",
-      "feedRuntimeHint" : 94,
       "rawTitle" : "Resident Evil 35mm",
       "start" : "2026-10-01T19:00:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4148?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
@@ -253,8 +247,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Zach Cregger",
-      "feedRuntimeHint" : 94,
       "rawTitle" : "Resident Evil 35mm",
       "start" : "2026-10-01T22:00:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4149?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
@@ -318,8 +310,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Chris Marrs Piliero",
-      "feedRuntimeHint" : 91,
       "rawTitle" : "Appofeniacs",
       "start" : "2026-10-02T02:00:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4129?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
