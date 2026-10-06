@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-06T09:08:35.475Z",
+  "generatedAt" : "2026-10-06T19:52:32.717Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -1355,6 +1355,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "George Melford",
+      "feedRuntimeHint" : 104,
+      "rawDescription" : "1931 • IN SPANISH WITH ENGLISH SUBTITLES • Introduction by Film Archivist Alejandra Espasande • This is the Spanish-language version Universal filmed on the same sets as the better-known English one, using a different cast and director. It has a different rhythm because it runs longer and plays certain scenes more fully. It’s a genuinely fun alternate masterpiece!  • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Drácula",
+      "start" : "2026-10-10T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "George Melford",
+          "rawName" : "Drácula",
+          "runtimeMinutes" : 104,
+          "year" : "1931"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Spike Lee",
       "feedRuntimeHint" : 122,
       "rawTitle" : "Get on the Bus 30th Anniversary Screening in 4K",
@@ -1589,6 +1609,26 @@
           "rawName" : "Clue",
           "runtimeMinutes" : 94,
           "year" : "1985"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Brian De Palma",
+      "feedRuntimeHint" : 98,
+      "rawDescription" : "1976 • This is one of the rare horror films that the Academy took seriously, with Oscar nominations for both Sissy Spacek and Piper Laurie. Brian De Palma directs it with real style, but what sticks is how personal it feels, like a nightmare version of high school that people instantly recognize. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Carrie",
+      "start" : "2026-10-11T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Brian De Palma",
+          "rawName" : "Carrie",
+          "runtimeMinutes" : 98,
+          "year" : "1976"
         }
       ]
     },
@@ -1935,6 +1975,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Kenny Ortega",
+      "feedRuntimeHint" : 96,
+      "rawDescription" : "1993 • Special Guest: The film's Production Designer, William Sandell • This one didn’t start as a “classic,” but it earned its place the old-fashioned way: people kept watching it every Halloween until it became a tradition. The three leads are the whole show, and they clearly know it, which is why the comedy works even when things get silly. It’s bright, quick, and very rewatchable! • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Hocus Pocus",
+      "start" : "2026-10-11T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Kenny Ortega",
+          "rawName" : "Hocus Pocus",
+          "runtimeMinutes" : 96,
+          "year" : "1993"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "John Huston",
       "feedRuntimeHint" : 127,
       "rawDescription" : "**Screenwriters**: Carol Sobieski from the stage play by Charles Strouse, Martin Charnin, Thomas Meehan and the comic strip by Harold Gray\n\n**Producer**: Ray Stark\n\nVidiots remembers the great **Tim Curry** with a special screening of the musical bonanza ***Annie*** for Tim Curry lovers of all ages!\n\n*You love money and power and capitalism? You know they&#8217;re never going to love you back. *Annie is the luckiest orphan in all of America. Plucked from the nightmarish orphanage run by man-crazy lush Miss Hannigan (in a perfectly out-of-pitch performance by Carol Burnett) and thrust into unimaginable wealth by millionaire Daddy Warbucks, Annie melts the capitalist&#8217;s heart, but still longs for her birth parents. Warbucks offers a reward to locate them, which brings out many money-hungry frauds including imposters Tim Curry and Bernadette Peters. Join us as we sing and cheer along and bet your bottom dollar that you&#8217;ll have a blast at this classic musical!\n\n**Picks from the Video Store**\n\nTake home more Tim Curry treasures on glorious physical media!\n\n*The Worst Witch, Legend, Muppet Treasure Island*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -2133,6 +2193,26 @@
           "rawName" : "American Psycho",
           "runtimeMinutes" : 102,
           "year" : "2000"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Tod Browning",
+      "feedRuntimeHint" : 74,
+      "rawDescription" : "1931 • This is the performance that defined Dracula for generations. The early sound-era filmmaking gives it a spooky stillness that actually helps the mood, like the castle air itself has gone cold. This film is a key “first wave” title that kicked off Universal’s monster era. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Dracula",
+      "start" : "2026-10-12T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Tod Browning",
+          "rawName" : "Dracula",
+          "runtimeMinutes" : 74,
+          "year" : "1931"
         }
       ]
     },
@@ -3350,6 +3430,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "F. W. Murnau",
+      "feedRuntimeHint" : 89,
+      "rawDescription" : "1922 - Silent • Live Accompaniment by Randy Woltz on the Mighty Wurlitzer • This is silent horror at its purest. And the behind-the-scenes story is amazing: it was made without permission as a Dracula film, and a court later ordered the prints destroyed. It survived against the odds. Actor Max Schreck’s makeup is one of the most enduring and memorable designs in horror. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Nosferatu",
+      "start" : "2026-10-17T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "F. W. Murnau",
+          "rawName" : "Nosferatu",
+          "runtimeMinutes" : 89,
+          "year" : "1922"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "George Miller",
       "feedRuntimeHint" : 118,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nAcademy Award winner Jack Nicholson stars as “the devil” opposite three witches played by superstar actresses Susan Sarandon, Academy Award winner Cher and Michelle Pfieffer in this offbeat thriller with a comic twist. In the quaint New England town of Eastwick, Alexandra, Jane and Sukie yearn to meet the man of their dreams. One rainy night, the women each express an overpowering need for just one dynamic male capable of challenging their liberated spirits, a man who could become their inspiration, their joy, their… everything. But take care with what you dream, for your dream may come true… as it does for the Witches of Eastwick.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: USA",
@@ -3501,6 +3601,26 @@
           "rawName" : "KEN RUSSELL'S THE DEVILS",
           "runtimeMinutes" : 114,
           "year" : "1971"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "F. W. Murnau",
+      "feedRuntimeHint" : 89,
+      "rawDescription" : "1922 - Silent • Live Accompaniment by Randy Woltz on the Mighty Wurlitzer • This is silent horror at its purest. And the behind-the-scenes story is amazing: it was made without permission as a Dracula film, and a court later ordered the prints destroyed. It survived against the odds. Actor Max Schreck’s makeup is one of the most enduring and memorable designs in horror. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Nosferatu",
+      "start" : "2026-10-18T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "F. W. Murnau",
+          "rawName" : "Nosferatu",
+          "runtimeMinutes" : 89,
+          "year" : "1922"
         }
       ]
     },
@@ -3731,6 +3851,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Mel Brooks",
+      "feedRuntimeHint" : 106,
+      "rawDescription" : "1974 • Introduction by Film Archivist Stan Taffel • Filmmaker Mel Brooks delivers a loving, laugh-out-loud tribute to classic horror in one of the funniest comedies of all time. Shot in gorgeous black-and-white with vintage-style sets, this is a pitch-perfect parody of Universal’s Frankenstein films.  • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Young Frankenstein",
+      "start" : "2026-10-18T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Mel Brooks",
+          "rawName" : "Young Frankenstein",
+          "runtimeMinutes" : 106,
+          "year" : "1974"
+        }
+      ]
+    },
+    {
       "feedRuntimeHint" : 120,
       "rawDescription" : "**Starring**: Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria, Harry Shearer\n\n*D&#8217;oh!* Spooky season just got more animated as **Vidiots** and our friends at **Stonecutters LA** are saluting one of the longest running Halloweenie television legacies ever &#8211; the brilliantly whacked-out *Treehouse of Horror* from *The Simpsons*. Join us as we screen **clips** from some of the best segments of its 30+ year run, host **trivia** for the Simpsons geek in your life (with prizes!), and chat with some special **surprise guests** from the *Simpsons* extended family! Come dressed as your favorite four fingered *Simpsons* character, there will be a **costume contest** as well as a **raffle**. Don&#8217;t miss this one of a kind afternoon of trivia, treats, tricks, and your favorite dysfunctional cartoon family!\n\nAll ticket sales and event proceeds directly benefit Vidiots Foundation, a 501(c)3 nonprofit organization.",
       "rawTitle" : "A Tribute to Treehouse of Horror",
@@ -3880,6 +4020,26 @@
           "rawName" : "ROY'S WORLD: BARRY GIFFORD'S CHICAGO",
           "runtimeMinutes" : 75,
           "year" : "2020"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Mel Brooks",
+      "feedRuntimeHint" : 106,
+      "rawDescription" : "1974 • Introduction by Film Archivist Stan Taffel • Filmmaker Mel Brooks delivers a loving, laugh-out-loud tribute to classic horror in one of the funniest comedies of all time. Shot in gorgeous black-and-white with vintage-style sets, this is a pitch-perfect parody of Universal’s Frankenstein films.  • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Young Frankenstein",
+      "start" : "2026-10-19T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Mel Brooks",
+          "rawName" : "Young Frankenstein",
+          "runtimeMinutes" : 106,
+          "year" : "1974"
         }
       ]
     },
@@ -5266,6 +5426,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Robert Wiene",
+      "feedRuntimeHint" : 77,
+      "rawDescription" : "1920 - Silent • Live Accompaniment by Randy Woltz on the Mighty Wurlitzer • Introduction by Film Historian Randy Haberkamp • This is one of the cornerstones of horror and one of the most striking example of German Expressionism. If you’re interested in film history, this film is essential. It's eerie fun. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Cabinet of Dr. Caligari",
+      "start" : "2026-10-24T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Robert Wiene",
+          "rawName" : "The Cabinet of Dr. Caligari",
+          "runtimeMinutes" : 77,
+          "year" : "1920"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Stephen Norrington",
       "feedRuntimeHint" : 120,
       "rawTitle" : "Blade in 4K",
@@ -5431,6 +5611,26 @@
       ],
       "works" : [
 
+      ]
+    },
+    {
+      "feedDirectorHint" : "Tobe Hooper",
+      "feedRuntimeHint" : 114,
+      "rawDescription" : "1982 • Introduced by \"Horror Nerd\" comedian Samantha Hale • A comfortable suburban home, a close-knit family, and then absolute supernatural mayhem: Poltergeist knows exactly how to hook an audience. Once the little girl says “They’re here,” the film keeps building in scale and intensity without losing its human center. Nominated for three Academy Awards. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Poltergeist",
+      "start" : "2026-10-25T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Tobe Hooper",
+          "rawName" : "Poltergeist",
+          "runtimeMinutes" : 114,
+          "year" : "1982"
+        }
       ]
     },
     {
@@ -5712,6 +5912,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "James Whale",
+      "feedRuntimeHint" : 75,
+      "rawDescription" : "1935 • Introduction by Author Julian David Stone • This is one of the rare sequels people argue is even better than the original. It’s funny in an odd, dark way, it moves fast, and it has real emotion under the horror. Elsa Lanchester’s screen time is short but legendary, and the film’s look and spirit influenced decades of monster movies. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Bride of Frankenstein",
+      "start" : "2026-10-25T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "James Whale",
+          "rawName" : "Bride of Frankenstein",
+          "runtimeMinutes" : 75,
+          "year" : "1935"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Josh Malerman",
       "feedRuntimeHint" : 91,
       "rawDescription" : "Filmmaker\/author\/musician Josh Malerman has done it all. He’s a New York Times best-selling author. His books have been adapted into major films, including *Bird Box*, the most-watched movie on Netflix starring Sandra Bullock. He wrote the theme song to the Emmy Award winning eleven season series *Shameless*. He spent six years on tour traveling the world, and to this day lives a carnival-esque life filled with artistic endeavors in Michigan. And yet with every new novel and creative venture, Josh must face the terror of the blank page and accept the rollercoaster ride of living the life of an artist. Now the audience can ride alongside Josh as he traverses the ups and downs of writing his next book. *From producers Scott Beck and Bryan Woods (A Quiet Place, Haunt, Heretic). *\n\n***Filmmaker, Author, and Musician Josh Malerman will be in attendance.***\n\nFrom producers Beck\/Woods (A Quiet Place, Haunt, Heretic), Strange Loop, and Spin a Black Yarn.\n\nA part of *****TWISTED SIGNALS, ***a film festival from Antenna Releasing and its partners.",
@@ -5860,6 +6080,26 @@
           "rawName" : "The Exorcist on 35mm",
           "runtimeMinutes" : 132,
           "year" : "1973"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "George A. Romero",
+      "feedRuntimeHint" : 96,
+      "rawDescription" : "1968 • Introduction by Author Julian David Stone • This is the film that basically rewired zombie culture. One of the most famous bits of movie-business trivia is that it ended up in the public domain because of a release-time copyright notice mistake, which is part of why it spread everywhere. Duane Jones as the lead was also a big deal for the time, and he’s terrific. • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Night of the Living Dead",
+      "start" : "2026-10-26T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "George A. Romero",
+          "rawName" : "Night of the Living Dead",
+          "runtimeMinutes" : 96,
+          "year" : "1968"
         }
       ]
     },
@@ -7005,6 +7245,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Rupert Julian",
+      "feedRuntimeHint" : 107,
+      "rawDescription" : "1925 - Silent • Live Accompaniment by Robert York on the Mighty Wurlitzer • Introduced by Film Archivist Stan Taffel • In this original silent version of “Phantom” Lon Chaney's performance evokes both terror and sadness, even in the early scenes when only his shadow is shown. There is nothing like the original! • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Phantom of the Opera",
+      "start" : "2026-10-31T21:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Rupert Julian",
+          "rawName" : "The Phantom of the Opera",
+          "runtimeMinutes" : 107,
+          "year" : "1925"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Curry Barker",
       "feedRuntimeHint" : 108,
       "rawDescription" : "You’ve heard the whispers. You’ve seen the hype. Now experience the horror phenomenon that has audiences obsessed. Come see what everyone is talking about&#8230;or come back because you love this movie more than anything in the whole f***ing world!",
@@ -7139,6 +7399,26 @@
           "rawName" : "Halloween",
           "runtimeMinutes" : 91,
           "year" : "1978"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Rupert Julian",
+      "feedRuntimeHint" : 107,
+      "rawDescription" : "1925 - Silent • Live Accompaniment by Robert York on the Mighty Wurlitzer • Introduced by Film Archivist Stan Taffel • In this original silent version of “Phantom” Lon Chaney's performance evokes both terror and sadness, even in the early scenes when only his shadow is shown. There is nothing like the original! • Show begins with spooky music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Phantom of the Opera",
+      "start" : "2026-11-01T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Rupert Julian",
+          "rawName" : "The Phantom of the Opera",
+          "runtimeMinutes" : 107,
+          "year" : "1925"
         }
       ]
     },
@@ -7688,6 +7968,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Ron Clements, John Musker",
+      "feedRuntimeHint" : 83,
+      "rawDescription" : "1989 • This is the film that helped kick off Disney’s modern animation run, and you can feel the confidence in the music and the storytelling. It won two Oscars, one for the score and one for “Under the Sea,” and the songs still play like hits because they were built like Broadway numbers. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Little Mermaid",
+      "start" : "2026-11-07T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Ron Clements, John Musker",
+          "rawName" : "The Little Mermaid",
+          "runtimeMinutes" : 83,
+          "year" : "1989"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Adriano Aprà",
       "feedRuntimeHint" : 62,
       "rawTitle" : "Rossellini Through His Own Eyes (Rossellini visto da Rossellini)",
@@ -7703,6 +8003,26 @@
           "rawName" : "Rossellini Through His Own Eyes (Rossellini visto da Rossellini)",
           "runtimeMinutes" : 62,
           "year" : "1993"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Orson Welles",
+      "feedRuntimeHint" : 119,
+      "rawDescription" : "1941 • Introduction by Author Harlan Lebo • Nominated for nine Academy Awards and winner for its screenplay, this is one film that’s worth seeing on a big screen.   • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Citizen Kane",
+      "start" : "2026-11-08T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Orson Welles",
+          "rawName" : "Citizen Kane",
+          "runtimeMinutes" : 119,
+          "year" : "1941"
         }
       ]
     },
@@ -7742,6 +8062,19 @@
           "runtimeMinutes" : 113,
           "year" : "2002"
         }
+      ]
+    },
+    {
+      "rawDescription" : "With Special Guest: Author and Filmmaker Steven C. Smith • Step back in time with a delightful mix of vintage film shorts and live music by Janet Klein and Her Parlor Boys. Join us for a one-of-a-kind journey through the cheeky, charming, and irresistible past.",
+      "rawTitle" : "Janet Klein and Her Parlor Boys",
+      "start" : "2026-11-08T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -7931,6 +8264,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "John Huston",
+      "feedRuntimeHint" : 100,
+      "rawDescription" : "1948  • A hurricane, a hotel full of uneasy people, Humphrey Bogart facing off with Edward G. Robinson — Key Largo hardly needs more to get your attention. Directed by John Huston, it was the fourth and final screen pairing of Bogart and Bacall.  • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Key Largo",
+      "start" : "2026-11-14T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "John Huston",
+          "rawName" : "Key Largo",
+          "runtimeMinutes" : 100,
+          "year" : "1948"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Park Chan-ok",
       "feedRuntimeHint" : 125,
       "rawTitle" : "Jealousy Is My Middle Name (질투는 나의 힘)  in 35mm",
@@ -7950,6 +8303,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Hal Ashby",
+      "feedRuntimeHint" : 92,
+      "rawDescription" : "1971 • Introduction by Screenwriter Larry Karazewski • Screenwriter Larry Karazewski (Ed Wood, Big Eyes) joins us to introduce this wonderfully quirky film. The film was directed by Hal Ashby, who had a gift for making odd, deeply human films. Over time, it has become a beloved cult favorite. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Harold and Maude",
+      "start" : "2026-11-15T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Hal Ashby",
+          "rawName" : "Harold and Maude",
+          "runtimeMinutes" : 92,
+          "year" : "1971"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Wes Anderson",
       "feedRuntimeHint" : 99,
       "rawTitle" : "The Grand Budapest Hotel in 35mm",
@@ -7965,6 +8338,26 @@
           "rawName" : "The Grand Budapest Hotel in 35mm",
           "runtimeMinutes" : 99,
           "year" : "2014"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Sam Taylor",
+      "feedRuntimeHint" : 80,
+      "rawDescription" : "1927 - Silent • Live Accompaniment by Brett Valliant on the Mighty Wurlitzer • Introduction by Film Archivist Stan Taffel • This film stars Mary Pickford late in the silent era, still proving she could carry a comedy on sheer timing and personality, and she also produced the film. The cinematography was strong enough to earn an early Academy Award nomination for Charles Rosher.",
+      "rawTitle" : "My Best Girl",
+      "start" : "2026-11-15T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Sam Taylor",
+          "rawName" : "My Best Girl",
+          "runtimeMinutes" : 80,
+          "year" : "1927"
         }
       ]
     },
@@ -8252,6 +8645,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "F. W. Murnau",
+      "feedRuntimeHint" : 94,
+      "rawDescription" : "1927 - Silent • With Live Accompaniment by Mark Herman on the Mighty Wurlitzer • Introduction by Randy Haberkamp • Silent film doesn’t get more powerful than this, and it’s one of those titles that reminds you what the medium could do without a word of dialogue. At the very first Academy Awards, Janet Gaynor won Best Actress for this film, and the cinematography and camera movement were way ahead of their time.",
+      "rawTitle" : "Sunrise: A Song of Two Humans",
+      "start" : "2026-11-21T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "F. W. Murnau",
+          "rawName" : "Sunrise: A Song of Two Humans",
+          "runtimeMinutes" : 94,
+          "year" : "1927"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Paul Thomas Anderson",
       "feedRuntimeHint" : 72,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nCameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at Carnegie Hall. This is the movie.\n\nDirected and shot on 35mm and 16mm by Oscar-winning filmmaker Paul Thomas Anderson (ONE BATTLE AFTER ANOTHER), the crew includes filmmaker and actor Benny Safdie (THE SMASHING MACHINE) and music producer Ariel Rechtshaid (Grammy winner for albums with Vampire Weekend and Adele).\n\nGQ praised Cameron Winter’s show at Carnegie Hall as “staggeringly good,” and Nick Cave said he has a “a glorious, emotive voice with brilliant, blistering words, a racked and wondrous thing.” Winter’s solo album *Heavy Metal* was named one of the best of the year by Pitchfork, Rolling Stone, Paste and Mojo and Geese’s last record *Getting Killed* was named the best album of 2025 by The New Yorker, NME and Stereogum.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Janus Films and Criterion\n\nCOUNTRY: USA",
@@ -8268,6 +8681,26 @@
           "rawName" : "CAMERON WINTER AT CARNEGIE HALL",
           "runtimeMinutes" : 72,
           "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Robert Rossen",
+      "feedRuntimeHint" : 134,
+      "rawDescription" : "1961 • Paul Newman gives one of his best performances, and Jackie Gleason is great in a role people still talk about. This was a major Oscar contender and it won for both Art Direction and Cinematography. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Hustler",
+      "start" : "2026-11-22T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Robert Rossen",
+          "rawName" : "The Hustler",
+          "runtimeMinutes" : 134,
+          "year" : "1961"
         }
       ]
     },
@@ -8326,6 +8759,26 @@
           "rawName" : "CAMERON WINTER AT CARNEGIE HALL",
           "runtimeMinutes" : 72,
           "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "William Wyler",
+      "feedRuntimeHint" : 98,
+      "rawDescription" : "1935 • Introduction by Film Historian Antonia Carlotta • This is a sweet, funny little surprise from 1935, directed by William Wyler and written by Preston Sturges — so you get that mix of warmth and sharp jokes. Margaret Sullavan is wonderful. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Good Fairy",
+      "start" : "2026-11-22T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "William Wyler",
+          "rawName" : "The Good Fairy",
+          "runtimeMinutes" : 98,
+          "year" : "1935"
         }
       ]
     },
@@ -8627,6 +9080,46 @@
       ]
     },
     {
+      "feedDirectorHint" : "Vincente Minnelli",
+      "feedRuntimeHint" : 114,
+      "rawDescription" : "1944 • A sweet, wonderful movie starring the beloved Judy Garland, directed by Vincente Minnelli whom Garland married after making the film.  The song “Have Yourself a Merry Little Christmas” was introduced in this film by Garland, as well as “The Trolley Song”!  This film is a shining moment for the heyday of MGM musicals. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Meet Me in St. Louis",
+      "start" : "2026-11-28T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Vincente Minnelli",
+          "rawName" : "Meet Me in St. Louis",
+          "runtimeMinutes" : 114,
+          "year" : "1944"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Ernst Lubitsch",
+      "feedRuntimeHint" : 99,
+      "rawDescription" : "1940 • Introduction by Randy Haberkamp • Directed by Ernst Lubitsch, this is one of the most charming romantic comedies ever made. Jimmy Stewart and Margaret Sullavan are wonderful together, and the shop itself becomes a whole little world, full of workday frustrations, quiet hopes, and small human comedy.  • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Shop Around the Corner",
+      "start" : "2026-11-29T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Ernst Lubitsch",
+          "rawName" : "The Shop Around the Corner",
+          "runtimeMinutes" : 99,
+          "year" : "1940"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Roberto Rossellini",
       "feedRuntimeHint" : 118,
       "rawTitle" : "Europe ’51",
@@ -8661,6 +9154,26 @@
           "rawName" : "Once Upon a Time… in Hollywood in 70mm",
           "runtimeMinutes" : 161,
           "year" : "2019"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "George Seaton",
+      "feedRuntimeHint" : 96,
+      "rawDescription" : "1947 • Introduction by Author\/Historian Jeremy Arnold • One of the most beloved holiday films of all time, this enchanting story follows a department store Santa Claus who just might be the real thing. • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Miracle on 34th Street",
+      "start" : "2026-11-29T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "George Seaton",
+          "rawName" : "Miracle on 34th Street",
+          "runtimeMinutes" : 96,
+          "year" : "1947"
         }
       ]
     },
@@ -8723,11 +9236,250 @@
       ]
     },
     {
+      "feedDirectorHint" : "Mitchell Leisen",
+      "feedRuntimeHint" : 94,
+      "rawDescription" : "1940 • Introduction by Film Historian Randy Haberkamp • This is a perfect “cozy Christmas” movie, the kind you watch and then wonder why it isn’t better known. Barbara Stanwyck can break your heart and make you laugh in the same scene, Fred MacMurray is wonderfully grounded, and Beulah Bondi gives it that home-and-hearth feeling you want this time of year. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Remember the Night",
+      "start" : "2026-12-05T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Mitchell Leisen",
+          "rawName" : "Remember the Night",
+          "runtimeMinutes" : 94,
+          "year" : "1940"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "John McTiernan",
+      "feedRuntimeHint" : 132,
+      "rawDescription" : "1988 • Is this a holiday film? You be the judge. It’s an action-packed adventure thriller that blends high-stakes thrills with sharp humor. Bruce Willis became an action icon, making this explosive classic a must-watch every holiday season. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Die Hard",
+      "start" : "2026-12-06T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "John McTiernan",
+          "rawName" : "Die Hard",
+          "runtimeMinutes" : 132,
+          "year" : "1988"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Roy Del Ruth",
+      "feedRuntimeHint" : 116,
+      "rawDescription" : "1947 • Introduction by Film Archivist Stan Taffel • This is a warm holiday comedy with a big heart and a New York setting that feels like a postcard from another era. A great pick for the season!  • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "It Happened on 5th Avenue",
+      "start" : "2026-12-06T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Roy Del Ruth",
+          "rawName" : "It Happened on 5th Avenue",
+          "runtimeMinutes" : 116,
+          "year" : "1947"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Jon Favreau",
+      "feedRuntimeHint" : 97,
+      "rawDescription" : "2003 • A Christmas comedy that became an instant classic, filled with heart, humor, and holiday magic. It's a festive must-watch every year!  • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Elf",
+      "start" : "2026-12-07T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Jon Favreau",
+          "rawName" : "Elf",
+          "runtimeMinutes" : 97,
+          "year" : "2003"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Brian Henson",
+      "feedRuntimeHint" : 86,
+      "rawDescription" : "1992 • Introduction by Author Jeremy Arnold • A Christmas movies for everyone. Kids laugh at the Muppets and adults catch the darker Dickens edges that still come through. With an audience, it’s pure holiday comfort and it moves at a great clip. • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Muppet Christmas Carol",
+      "start" : "2026-12-12T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Brian Henson",
+          "rawName" : "The Muppet Christmas Carol",
+          "runtimeMinutes" : 86,
+          "year" : "1992"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Michael Curtiz",
+      "feedRuntimeHint" : 120,
+      "rawDescription" : "1954 • Introduction by Author Jeremy Arnold • A heartwarming holiday classic filled with dazzling musical numbers, lavish Technicolor sets, and timeless charm. Bing Crosby’s rendition of the title song remains one of the most beloved Christmas recordings of all time. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "White Christmas",
+      "start" : "2026-12-13T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Michael Curtiz",
+          "rawName" : "White Christmas",
+          "runtimeMinutes" : 120,
+          "year" : "1954"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Charlie Chaplin",
+      "feedRuntimeHint" : 95,
+      "rawDescription" : "1925 - Silent • Live Accompaniment by Robert York on the Mighty Wurlitzer • Introduction by Film Archivist Stan Taffel • This is one of the great silent comedies from the master, Charlie Chaplin. Even after all these years, it's still hilarious. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "The Gold Rush",
+      "start" : "2026-12-13T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Charlie Chaplin",
+          "rawName" : "The Gold Rush",
+          "runtimeMinutes" : 95,
+          "year" : "1925"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Chris Columbus",
+      "feedRuntimeHint" : 103,
+      "rawDescription" : "1990 • This is the rare modern holiday movie that truly became a classic. Macaulay Culkin carries it with confidence and sweetness and John Williams’s score gives it a heartbeat. It's that perfect family-friendly offering where kids are delighted and adults get plenty to enjoy. • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Home Alone",
+      "start" : "2026-12-14T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Chris Columbus",
+          "rawName" : "Home Alone",
+          "runtimeMinutes" : 103,
+          "year" : "1990"
+        }
+      ]
+    },
+    {
       "rawDescription" : "Monthly short film festival. Watch and vote. Audience award to the best short film each month. Annual championship in DECEMBER.",
       "rawTitle" : "MOVIE SCREENERS CLUB (Thu. 9\/17) 7:30pm",
       "start" : "2026-12-18T03:30:00.000Z",
       "ticketURL" : "https:\/\/www.eventbrite.com\/e\/movie-screeners-club-thu-917-730pm-tickets-1654021636239",
       "venueID" : "gardena",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "rawDescription" : "1920s Silent Short Films, Pipe Organ and Sing-Along • Live Accompaniment by Randy Woltz on the Mighty Wurlitzer • Put on your favorite holiday sweater, bring friends and family, and get ready for an evening of fun silent movies and a rousing holiday sing-along! • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "A Silent Night at the Music Hall",
+      "start" : "2026-12-19T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "rawDescription" : "1920s Silent Short Films, Pipe Organ and Sing-Along • Live Accompaniment by Randy Woltz on the Mighty Wurlitzer • Put on your favorite holiday sweater, bring friends and family, and get ready for an evening of fun silent movies and a rousing holiday sing-along! • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "A Silent Night at the Music Hall",
+      "start" : "2026-12-20T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "feedDirectorHint" : "Frank Capra",
+      "feedRuntimeHint" : 131,
+      "rawDescription" : "1947 • Frank Capra’s most beloved film did not become a holiday institution overnight, which makes its long afterlife all the more satisfying. James Stewart gives one of his richest performances, and the supporting cast makes the town of Bedford Falls feel like home. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "It's a Wonderful Life",
+      "start" : "2026-12-20T22:30:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Frank Capra",
+          "rawName" : "It's a Wonderful Life",
+          "runtimeMinutes" : 131,
+          "year" : "1946"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Frank Capra",
+      "feedRuntimeHint" : 131,
+      "rawDescription" : "1947 • Frank Capra’s most beloved film did not become a holiday institution overnight, which makes its long afterlife all the more satisfying. James Stewart gives one of his richest performances, and the supporting cast makes the town of Bedford Falls feel like home. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "It's a Wonderful Life",
+      "start" : "2026-12-21T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Frank Capra",
+          "rawName" : "It's a Wonderful Life",
+          "runtimeMinutes" : 131,
+          "year" : "1946"
+        }
+      ]
+    },
+    {
+      "rawDescription" : "• Featuring the Old Town Music Hall Jazz Band • With Eve Elliot and Randy Woltz • Come spend New Year’s Eve at Old Town Music Hall with live music, classic movies, and a room full of good company. The Old Town Music Hall Jazz Band brings the bright, joyful sounds of the past for a night that feels like time traveling. Film historian Randy Haberkamp brings a salute to classic Hollywood, including clips from favorite films plus a silent short comedy with live accompaniment on our Mighty Wurlitzer Theatre Pipe Organ. Complimentary desserts are included. Vintage attire is welcome (feathers, bow ties, and general razzle-dazzle encouraged but not required), so bring friends and welcome 1927, oops, we mean 2027 in the most delightful way possible! Show begins at 9pm and ends just after midnight.",
+      "rawTitle" : "Annual New Year's Eve",
+      "start" : "2027-01-01T05:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
       "videoFormats" : [
 
       ],
@@ -8926,6 +9678,18 @@
       "neighborhood" : "961 Broxton Ave, Westwood",
       "organizerID" : "americancinematheque",
       "ticketingURL" : "https:\/\/www.americancinematheque.com"
+    },
+    {
+      "address" : "140 Richmond St, El Segundo",
+      "bio" : "An El Segundo single-screen theater showing classic films, with shows opening on its Mighty Wurlitzer theatre organ.",
+      "city" : "Los Angeles",
+      "feedPlaceID" : "https:\/\/zeitgeists.org\/place\/0c85907d-16bd-4aa6-af99-cfc7a9f43032",
+      "id" : "oldtown",
+      "latitude" : 33.9175902,
+      "longitude" : -118.4169606,
+      "name" : "Old Town Music Hall",
+      "neighborhood" : "El Segundo",
+      "ticketingURL" : "https:\/\/www.oldtownmusichall.org"
     }
   ]
 }
