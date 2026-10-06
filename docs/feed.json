@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-05T09:09:21.168Z",
+  "generatedAt" : "2026-10-06T09:08:35.475Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -8,57 +8,12 @@
   ],
   "screenings" : [
     {
-      "feedDirectorHint" : "John Carpenter",
-      "feedRuntimeHint" : 109,
-      "rawTitle" : "The Thing in 4K",
-      "start" : "2026-10-05T01:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/the-thing-019fcda7-1449-ab44-0006-af9e9afec03e",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "John Carpenter",
-          "rawName" : "The Thing in 4K",
-          "runtimeMinutes" : 109,
-          "year" : "1982"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Charles Lamont",
-      "feedRuntimeHint" : 79,
-      "rawTitle" : "Abbott and Costello Meet the Mummy \/ The Bowery Boys Meet the Monsters",
-      "start" : "2026-10-05T01:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-4-abbott-and-costello-meet-the-mummy-the-bowery-boys-meet-the-monsters",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm",
-        "16mm"
-      ],
-      "works" : [
-        {
-          "director" : "Charles Lamont",
-          "rawName" : "Abbott and Costello Meet the Mummy",
-          "runtimeMinutes" : 79,
-          "year" : "1955"
-        },
-        {
-          "director" : "Edward Bernds",
-          "rawName" : "The Bowery Boys Meet the Monsters",
-          "runtimeMinutes" : 65,
-          "year" : "1954"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Isabel Sandoval",
-      "feedRuntimeHint" : 120,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Filipino with English subtitles*\n\nDahlia is a police officer in 1970s Manila tasked with investigating a series of high-profile robberies. The only problem? She’s also the one conducting the robberies. And to complicate matters further, her ex-lover is also assigned the case as an outside consultant. The temperature’s about to get hotter on those sultry summer nights.\n\nIsabel Sandoval returns with a sultry noir that only could have been created with someone with a keen understand of mood and aesthetic – a beautiful melange of multiple genres and moods, MOONGLOW is a stunning ode to longing, desire and the price we all have to pay for love. A stunning soundtrack and incredible performances complete an already enduring package that is going to seduce, charm and delight everyone who gets to experience it.\n\nFORMAT: DCP\n\nCOUNTRY: Philippines\/Taiwan\/Japan",
-      "rawTitle" : "MOONGLOW",
-      "start" : "2026-10-05T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/moonglow-10-04-2026",
+      "feedRuntimeHint" : 84,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nWritten and directed by Isabel Sandoval, LINGUA FRANCA follows an undocumented Filipina trans woman Olivia (Isabel Sandoval) after she has secured a job as a live-in caregiver for Olga (Lynn Cohen), an elderly Russian woman in Brooklyn’s Brighton Beach neighborhood. Olivia’s main priority is to secure a green card to stay in America. But when she unexpectedly becomes romantically involved with Olga’s adult grandson Alex (Eamon Farren), issues around identity, civil rights and immigration threaten her very existence.\n\nFORMAT: DCP\n\nDISTRIBUTOR: ARRAY\n\nCOUNTRY: USA\/Phillippines",
+      "rawTitle" : "LINGUA FRANCA",
+      "start" : "2026-10-06T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/lingua-franca-10-05-2026",
       "venueID" : "losfeliz",
       "videoFormats" : [
         "DCP"
@@ -66,151 +21,10 @@
       "works" : [
         {
           "director" : "Isabel Sandoval",
-          "rawName" : "MOONGLOW",
-          "runtimeMinutes" : 120,
-          "year" : "2026"
+          "rawName" : "LINGUA FRANCA",
+          "runtimeMinutes" : 84,
+          "year" : "2019"
         }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Mick Jackson",
-      "feedRuntimeHint" : 129,
-      "rawDescription" : "**Screenwriter**: Lawrence Kasdan\n\n**Producer:** Kevin Costner, Lawrence Kasdan, Jim Wilson\n\nIconic diva Whitney Houston delivers an electric performance in this glamorous and show-stopping romance. Kevin Costner plays former Secret Service agent who grudgingly takes an assignment to protect a pop idol who has been threatened by a crazed fan. At first, the safety-obsessed bodyguard and the self-indulgent diva totally clash. But before long, all that tension sparks fireworks of another sort, and the love-averse tough guy is torn between duty and romance. Don&#8217;t miss all the music (including Whitney&#8217;s cover of Dolly Parton&#8217;s &#8220;I Will Always Love You&#8221;), the swoon-worthy romance, and the showmanship of the Princess of Pop Whitney Houston!\n\n**Picks from the Video Store**\n\nBring home more Whitney on physical media tonight!\n\n*Waiting to Exhale, The Preacher&#8217;s Wife, Whitney Houston: Greatest Hits*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "The Bodyguard",
-      "start" : "2026-10-05T02:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672342",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Mick Jackson",
-          "rawName" : "The Bodyguard",
-          "runtimeMinutes" : 129,
-          "year" : "1992"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Bassam Tariq",
-      "feedRuntimeHint" : 111,
-      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
-      "start" : "2026-10-05T02:45:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4128?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
-      "feedDirectorHint" : "Stanley Kubrick",
-      "feedRuntimeHint" : 144,
-      "rawDescription" : "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren&#8217;t prepared for the madness that lurks within.",
-      "rawTitle" : "The Shining",
-      "start" : "2026-10-05T03:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415455",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Stanley Kubrick",
-          "rawName" : "The Shining",
-          "runtimeMinutes" : 144,
-          "year" : "1980"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Alex Huston Fischer, Eleanor Wilson",
-      "feedRuntimeHint" : 105,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nOn the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Black Bear Pictures\n\nCOUNTRY: UK\/USA\/Australia",
-      "rawTitle" : "WICKER",
-      "start" : "2026-10-05T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/wicker-10-04-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Alex Huston Fischer, Eleanor Wilson",
-          "rawName" : "WICKER",
-          "runtimeMinutes" : 105,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Paul Wright",
-      "feedRuntimeHint" : 87,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nReaching a breaking point in his life, frustrated by his dead-end job and his endless loneliness, Dylan embarks on a week of self-destructive experiences, each one designed to push his boundaries, break his barriers and make him finally feel alive. But each daring encounter brings with it danger and the risk that he may have to face his inner demons. \n\nPaul Wright’s ode to the act of living is filled with electric energy from a daring performance by George MacKay who bares his very soul on the screen as the unique and troubled Dylan – Scotland becomes the backdrop for a dangerous and challenging journey that shakes the audience to its very core – here is a brave, moving piece of cinema that will leave a scar for anyone who watches it. Powerful, urgent and unique, filmmaking at its singular best.\n\nFORMAT: DCP\n\nCOUNTRY: UK",
-      "rawTitle" : "MISSION",
-      "start" : "2026-10-05T05:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/mission-10-04-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Paul Wright",
-          "rawName" : "MISSION",
-          "runtimeMinutes" : 87,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Bassam Tariq",
-      "feedRuntimeHint" : 111,
-      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
-      "start" : "2026-10-05T19:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4109?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
-      "feedDirectorHint" : "Walter Lang",
-      "feedRuntimeHint" : 117,
-      "rawTitle" : "There’s No Business Like Show Business",
-      "start" : "2026-10-05T21:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/theres-no-business-like-show-business-019fce20-c52d-80ff-535a-88bc053ac702",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Walter Lang",
-          "rawName" : "There’s No Business Like Show Business",
-          "runtimeMinutes" : 117,
-          "year" : "1954"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Bassam Tariq",
-      "feedRuntimeHint" : 111,
-      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
-      "start" : "2026-10-05T23:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4117?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -234,22 +48,61 @@
       ]
     },
     {
-      "feedDirectorHint" : "Isabel Sandoval",
-      "feedRuntimeHint" : 84,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nWritten and directed by Isabel Sandoval, LINGUA FRANCA follows an undocumented Filipina trans woman Olivia (Isabel Sandoval) after she has secured a job as a live-in caregiver for Olga (Lynn Cohen), an elderly Russian woman in Brooklyn’s Brighton Beach neighborhood. Olivia’s main priority is to secure a green card to stay in America. But when she unexpectedly becomes romantically involved with Olga’s adult grandson Alex (Eamon Farren), issues around identity, civil rights and immigration threaten her very existence.\n\nFORMAT: DCP\n\nDISTRIBUTOR: ARRAY\n\nCOUNTRY: USA\/Phillippines",
-      "rawTitle" : "LINGUA FRANCA",
-      "start" : "2026-10-06T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/lingua-franca-10-05-2026",
-      "venueID" : "losfeliz",
+      "feedDirectorHint" : "Daniel Petrie",
+      "feedRuntimeHint" : 103,
+      "rawTitle" : "Resurrection in 4K with Ellen Burstyn",
+      "start" : "2026-10-06T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/resurrection-with-ellen-burstyn-019fce4f-6735-e9e2-7f81-f98161be92de",
+      "venueID" : "academy",
       "videoFormats" : [
-        "DCP"
+
       ],
       "works" : [
         {
-          "director" : "Isabel Sandoval",
-          "rawName" : "LINGUA FRANCA",
-          "runtimeMinutes" : 84,
-          "year" : "2019"
+          "director" : "Daniel Petrie",
+          "rawName" : "Resurrection in 4K with Ellen Burstyn",
+          "runtimeMinutes" : 103,
+          "year" : "1980"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Ken Russell",
+      "feedRuntimeHint" : 117,
+      "rawDescription" : "An enduring, singular masterpiece of cinema starring Academy Award®-winner Vanessa Redgrave and Oliver Reed, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell.\n\nAssembled from the original camera negative, this new 4K restoration presents Ken Russell’s definitive vision of THE DEVILS by referencing the edit he privately constructed in 2004. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.",
+      "rawTitle" : "Ken Russell's The Devils",
+      "start" : "2026-10-06T02:30:00.000Z",
+      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2535\/seats",
+      "venueID" : "egyptian",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Ken Russell",
+          "rawName" : "Ken Russell's The Devils",
+          "runtimeMinutes" : 117,
+          "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Herk Harvey",
+      "feedRuntimeHint" : 78,
+      "rawDescription" : "**Screenwriter**: John Clifford\n\n**Producer**: Herk Harvey\n\nLose yourself in the surreal nightmare world of Herk Harvey&#8217;s indie horror masterpiece *Carnival of Souls*.  The only feature film of the educational film director that brought us such classic Social Hygiene films like *&#8220;None for the Road,&#8221; &#8220;The Snob,&#8221;* and the best VD film ever made &#8211; *&#8220;The Innocent Party,&#8221; Carnival of Souls* is an atmospheric treasure of dread, suspense, and crafty-artistry that continues to influence horror over six decades later with it&#8217;s shocking twist ending. Mary Henry (the iconic Candace Hilligoss) ends up the sole survivor of a fatal car accident through mysterious circumstances. Trying to put the incident behind her, she moves to Utah and takes a job as a church organist. But her fresh start is interrupted by visions of a fiendish man. As the visions begin to occur more frequently, Mary finds herself drawn to the deserted carnival on the outskirts of town. The strangely alluring carnival may hold the secret to her tragic past. With an abundance of eerie black and white imagery, hallucinatory scenes, and psychological trickery, you&#8217;ll want to get your tickets to this *Carnival* before it&#8217;s too late!\n\n**Picks from the Video Store**\n\nTake home more vintage horror tonight!\n\n*The Eye of the Devil, The Bad Seed, The Innocents*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Carnival of Souls",
+      "start" : "2026-10-06T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4675170",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Herk Harvey",
+          "rawName" : "Carnival of Souls",
+          "runtimeMinutes" : 78,
+          "year" : "1962"
         }
       ]
     },
@@ -280,6 +133,20 @@
       ]
     },
     {
+      "feedDirectorHint" : "Bassam Tariq",
+      "feedRuntimeHint" : 111,
+      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
+      "start" : "2026-10-06T02:30:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4118?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "Ken Russell",
       "feedRuntimeHint" : 114,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nAn enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Clockwork\n\nCOUNTRY: UK",
@@ -297,79 +164,6 @@
           "runtimeMinutes" : 114,
           "year" : "1971"
         }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Herk Harvey",
-      "feedRuntimeHint" : 78,
-      "rawDescription" : "**Screenwriter**: John Clifford\n\n**Producer**: Herk Harvey\n\nLose yourself in the surreal nightmare world of Herk Harvey&#8217;s indie horror masterpiece *Carnival of Souls*.  The only feature film of the educational film director that brought us such classic Social Hygiene films like *&#8220;None for the Road,&#8221; &#8220;The Snob,&#8221;* and the best VD film ever made &#8211; *&#8220;The Innocent Party,&#8221; Carnival of Souls* is an atmospheric treasure of dread, suspense, and crafty-artistry that continues to influence horror over six decades later with it&#8217;s shocking twist ending. Mary Henry (the iconic Candace Hilligoss) ends up the sole survivor of a fatal car accident through mysterious circumstances. Trying to put the incident behind her, she moves to Utah and takes a job as a church organist. But her fresh start is interrupted by visions of a fiendish man. As the visions begin to occur more frequently, Mary finds herself drawn to the deserted carnival on the outskirts of town. The strangely alluring carnival may hold the secret to her tragic past. With an abundance of eerie black and white imagery, hallucinatory scenes, and psychological trickery, you&#8217;ll want to get your tickets to this *Carnival* before it&#8217;s too late!\n\n**Picks from the Video Store**\n\nTake home more vintage horror tonight!\n\n*The Eye of the Devil, The Bad Seed, The Innocents*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Carnival of Souls",
-      "start" : "2026-10-06T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4675170",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Herk Harvey",
-          "rawName" : "Carnival of Souls",
-          "runtimeMinutes" : 78,
-          "year" : "1962"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Ken Russell",
-      "feedRuntimeHint" : 117,
-      "rawDescription" : "An enduring, singular masterpiece of cinema starring Academy Award®-winner Vanessa Redgrave and Oliver Reed, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell.\n\nAssembled from the original camera negative, this new 4K restoration presents Ken Russell’s definitive vision of THE DEVILS by referencing the edit he privately constructed in 2004. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.",
-      "rawTitle" : "Ken Russell's The Devils",
-      "start" : "2026-10-06T02:30:00.000Z",
-      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2535\/seats",
-      "venueID" : "egyptian",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Ken Russell",
-          "rawName" : "Ken Russell's The Devils",
-          "runtimeMinutes" : 117,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Daniel Petrie",
-      "feedRuntimeHint" : 103,
-      "rawTitle" : "Resurrection in 4K with Ellen Burstyn",
-      "start" : "2026-10-06T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/resurrection-with-ellen-burstyn-019fce4f-6735-e9e2-7f81-f98161be92de",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Daniel Petrie",
-          "rawName" : "Resurrection in 4K with Ellen Burstyn",
-          "runtimeMinutes" : 103,
-          "year" : "1980"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Bassam Tariq",
-      "feedRuntimeHint" : 111,
-      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
-      "start" : "2026-10-06T02:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4118?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -453,37 +247,6 @@
       ]
     },
     {
-      "feedRuntimeHint" : 90,
-      "rawDescription" : "Join us for the second installation of Vidiots&#8217; one-of-a-kind signature series ***Physical Media Mind Melters!*** This time we&#8217;re taking you to the edges of the galaxy with intergalactic eye-popping, head-scratching shorts, clips, trailers, and more on 35mm, 16mm, VHS, and DVD, all culled from our 70,000-title video store and ever-expanding film collection. To maximize brain-meltage we&#8217;ll be projecting live on four different physical media formats, from unhinged 35mm trailers, to insane experimental animation, to the most mesmerizing and mysterious bits we can pull from the depths of our VHS shelves. Psychedelic, funny, weird, and all in celebration of physical media and the endless worlds beyond our reach, this is one night your eyeballs may never recover from (in the best possible way)! The spaced-out vibes don&#8217;t end with the featured program. Stick around after for a free drink and ease back down to earth.",
-      "rawTitle" : "Physical Media Mind-Melters: Vidiots in Space!",
-      "start" : "2026-10-07T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4698593",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "rawName" : "Physical Media Mind-Melters: Vidiots in Space!",
-          "runtimeMinutes" : 90
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Bassam Tariq",
-      "feedRuntimeHint" : 111,
-      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
-      "start" : "2026-10-07T02:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4120?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "William Girdler",
       "feedRuntimeHint" : 90,
       "rawTitle" : "Grizzly \/ The Manitou",
@@ -510,6 +273,23 @@
       ]
     },
     {
+      "feedRuntimeHint" : 90,
+      "rawDescription" : "Join us for the second installation of Vidiots&#8217; one-of-a-kind signature series ***Physical Media Mind Melters!*** This time we&#8217;re taking you to the edges of the galaxy with intergalactic eye-popping, head-scratching shorts, clips, trailers, and more on 35mm, 16mm, VHS, and DVD, all culled from our 70,000-title video store and ever-expanding film collection. To maximize brain-meltage we&#8217;ll be projecting live on four different physical media formats, from unhinged 35mm trailers, to insane experimental animation, to the most mesmerizing and mysterious bits we can pull from the depths of our VHS shelves. Psychedelic, funny, weird, and all in celebration of physical media and the endless worlds beyond our reach, this is one night your eyeballs may never recover from (in the best possible way)! The spaced-out vibes don&#8217;t end with the featured program. Stick around after for a free drink and ease back down to earth.",
+      "rawTitle" : "Physical Media Mind-Melters: Vidiots in Space!",
+      "start" : "2026-10-07T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4698593",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "rawName" : "Physical Media Mind-Melters: Vidiots in Space!",
+          "runtimeMinutes" : 90
+        }
+      ]
+    },
+    {
       "feedRuntimeHint" : 206,
       "rawDescription" : "Double Feature Presentation!\n\n\nSTELLA DALLAS (1937, King Vidor, 106 minutes) \n\nWhen Stella Martin (Barbara Stanwyck), a working class woman, meets and marries the wealthy Stephen Dallas (John Boles), they quickly have a daughter named Laurel (Anne Shirley). Stella and Stephen struggle to stay happy as their class differences become a problem; when they finally separate, Laurel is caught in the middle of the divorce. Soon, Lauren becomes the center of Stella's life. Stella tries to be a good mother, but realizes that her daughter can flourish quite well without her.\n\n \n\nfollowed by\n\n \n\nUNDER THE SKIN (2014, Jonathan Glazer, 108 min.) \n\nScarlett Johansson plays an alien who takes human form to prey on men—but ends up finding something like humanity within herself—in this bleak and startling thriller directed by Jonathan Glazer (Sexy Beast, Birth). With its powerful combination of Johansson’s brave performance, the moody cinematography of Daniel Landin, and the naturalistic (often improvised) dialogue, Under the Skin is a one-of-a-kind science-fiction horror, aided greatly by the unnerving atonal music of Mica Levi’s first score for a feature film.\n\n\n\nStella Dallas will screen first, followed by a 15 minute intermission, then Under the Skin.",
       "rawTitle" : "Stella Dallas + Under the Skin",
@@ -525,6 +305,20 @@
           "runtimeMinutes" : 206,
           "year" : "2026"
         }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Bassam Tariq",
+      "feedRuntimeHint" : 111,
+      "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
+      "start" : "2026-10-07T02:30:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4120?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -607,26 +401,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Liz Sargent",
-      "feedRuntimeHint" : 91,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nThe American Cinematheque is thrilled to announce a limited engagement of TAKE ME HOME, Liz Sargent’s feature length version of the 2024 PROOF Film Festival Grand Jury Prize winner. From an award-winning short film to a world premiere at the 2026 Sundance Film Festival with the feature is an inspirational journey, and we wish the team the best as they bring this moving film around the world.\n\nAnna (Anna Sargent, making her acting debut), a middle-aged Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another’s needs. Alongside her sister Emily (Ali Ahn) and her father (Victor Slezak), they must confront challenging questions about the future, but Anna remains determined to build a life where all of them can thrive.FORMAT: DCP\n\nFORMAT: DCP\n\nDISTRIBUTOR: WILLA\n\nCOUNTRY: USA",
-      "rawTitle" : "TAKE ME HOME",
-      "start" : "2026-10-08T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/take-me-home-10-07-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Liz Sargent",
-          "rawName" : "TAKE ME HOME",
-          "runtimeMinutes" : 91,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Walter Thompson-Hernández",
       "feedRuntimeHint" : 95,
       "rawDescription" : "**Screenwriter**: Walter Thompson-Hernández\n\n**Producers**: Josh Peters,  Saba Zerehi,  Ben Stillman\n\nJoin us in the microcinema for Walter Thompson-Hernández&#8217;s breathtaking father-son story about imagination, family, and the grace we extend to the people we love. In the Watts neighborhood of Los Angeles, twelve-year-old Lil Ant sees the world and his father the way all children should &#8212; full of myth, wonder, and unwavering belief.",
@@ -642,6 +416,26 @@
           "director" : "Walter Thompson-Hernández",
           "rawName" : "If I Go Will They Miss Me",
           "runtimeMinutes" : 95,
+          "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Liz Sargent",
+      "feedRuntimeHint" : 91,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nThe American Cinematheque is thrilled to announce a limited engagement of TAKE ME HOME, Liz Sargent’s feature length version of the 2024 PROOF Film Festival Grand Jury Prize winner. From an award-winning short film to a world premiere at the 2026 Sundance Film Festival with the feature is an inspirational journey, and we wish the team the best as they bring this moving film around the world.\n\nAnna (Anna Sargent, making her acting debut), a middle-aged Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another’s needs. Alongside her sister Emily (Ali Ahn) and her father (Victor Slezak), they must confront challenging questions about the future, but Anna remains determined to build a life where all of them can thrive.FORMAT: DCP\n\nFORMAT: DCP\n\nDISTRIBUTOR: WILLA\n\nCOUNTRY: USA",
+      "rawTitle" : "TAKE ME HOME",
+      "start" : "2026-10-08T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/take-me-home-10-07-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Liz Sargent",
+          "rawName" : "TAKE ME HOME",
+          "runtimeMinutes" : 91,
           "year" : "2026"
         }
       ]
@@ -667,41 +461,28 @@
       ]
     },
     {
-      "feedDirectorHint" : "Andrei Tarkovsky",
-      "feedRuntimeHint" : 161,
-      "rawTitle" : "Stalker",
+      "feedDirectorHint" : "Akira Kurosawa",
+      "feedRuntimeHint" : 109,
+      "rawTitle" : "Throne of Blood \/ Ugetsu",
       "start" : "2026-10-08T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/stalker-019fce29-bd11-31bd-9f3e-486fb3077abb",
-      "venueID" : "academy",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-7-throne-of-blood-ugetsu",
+      "venueID" : "newbev",
       "videoFormats" : [
-
+        "English subtitled 35mm",
+        "English subtitled 35mm"
       ],
       "works" : [
         {
-          "director" : "Andrei Tarkovsky",
-          "rawName" : "Stalker",
-          "runtimeMinutes" : 161,
-          "year" : "1979"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Stephen Winter",
-      "feedRuntimeHint" : 83,
-      "rawDescription" : "**Screenwriter**: Stephen Winter\n\n**Producers**: Jason Kliot,  Joana Vicente\n\nVidiots and [**One Institute**](https:\/\/www.oneinstitute.org\/about\/) are thrilled to welcome writer\/director **Stephen Winter** for a special 30th Anniversary screening of the new 4K Restoration of the radical and riotous New Queer Cinema treasure ***Chocolate Babies***!\n\nA frenetic debut feature from writer\/director Stephen Winter, *Chocolate Babies* unleashes a world of anarchic camp and unapologetic Black queer power in one of the hidden gems of New Queer Cinema, ripe for rediscovery and ready to be introduced to new audiences. Through a campaign of fabulous surprise attacks, an underground band of radical queer HIV+ activists, addicts, and drag queens take to the streets of New York City to combat conservative politicians and government apathy towards the AIDS crisis.\n\nFor the film’s 25th anniversary, Frameline has commissioned a 4K restoration of *Chocolate Babies* in partnership with the National Film Preservation Foundation, the UCLA Film & Television Archive, and the Outfest Legacy Project. Following its festival run in the mid-1990s (playing at SXSW, the Berlinale, and Frameline21), *Chocolate Babies* struggled to secure major distribution due to its radically independent Black queer vision, but eventually found a home at Frameline Distribution who championed the film and continued to bring it to new audiences. Frameline proudly presents the world premiere of this pristine restoration in rich color and vivid detail like never before.\n\n*Chocolate Babies* is presented by Vidiots and community programming partners One Institute as part of the 2026 Circa: Queer Histories Festival, presented by One Institute.\n\n**About One Institute:**\n\nFounded in 1952, **One Institute** (formerly ONE Archives Foundation) is the oldest active LGBTQ+ organization in the country, dedicated to telling LGBTQ+ and HIV\/AIDS history and stories through education, arts, and social justice programs. Our one-of-a-kind exhibitions and public programs connect LGBTQ+ history and contemporary culture to effect social change. Through unique K-12 teacher trainings, lesson plans, and youth mentorship programs, we empower teachers and students to bring queer history into classrooms and communities. As the independent community partner of ONE Archives at the USC Libraries, we promote the largest collection of LGBTQ+ materials in the world.",
-      "rawTitle" : "Chocolate Babies",
-      "start" : "2026-10-08T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4645034",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "4K Digital"
-      ],
-      "works" : [
+          "director" : "Akira Kurosawa",
+          "rawName" : "Throne of Blood",
+          "runtimeMinutes" : 109,
+          "year" : "1957"
+        },
         {
-          "director" : "Stephen Winter",
-          "rawName" : "Chocolate Babies",
-          "runtimeMinutes" : 83,
-          "year" : "1996"
+          "director" : "Kenji Mizoguchi",
+          "rawName" : "Ugetsu",
+          "runtimeMinutes" : 96,
+          "year" : "1953"
         }
       ]
     },
@@ -726,6 +507,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Stephen Winter",
+      "feedRuntimeHint" : 83,
+      "rawDescription" : "**Screenwriter**: Stephen Winter\n\n**Producers**: Jason Kliot,  Joana Vicente\n\nVidiots and [**One Institute**](https:\/\/www.oneinstitute.org\/about\/) are thrilled to welcome writer\/director **Stephen Winter** for a special 30th Anniversary screening of the new 4K Restoration of the radical and riotous New Queer Cinema treasure ***Chocolate Babies***!\n\nA frenetic debut feature from writer\/director Stephen Winter, *Chocolate Babies* unleashes a world of anarchic camp and unapologetic Black queer power in one of the hidden gems of New Queer Cinema, ripe for rediscovery and ready to be introduced to new audiences. Through a campaign of fabulous surprise attacks, an underground band of radical queer HIV+ activists, addicts, and drag queens take to the streets of New York City to combat conservative politicians and government apathy towards the AIDS crisis.\n\nFor the film’s 25th anniversary, Frameline has commissioned a 4K restoration of *Chocolate Babies* in partnership with the National Film Preservation Foundation, the UCLA Film & Television Archive, and the Outfest Legacy Project. Following its festival run in the mid-1990s (playing at SXSW, the Berlinale, and Frameline21), *Chocolate Babies* struggled to secure major distribution due to its radically independent Black queer vision, but eventually found a home at Frameline Distribution who championed the film and continued to bring it to new audiences. Frameline proudly presents the world premiere of this pristine restoration in rich color and vivid detail like never before.\n\n*Chocolate Babies* is presented by Vidiots and community programming partners One Institute as part of the 2026 Circa: Queer Histories Festival, presented by One Institute.\n\n**About One Institute:**\n\nFounded in 1952, **One Institute** (formerly ONE Archives Foundation) is the oldest active LGBTQ+ organization in the country, dedicated to telling LGBTQ+ and HIV\/AIDS history and stories through education, arts, and social justice programs. Our one-of-a-kind exhibitions and public programs connect LGBTQ+ history and contemporary culture to effect social change. Through unique K-12 teacher trainings, lesson plans, and youth mentorship programs, we empower teachers and students to bring queer history into classrooms and communities. As the independent community partner of ONE Archives at the USC Libraries, we promote the largest collection of LGBTQ+ materials in the world.",
+      "rawTitle" : "Chocolate Babies",
+      "start" : "2026-10-08T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4645034",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "4K Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Stephen Winter",
+          "rawName" : "Chocolate Babies",
+          "runtimeMinutes" : 83,
+          "year" : "1996"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Bassam Tariq",
       "feedRuntimeHint" : 111,
       "rawTitle" : "Your Mother Your Mother Your Mother 35mm",
@@ -740,28 +541,21 @@
       ]
     },
     {
-      "feedDirectorHint" : "Akira Kurosawa",
-      "feedRuntimeHint" : 109,
-      "rawTitle" : "Throne of Blood \/ Ugetsu",
+      "feedDirectorHint" : "Andrei Tarkovsky",
+      "feedRuntimeHint" : 161,
+      "rawTitle" : "Stalker",
       "start" : "2026-10-08T02:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-7-throne-of-blood-ugetsu",
-      "venueID" : "newbev",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/stalker-019fce29-bd11-31bd-9f3e-486fb3077abb",
+      "venueID" : "academy",
       "videoFormats" : [
-        "English subtitled 35mm",
-        "English subtitled 35mm"
+
       ],
       "works" : [
         {
-          "director" : "Akira Kurosawa",
-          "rawName" : "Throne of Blood",
-          "runtimeMinutes" : 109,
-          "year" : "1957"
-        },
-        {
-          "director" : "Kenji Mizoguchi",
-          "rawName" : "Ugetsu",
-          "runtimeMinutes" : 96,
-          "year" : "1953"
+          "director" : "Andrei Tarkovsky",
+          "rawName" : "Stalker",
+          "runtimeMinutes" : 161,
+          "year" : "1979"
         }
       ]
     },
@@ -834,26 +628,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Paweł Pawlikowski",
-      "feedRuntimeHint" : 82,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In German, French, English and Russian with English subtitles.*\n\nSet in the summer of 1949 amidst the rubble of a defeated Germany in the aftermath of World War II, Fatherland centers on the relationship between the Nobel Prize–winning novelist Thomas Mann (Zischler) and his daughter Erika Mann (Hüller) -actress, writer, and rally driver. Returning home after sixteen years of exile in the US, Thomas Mann must face not only a divided fatherland, but also a deep fissure within his own family, one that is both politically charged and emotionally challenging. As father and daughter embark on a fictionalized road trip across a torn Germany- still visibly scarred by battle and simultaneously in denial of its evils and culpability- they travel from US-dominated Frankfurt in the west to Soviet controlled Weimar in the east. Pawlikowski and Handloegten’s screenplay uses the Mann’s own fractured relationship as the vehicle to examine a country at the crossroads of history, facing an impending moral crisis. Cinematographer Łukasz Żal’s hauntingly stark black-and-white visuals skillfully capture Zischler and Hüller’s masterfully restrained performances.\n\nFORMAT: DCP\n\nDISTRIBUTOR: MUBI\n\nCOUNTRY: Poland\/Germany\/Italy\/France",
-      "rawTitle" : "FATHERLAND",
-      "start" : "2026-10-09T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/fatherland-10-08-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Paweł Pawlikowski",
-          "rawName" : "FATHERLAND",
-          "runtimeMinutes" : 82,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Will Mayo & Ian Scott McGregor",
       "feedRuntimeHint" : 14,
       "rawDescription" : "### **ABOUT THE FESTIVAL:**\n\nCreated by and for Los Angeles–based independent filmmakers, RSFF is a non-competitive festival that brings bold, distinctive work to the big screen—and brings the people behind it into the community. Across four days, filmmakers and audiences gather to discover new voices, pack theaters and build the relationships that sustain creative lives in Los Angeles.\n\nFrom October 7–10, RSFF presents 19 short films and three features at the Egyptian Theatre and Los Feliz 3.\n\nThis year’s program was shaped by a committee of alumni filmmakers, industry professionals and experienced programmers, including Festival Directors Page Brady, Nir Liebenthal, Noah Morse, Jeremy Roth-Rose and Dylan Trupiano; filmmaker and RSFF alum Calleen Koh; documentary filmmaker Aurora Brachman; producer Nuer Taqa; programmer Lily Bolton; Unapologetic Projects Creative Executive Kyle Bowles; Book of Shadows producer and executive Nix Santos; and Imani Davis on behalf of the American Cinematheque.\n\n### **ABOUT THE FILMS:**\n\n**“Dropping Off,” 2026, Dir. Will Mayo & Ian Scott McGregor, 14 Min, USA**\n\nAn aspiring musician gigging as a rideshare driver struggles to navigate the bizarre request of a mourning passenger.\n\nFORMAT: DCP\n\n**DOWNBEAT, 2026, Dir. Danny Madden, 91 Min, USA**\n\nFleeing mistakes in Atlanta, Mauro crashes on his sister’s couch in Boston. He takes to bucket drumming on the streets for a way out, but can’t stop screwing things up and drawing everyone else into his own feral shortcomings.\n\nDOWNBEAT is a defiantly independent production, crowd-funded via Kickstarter and shot entirely on a single camcorder, with a cast made up largely of real musicians and every note of bucket drumming recorded live. It had its World Premiere at the 2026 SXSW Film Festival, and was recently featured as an Unreleased Gem on the Letterboxd Video Store.\n\nFORMAT: DCP",
@@ -881,6 +655,45 @@
       ]
     },
     {
+      "feedDirectorHint" : "Paweł Pawlikowski",
+      "feedRuntimeHint" : 82,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In German, French, English and Russian with English subtitles.*\n\nSet in the summer of 1949 amidst the rubble of a defeated Germany in the aftermath of World War II, Fatherland centers on the relationship between the Nobel Prize–winning novelist Thomas Mann (Zischler) and his daughter Erika Mann (Hüller) -actress, writer, and rally driver. Returning home after sixteen years of exile in the US, Thomas Mann must face not only a divided fatherland, but also a deep fissure within his own family, one that is both politically charged and emotionally challenging. As father and daughter embark on a fictionalized road trip across a torn Germany- still visibly scarred by battle and simultaneously in denial of its evils and culpability- they travel from US-dominated Frankfurt in the west to Soviet controlled Weimar in the east. Pawlikowski and Handloegten’s screenplay uses the Mann’s own fractured relationship as the vehicle to examine a country at the crossroads of history, facing an impending moral crisis. Cinematographer Łukasz Żal’s hauntingly stark black-and-white visuals skillfully capture Zischler and Hüller’s masterfully restrained performances.\n\nFORMAT: DCP\n\nDISTRIBUTOR: MUBI\n\nCOUNTRY: Poland\/Germany\/Italy\/France",
+      "rawTitle" : "FATHERLAND",
+      "start" : "2026-10-09T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/fatherland-10-08-2026",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Paweł Pawlikowski",
+          "rawName" : "FATHERLAND",
+          "runtimeMinutes" : 82,
+          "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "John Carpenter",
+      "feedRuntimeHint" : 100,
+      "rawTitle" : "Big Trouble in Little China",
+      "start" : "2026-10-09T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/big-trouble-in-little-china-019fcdac-482d-7d90-7fe4-d84bcfe95fe6",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "John Carpenter",
+          "rawName" : "Big Trouble in Little China",
+          "runtimeMinutes" : 100,
+          "year" : "1986"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Akira Kurosawa",
       "feedRuntimeHint" : 109,
       "rawTitle" : "Throne of Blood \/ Ugetsu",
@@ -903,25 +716,6 @@
           "rawName" : "Ugetsu",
           "runtimeMinutes" : 96,
           "year" : "1953"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "John Carpenter",
-      "feedRuntimeHint" : 100,
-      "rawTitle" : "Big Trouble in Little China",
-      "start" : "2026-10-09T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/big-trouble-in-little-china-019fcdac-482d-7d90-7fe4-d84bcfe95fe6",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "John Carpenter",
-          "rawName" : "Big Trouble in Little China",
-          "runtimeMinutes" : 100,
-          "year" : "1986"
         }
       ]
     },
@@ -1143,26 +937,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Danny Boyle",
-      "feedRuntimeHint" : 113,
-      "rawDescription" : "**Screenwriter**: Alex Garland\n\n**Producer**: Andrew Macdonald\n\nDanny Boyle breathes new life into the world of the undead with this gritty, frenetic, and fantastically bloody journey through a zombie-infested, post-apocalyptic UK. 28 days after a violent car accident, bike messenger Jim (Cillian Murphy) awakens from a coma to a world ravaged by “the Rage,” a virus that turns its victims bloodthirsty and primal. Jim flees the infected and encounters another group of survivors, led by Selena (Naomie Harris), cab driver Frank (Brendan Gleeson) and his daughter (Megan Burns). Together, the group sets out in pursuit of a rumored safe zone in Manchester with the flesh-eating undead close behind. Boyle’s visceral, bloody, and high-octane horror thriller offers a bitter reminder that the only things worse than zombies are people. \n\n**Picks from the Video Store**\n\nCan&#8217;t get enough Zombies? Try out these these undead deep cuts!\n\n*Messiah of Evil, Demons, The Church*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "28 Days Later",
-      "start" : "2026-10-10T02:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672344",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Danny Boyle",
-          "rawName" : "28 Days Later",
-          "runtimeMinutes" : 113,
-          "year" : "2002"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Alex Cox",
       "feedRuntimeHint" : 88,
       "rawDescription" : "### **ABOUT THE FILM:**\n\n*In English and Spanish with English subtitles.*\n\nFor his directorial swan song, Alex Cox (REPO MAN, STRAIGHT TO HELL) stars in this frontier fable of American greed, playing the mysterious drifter Strindler as he scours the West for the names of dead Mexican laborers. In this loose adaptation of Nikolai Gogol’s 1842 novel *Dead Souls*, Strindler – or is it Swindler? – raises eyebrows when he offers to pay a pretty penny to add to his list of names. Wandering affably from saloon to ranch, Strindler exercises the old adage that money talks – but sometimes too loudly. Pistol duels and crooked officials abound, and Spaghetti Western legend Gianni Garko (IF YOU MEET SARTANA PRAY FOR YOUR DEATH) claims a co-writer credit. But Cox’s idiosyncrasy stands out as the film veers tonally through the picaresque, dark satire and other unexpected twists. DEAD SOULS is a meditative Western that takes place at the borderlands of the American nightmare: where fortunes rest on a dirty deal, and legacies are built on blood and gold.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Kino Lorber\n\nCOUNTRY: USA\/Spain",
@@ -1203,6 +977,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Danny Boyle",
+      "feedRuntimeHint" : 113,
+      "rawDescription" : "**Screenwriter**: Alex Garland\n\n**Producer**: Andrew Macdonald\n\nDanny Boyle breathes new life into the world of the undead with this gritty, frenetic, and fantastically bloody journey through a zombie-infested, post-apocalyptic UK. 28 days after a violent car accident, bike messenger Jim (Cillian Murphy) awakens from a coma to a world ravaged by “the Rage,” a virus that turns its victims bloodthirsty and primal. Jim flees the infected and encounters another group of survivors, led by Selena (Naomie Harris), cab driver Frank (Brendan Gleeson) and his daughter (Megan Burns). Together, the group sets out in pursuit of a rumored safe zone in Manchester with the flesh-eating undead close behind. Boyle’s visceral, bloody, and high-octane horror thriller offers a bitter reminder that the only things worse than zombies are people. \n\n**Picks from the Video Store**\n\nCan&#8217;t get enough Zombies? Try out these these undead deep cuts!\n\n*Messiah of Evil, Demons, The Church*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "28 Days Later",
+      "start" : "2026-10-10T02:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672344",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Danny Boyle",
+          "rawName" : "28 Days Later",
+          "runtimeMinutes" : 113,
+          "year" : "2002"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Melody C. Roscher",
       "feedRuntimeHint" : 87,
       "rawDescription" : "**Screenwriter**: Melody C. Roscher\n\n**Producers**: Craig Shilowich,  Alexander Schepsman,  Danielle Massie,  Cody Ryder, Sam Bisbee,  Saba Zerehi\n\nWriter\/Director **Melody C. Roscher** in person at all screenings!\n\n- Friday, October 9  with Melody C. Roscher and Alisha Wainwright, moderated by Raven Jackson\n\n- Saturday, October 10 with Melody C. Roscher\n\n- Sunday, October 11 &#8211; Introduction by Melody C. Roscher\n\nJoin us in the microcinema for Melody Roscher&#8217;s bitingly comic feature film debut that weaves themes of race, belonging, and family into a mercurial journey.  Bird returns home to visit her mom in search of the perfect wedding venue after a surprise engagement to her longtime boyfriend, but much to everyone&#8217;s surprise, she is actually on the hunt for something else. Inspired by Roscher’s own biracial experience, *Bird in Hand* follows the newly engaged Bird Rowe (Alisha Wainwright) as she returns to her rural hometown to plan the wedding with her narcissistic hippie mother Carlotta (Christine Lahti). Bird also has a hidden agenda, one that leads her to her mother&#8217;s new neighbors, a misguided couple on a mission to &#8216;rebrand&#8217; a plantation. Truth, lies, and fantasy collide against that backdrop, leading to a surprising climax as tender as it is funny. James LeGros, Jeffrey Nordling, and Annabelle Dexter-Jones co-star.",
@@ -1223,26 +1017,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Charles Burnett",
-      "feedRuntimeHint" : 81,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nIn this tragicomic work of realism, Pierce Mundy (Everett Silas) is employed at his parents’ South Central dry cleaners with no prospects for the future —his childhood buddies are all in prison or dead. Pierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. Pierce’s brother Wendell (Monte Easter), an up-and-coming lawyer, is busy planning a wedding to a snooty upper-middle-class black woman named Sonia (director Charles Burnett’s wife, Gaye Shannon-Burnett, who co-produced the film). Pierce’s pious, Bible-touting mother (Jessie Holmes) provides occasional comic relief but also a heartfelt moral backbone to the film, as she urges Pierce to accept his responsibility to his family.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Kino Lorber\n\nCOUNTRY: USA",
-      "rawTitle" : "MY BROTHER'S WEDDING",
-      "start" : "2026-10-10T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/my-brothers-wedding-10-09-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Charles Burnett",
-          "rawName" : "MY BROTHER'S WEDDING",
-          "runtimeMinutes" : 81,
-          "year" : "1983"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Robin Hardy",
       "feedRuntimeHint" : 93,
       "rawDescription" : "Police sergeant Neil Howie is called to an island village in search of a missing girl whom the locals claim never existed. The investigation is further complicated as Howie’s religious views clash with those of the island’s residents.",
@@ -1259,6 +1033,26 @@
           "rawName" : "The Wicker Man",
           "runtimeMinutes" : 93,
           "year" : "1973"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Charles Burnett",
+      "feedRuntimeHint" : 81,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nIn this tragicomic work of realism, Pierce Mundy (Everett Silas) is employed at his parents’ South Central dry cleaners with no prospects for the future —his childhood buddies are all in prison or dead. Pierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. Pierce’s brother Wendell (Monte Easter), an up-and-coming lawyer, is busy planning a wedding to a snooty upper-middle-class black woman named Sonia (director Charles Burnett’s wife, Gaye Shannon-Burnett, who co-produced the film). Pierce’s pious, Bible-touting mother (Jessie Holmes) provides occasional comic relief but also a heartfelt moral backbone to the film, as she urges Pierce to accept his responsibility to his family.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Kino Lorber\n\nCOUNTRY: USA",
+      "rawTitle" : "MY BROTHER'S WEDDING",
+      "start" : "2026-10-10T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/my-brothers-wedding-10-09-2026",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Charles Burnett",
+          "rawName" : "MY BROTHER'S WEDDING",
+          "runtimeMinutes" : 81,
+          "year" : "1983"
         }
       ]
     },
@@ -1334,26 +1128,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "John Wilson",
-      "feedRuntimeHint" : 101,
-      "rawDescription" : "**Screenwriter**: John Wilson\n\n**Producers**: John Wilson,  Clark Filio,  Shirel Kozak,  Allie Viti\n\nOne part documentary, one part camcorder video essay, and one part the driest yet funniest of comedies, John Wilson extends his unique genre-bending style from the small screen to the big with this magnificently absurd examination of the literal ground below our feet. Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world&#8217;s most widely used building material, appears as an ever-present life force, and John sets out to make the definitive documentary on the matter. After attending a workshop on how to write and sell a Hallmark movie, he decides to use the industry-approved Hallmark formula to tell this seemingly drab story and increase his movie’s appeal. But his foundation soon begins to crumble—literally and figuratively—as he struggles to balance artistic freedom with the realities of the modern film industry. So crawl out from under that rock and hit the pavement to catch this singular feature that only John Wilson could have made!",
-      "rawTitle" : "The History of Concrete",
-      "start" : "2026-10-10T05:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4677780",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "John Wilson",
-          "rawName" : "The History of Concrete",
-          "runtimeMinutes" : 101,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Alex Cox",
       "feedRuntimeHint" : 86,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nFour hapless bank robbers bury their loot and attempt to hide out in a deserted desert town, but very soon find out that the town is not really deserted. Norwood (Sy Richardson), Simms (Joe Strummer) and Willy (Dick Rude) are three black-suited killers-for-hire. After missing their intended target and trying to escape the wrath of their employer (Jim Jarmusch), they head for the desert and rob a bank en-route. As their car dies in a ravine, the trio bury their money and head for a lonely town to hide out till the heat blows over. The insane cast includes Courtney Love, The Pogues, Grace Jones, Dennis Hopper, Elvis Costello, Kathy Burke and Xander Berkeley.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Kino Lorber\n\nCOUNTRY: USA",
@@ -1370,6 +1144,26 @@
           "rawName" : "STRAIGHT TO HELL",
           "runtimeMinutes" : 86,
           "year" : "1986"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "John Wilson",
+      "feedRuntimeHint" : 101,
+      "rawDescription" : "**Screenwriter**: John Wilson\n\n**Producers**: John Wilson,  Clark Filio,  Shirel Kozak,  Allie Viti\n\nOne part documentary, one part camcorder video essay, and one part the driest yet funniest of comedies, John Wilson extends his unique genre-bending style from the small screen to the big with this magnificently absurd examination of the literal ground below our feet. Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world&#8217;s most widely used building material, appears as an ever-present life force, and John sets out to make the definitive documentary on the matter. After attending a workshop on how to write and sell a Hallmark movie, he decides to use the industry-approved Hallmark formula to tell this seemingly drab story and increase his movie’s appeal. But his foundation soon begins to crumble—literally and figuratively—as he struggles to balance artistic freedom with the realities of the modern film industry. So crawl out from under that rock and hit the pavement to catch this singular feature that only John Wilson could have made!",
+      "rawTitle" : "The History of Concrete",
+      "start" : "2026-10-10T05:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4677780",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "John Wilson",
+          "rawName" : "The History of Concrete",
+          "runtimeMinutes" : 101,
+          "year" : "2026"
         }
       ]
     },
@@ -1456,22 +1250,22 @@
       ]
     },
     {
-      "feedDirectorHint" : "Raja Gosnell",
+      "feedDirectorHint" : "Tim Burton",
       "feedRuntimeHint" : 87,
-      "rawDescription" : "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren&#8217;t the only things that are spooky. Strange things are happening, and it&#8217;s up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings.",
-      "rawTitle" : "Scooby-Doo",
+      "rawDescription" : "**Screenwriter**: John August\n\n**Producers**: Tim Burton, Allison Abbate\n\nRe-animate your weekend with Tim Burton&#8217;s adorably oddball animated send-off to horror, with enough goofs and gaffs for the whole family. Young Victor Frankenstein (Charlie Tahan) is a science nerd and outsider at school, but he does have one good friend: his dog, Sparky. But then, tragedy strikes, and Sparky shuffles off this mortal coil. Victor is heartbroken, but his science teacher (Martin Landau) gives him an idea of how to jolt old Sparky back to life. The experiment is successful, and all goes well, until Victor&#8217;s fellow students steal his secret and use it to resurrect other dead animals — with monstrous consequences.\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Frankenweenie",
       "start" : "2026-10-10T20:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415379",
-      "venueID" : "braindead",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672347",
+      "venueID" : "vidiots",
       "videoFormats" : [
-        "HD Digital"
+        "Digital"
       ],
       "works" : [
         {
-          "director" : "Raja Gosnell",
-          "rawName" : "Scooby-Doo",
+          "director" : "Tim Burton",
+          "rawName" : "Frankenweenie",
           "runtimeMinutes" : 87,
-          "year" : "2002"
+          "year" : "2012"
         }
       ]
     },
@@ -1496,22 +1290,22 @@
       ]
     },
     {
-      "feedDirectorHint" : "Tim Burton",
+      "feedDirectorHint" : "Raja Gosnell",
       "feedRuntimeHint" : 87,
-      "rawDescription" : "**Screenwriter**: John August\n\n**Producers**: Tim Burton, Allison Abbate\n\nRe-animate your weekend with Tim Burton&#8217;s adorably oddball animated send-off to horror, with enough goofs and gaffs for the whole family. Young Victor Frankenstein (Charlie Tahan) is a science nerd and outsider at school, but he does have one good friend: his dog, Sparky. But then, tragedy strikes, and Sparky shuffles off this mortal coil. Victor is heartbroken, but his science teacher (Martin Landau) gives him an idea of how to jolt old Sparky back to life. The experiment is successful, and all goes well, until Victor&#8217;s fellow students steal his secret and use it to resurrect other dead animals — with monstrous consequences.\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Frankenweenie",
+      "rawDescription" : "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren&#8217;t the only things that are spooky. Strange things are happening, and it&#8217;s up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings.",
+      "rawTitle" : "Scooby-Doo",
       "start" : "2026-10-10T20:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672347",
-      "venueID" : "vidiots",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415379",
+      "venueID" : "braindead",
       "videoFormats" : [
-        "Digital"
+        "HD Digital"
       ],
       "works" : [
         {
-          "director" : "Tim Burton",
-          "rawName" : "Frankenweenie",
+          "director" : "Raja Gosnell",
+          "rawName" : "Scooby-Doo",
           "runtimeMinutes" : 87,
-          "year" : "2012"
+          "year" : "2002"
         }
       ]
     },
@@ -1561,6 +1355,25 @@
       ]
     },
     {
+      "feedDirectorHint" : "Spike Lee",
+      "feedRuntimeHint" : 122,
+      "rawTitle" : "Get on the Bus 30th Anniversary Screening in 4K",
+      "start" : "2026-10-10T22:00:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/30th-anniversary-of-get-on-the-bus-019fce7d-e21b-f9de-ccf8-cfa1d672c55b",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Spike Lee",
+          "rawName" : "Get on the Bus 30th Anniversary Screening in 4K",
+          "runtimeMinutes" : 122,
+          "year" : "1996"
+        }
+      ]
+    },
+    {
       "rawDescription" : "Saturday October 10th at Gardena Cinema - 3rd Annual Universal Monster-Thon! See all your favorite Universal Monsters on the big screen!",
       "rawTitle" : "3rd ANNUAL UNIVERSAL MONSTER-THON, Hosted by @horrorbiznessmovies",
       "start" : "2026-10-10T22:00:00.000Z",
@@ -1590,25 +1403,6 @@
           "rawName" : "Zëiram",
           "runtimeMinutes" : 97,
           "year" : "1991"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Spike Lee",
-      "feedRuntimeHint" : 122,
-      "rawTitle" : "Get on the Bus 30th Anniversary Screening in 4K",
-      "start" : "2026-10-10T22:00:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/30th-anniversary-of-get-on-the-bus-019fce7d-e21b-f9de-ccf8-cfa1d672c55b",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Spike Lee",
-          "rawName" : "Get on the Bus 30th Anniversary Screening in 4K",
-          "runtimeMinutes" : 122,
-          "year" : "1996"
         }
       ]
     },
@@ -1799,26 +1593,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Nobuhiko Ōbayashi",
-      "feedRuntimeHint" : 88,
-      "rawDescription" : "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip to the country to visit her aunt at their ancestral house. She invites her six friends, Prof, Melody, Mac, Fantasy, Kung Fu, and Sweet, to join her. The girls soon discover that there is more to the old house than meets the eye.",
-      "rawTitle" : "House",
-      "start" : "2026-10-11T02:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415386",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "HD Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Nobuhiko Ōbayashi",
-          "rawName" : "House",
-          "runtimeMinutes" : 88,
-          "year" : "1977"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Alex Cox",
       "feedRuntimeHint" : 95,
       "rawDescription" : "### **ABOUT THE FILMS:**\n\n**WALKER, Dir. Alex Cox, 1987, 95 Mins., Universal, USA\/Mexico**\n\n*In English and Spanish with English subtitles.*\n\nThe life of American lawyer and journalist William Walker, who named himself president of Nicaragua during the 1850s.\n\nFORMAT: 35mm\n\n**EL PATRULLERO, Dir. Alex Cox, 1991, 104 Mins., Kino Lorber, Mexico**\n\n*In Spanish with English subtitles.*\n\nREPO MAN director Alex Cox went south of the border to film this dramatic tale of a rookie member of Mexico’s national highway patrol, who struggles to keep on the straight and narrow in a department rife with corruption.\n\nFORMAT: DCP",
@@ -1846,15 +1620,23 @@
       ]
     },
     {
-      "rawTitle" : "V\/H\/S\/85 + V\/H\/S\/Beyond",
-      "start" : "2026-10-11T03:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4184?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
+      "feedDirectorHint" : "Nobuhiko Ōbayashi",
+      "feedRuntimeHint" : 88,
+      "rawDescription" : "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip to the country to visit her aunt at their ancestral house. She invites her six friends, Prof, Melody, Mac, Fantasy, Kung Fu, and Sweet, to join her. The girls soon discover that there is more to the old house than meets the eye.",
+      "rawTitle" : "House",
+      "start" : "2026-10-11T02:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415386",
+      "venueID" : "braindead",
       "videoFormats" : [
-
+        "HD Digital"
       ],
       "works" : [
-
+        {
+          "director" : "Nobuhiko Ōbayashi",
+          "rawName" : "House",
+          "runtimeMinutes" : 88,
+          "year" : "1977"
+        }
       ]
     },
     {
@@ -1873,6 +1655,18 @@
           "rawName" : "A Secret NU METAL HORROR Movie",
           "year" : "2026"
         }
+      ]
+    },
+    {
+      "rawTitle" : "V\/H\/S\/85 + V\/H\/S\/Beyond",
+      "start" : "2026-10-11T03:00:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4184?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -1916,26 +1710,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Joel Schumacher",
-      "feedRuntimeHint" : 125,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nSuperstars George Clooney and Arnold Schwarzenegger face off as the coolest–and the cruelest–villain to ever stalk Gotham City comes after its courageous caped crusaders, Batman & Robin. When the evil Mr. Freeze (Schwarzenegger) teams up with toxic Poison Ivy (Uma Thurman) to freeze Gotham City and destroy its residents, the end appears near for superheroes Batman (George Clooney) and Robin (Chris O’Donnell). But with the arrival of Batgirl (Alicia Silverstone), the dynamic duo becomes a transcendent trio in this fourth episode of the blockbuster theatrical series.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Warner Bros\n\nCOUNTRY: USA",
-      "rawTitle" : "BATMAN & ROBIN",
-      "start" : "2026-10-11T05:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/batman-robin-10-10-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Joel Schumacher",
-          "rawName" : "BATMAN & ROBIN",
-          "runtimeMinutes" : 125,
-          "year" : "1997"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "John Wilson",
       "feedRuntimeHint" : 101,
       "rawDescription" : "**Screenwriter**: John Wilson\n\n**Producers**: John Wilson,  Clark Filio,  Shirel Kozak,  Allie Viti\n\nOne part documentary, one part camcorder video essay, and one part the driest yet funniest of comedies, John Wilson extends his unique genre-bending style from the small screen to the big with this magnificently absurd examination of the literal ground below our feet. Following the finale of his acclaimed HBO series “How To with John Wilson”, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world&#8217;s most widely used building material, appears as an ever-present life force, and John sets out to make the definitive documentary on the matter. After attending a workshop on how to write and sell a Hallmark movie, he decides to use the industry-approved Hallmark formula to tell this seemingly drab story and increase his movie’s appeal. But his foundation soon begins to crumble—literally and figuratively—as he struggles to balance artistic freedom with the realities of the modern film industry. So crawl out from under that rock and hit the pavement to catch this singular feature that only John Wilson could have made!",
@@ -1956,6 +1730,40 @@
       ]
     },
     {
+      "feedDirectorHint" : "Joel Schumacher",
+      "feedRuntimeHint" : 125,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nSuperstars George Clooney and Arnold Schwarzenegger face off as the coolest–and the cruelest–villain to ever stalk Gotham City comes after its courageous caped crusaders, Batman & Robin. When the evil Mr. Freeze (Schwarzenegger) teams up with toxic Poison Ivy (Uma Thurman) to freeze Gotham City and destroy its residents, the end appears near for superheroes Batman (George Clooney) and Robin (Chris O’Donnell). But with the arrival of Batgirl (Alicia Silverstone), the dynamic duo becomes a transcendent trio in this fourth episode of the blockbuster theatrical series.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Warner Bros\n\nCOUNTRY: USA",
+      "rawTitle" : "BATMAN & ROBIN",
+      "start" : "2026-10-11T05:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/batman-robin-10-10-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Joel Schumacher",
+          "rawName" : "BATMAN & ROBIN",
+          "runtimeMinutes" : 125,
+          "year" : "1997"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Daniel Myrick, Eduardo Sánchez",
+      "feedRuntimeHint" : 78,
+      "rawTitle" : "The Blair Witch Project",
+      "start" : "2026-10-11T06:59:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4163?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "John Hancock",
       "feedRuntimeHint" : 89,
       "rawTitle" : "Let’s Scare Jessica to Death",
@@ -1972,20 +1780,6 @@
           "runtimeMinutes" : 89,
           "year" : "1971"
         }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Daniel Myrick, Eduardo Sánchez",
-      "feedRuntimeHint" : 78,
-      "rawTitle" : "The Blair Witch Project",
-      "start" : "2026-10-11T06:59:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4163?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -2083,6 +1877,25 @@
       ]
     },
     {
+      "feedDirectorHint" : "James Cameron",
+      "feedRuntimeHint" : 137,
+      "rawTitle" : "Aliens in 70mm",
+      "start" : "2026-10-11T21:00:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/aliens-019fce46-5898-ade3-4872-08b52c0324a2",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "James Cameron",
+          "rawName" : "Aliens in 70mm",
+          "runtimeMinutes" : 137,
+          "year" : "1986"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Sara Dosa",
       "feedRuntimeHint" : 93,
       "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Icelandic and English with English subtitles.*\n\nRenowned Icelandic poet and author Andri Snær Magnason is chasing something elusive. As the glacial ice of his homeland melts, he constructs a time capsule to hold onto this moment and send it to the future, before everything he loves slips away. Using his own collected archives, his grandparents’ photographs and films, as well as traditional songs and folktales, Andri interlaces his family’s story with that of the land around him. From Academy Award-nominated director Sara Dosa, TIME AND WATER is a universal reflection on the power of home and what it means to be alive amid profound epochal change.\n\nFORMAT: DCP\n\nDISTRIBUTOR: National Geographic Documentary Films\n\nCOUNTRY: Iceland\/USA",
@@ -2099,25 +1912,6 @@
           "rawName" : "TIME AND WATER",
           "runtimeMinutes" : 93,
           "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "James Cameron",
-      "feedRuntimeHint" : 137,
-      "rawTitle" : "Aliens in 70mm",
-      "start" : "2026-10-11T21:00:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/aliens-019fce46-5898-ade3-4872-08b52c0324a2",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "James Cameron",
-          "rawName" : "Aliens in 70mm",
-          "runtimeMinutes" : 137,
-          "year" : "1986"
         }
       ]
     },
@@ -2343,6 +2137,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Ridley Scott",
+      "feedRuntimeHint" : 90,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nLEGEND, from director Ridley Scott, is a visually stunning fantasy-adventure in which pure good and evil battle to the death amidst spectacular surroundings. Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story stars Tom Cruise as a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess Lily (Mia Sara) and defeat the demonic Lord of Darkness (Tim Curry), or the world will be plunged into a never-ending ice age.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Universal\n\nCOUNTRY: USA",
+      "rawTitle" : "LEGEND",
+      "start" : "2026-10-12T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/legend-10-11-2026",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Ridley Scott",
+          "rawName" : "LEGEND",
+          "runtimeMinutes" : 90,
+          "year" : "1985"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "John Carpenter",
       "feedRuntimeHint" : 102,
       "rawTitle" : "Prince of Darkness in 35mm",
@@ -2378,26 +2192,6 @@
           "rawName" : "The History of Concrete",
           "runtimeMinutes" : 101,
           "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Ridley Scott",
-      "feedRuntimeHint" : 90,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nLEGEND, from director Ridley Scott, is a visually stunning fantasy-adventure in which pure good and evil battle to the death amidst spectacular surroundings. Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story stars Tom Cruise as a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess Lily (Mia Sara) and defeat the demonic Lord of Darkness (Tim Curry), or the world will be plunged into a never-ending ice age.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Universal\n\nCOUNTRY: USA",
-      "rawTitle" : "LEGEND",
-      "start" : "2026-10-12T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/legend-10-11-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Ridley Scott",
-          "rawName" : "LEGEND",
-          "runtimeMinutes" : 90,
-          "year" : "1985"
         }
       ]
     },
@@ -2540,32 +2334,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Charles B. Pierce",
-      "feedRuntimeHint" : 90,
-      "rawTitle" : "The Town That Dreaded Sundown \/ The Evictors",
-      "start" : "2026-10-13T02:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-12-the-town-that-dreaded-sundown-the-evictors",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm",
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Charles B. Pierce",
-          "rawName" : "The Town That Dreaded Sundown",
-          "runtimeMinutes" : 90,
-          "year" : "1976"
-        },
-        {
-          "director" : "Charles B. Pierce",
-          "rawName" : "The Evictors",
-          "runtimeMinutes" : 92,
-          "year" : "1979"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Wolfgang Becker",
       "feedRuntimeHint" : 112,
       "rawDescription" : "### **ABOUT THE FILM:**\n\n*In German with English subtitles.*\n\nBerlin, 2019: The 30th Anniversary of the Fall of the Berlin Wall is approaching, but former East German Railway worker “Micha” Hartung (Hübner) is focused on saving his failing video store, not on the past. When tabloid journalist Landmann (Ullrich) uncovers a report from the Stasi archives linking Micha to a mass escape of GDR citizens via the city’s Friedrichstraße Station in 1984, he moves to secure the rights to the story. Denying his role at first, Micha bends the facts, confirming the report in exchange for the cash royalty.  Suddenly, Micha is a media sensation. After Paula (Paul), who was a child on that train, sees Micha on TV, she travels to thank him. Upon meeting, Paula thinks she’s found her “Berlin Hero,” and Micha has found the woman of his dreams. Still, it is only a matter of time before the web of lies and half-truths unravels, jeopardizing the couple’s happiness and the country’s understanding of the past. Based on Maxim Leo’s eponymous novel, featuring an extraordinary cast including Charly Hübner, Leonie Benesch, Thorsten Merten, Becker himself, and his long-time ensemble, Christiana Paul, Jürgen Vogel, and Daniel Brühl, Wolfgang Becker’s final film is a heart-warming, honest comedy about the nature of truth. \n\nFORMAT: DCP\n\nCOUNTRY: Germany",
@@ -2606,22 +2374,28 @@
       ]
     },
     {
-      "feedDirectorHint" : "Raoul Peck",
-      "feedRuntimeHint" : 106,
-      "rawDescription" : "Presented by the UCI Third Cinema Now Collective, a collaboration between Prashanth Kamalakanthan, Margaux Fitoussi, and Felix Jean-Louis of the University of California, Irvine. The film series highlights the work of filmmakers from across the Global South and creates a forum for genuine encounters between the UC Irvine community, greater Los Angeles, and filmmakers from around the world. Each screening contextualizes regional cinematic voices and facilitates an extended talkback discussion, centering regional voices as they speak back to American audiences at this pivotal historical juncture.\n\n‍\n\n## L'Homme sur les quais (The Man by the Shore)\n\nThe parents of Sarah, 8 years old had to run away from the Haïti of the Duvaliers. The father, a discredited officer, trusted Sarah and her two sisters to their grandmother. For a time, secure away from Janvier’s revenge, a violent person dedicated to the new power, Sarah creates a world of her own, full of fantasies, of mysteries and rituals. 30 years later, the pictures of those years intermingle, nightmares recalling a man on the quays that put an end to her childhood.\n\n‍\n\n‍\n\n‍\n\n‍\n\n‍\n\n**dir. Raoul Peck, 1993***Haiti, digital projection*106 min\n\n‍\n\n## MONDAY, 10\/127:30 DOORS8:00 SCREENING\n\n‍\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** *members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one* *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n‍\n\n‍\n\n‍\n\n**‍***Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
-      "rawTitle" : "L'HOMME SUR LES QUAIS (1993), pres. by UCI Third Cinema Now Collective",
-      "start" : "2026-10-13T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/lhomme-sur-les-quais-1993-pres-by-uci-third-cinema-now-collective",
-      "venueID" : "whammy",
+      "feedDirectorHint" : "Charles B. Pierce",
+      "feedRuntimeHint" : 90,
+      "rawTitle" : "The Town That Dreaded Sundown \/ The Evictors",
+      "start" : "2026-10-13T02:30:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-12-the-town-that-dreaded-sundown-the-evictors",
+      "venueID" : "newbev",
       "videoFormats" : [
-        "digital projection"
+        "35mm",
+        "35mm"
       ],
       "works" : [
         {
-          "director" : "Raoul Peck",
-          "rawName" : "L'HOMME SUR LES QUAIS (1993), pres. by UCI Third Cinema Now Collective",
-          "runtimeMinutes" : 106,
-          "year" : "2026"
+          "director" : "Charles B. Pierce",
+          "rawName" : "The Town That Dreaded Sundown",
+          "runtimeMinutes" : 90,
+          "year" : "1976"
+        },
+        {
+          "director" : "Charles B. Pierce",
+          "rawName" : "The Evictors",
+          "runtimeMinutes" : 92,
+          "year" : "1979"
         }
       ]
     },
@@ -2641,6 +2415,26 @@
           "director" : "John Wilson",
           "rawName" : "The History of Concrete",
           "runtimeMinutes" : 101,
+          "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Raoul Peck",
+      "feedRuntimeHint" : 106,
+      "rawDescription" : "Presented by the UCI Third Cinema Now Collective, a collaboration between Prashanth Kamalakanthan, Margaux Fitoussi, and Felix Jean-Louis of the University of California, Irvine. The film series highlights the work of filmmakers from across the Global South and creates a forum for genuine encounters between the UC Irvine community, greater Los Angeles, and filmmakers from around the world. Each screening contextualizes regional cinematic voices and facilitates an extended talkback discussion, centering regional voices as they speak back to American audiences at this pivotal historical juncture.\n\n‍\n\n## L'Homme sur les quais (The Man by the Shore)\n\nThe parents of Sarah, 8 years old had to run away from the Haïti of the Duvaliers. The father, a discredited officer, trusted Sarah and her two sisters to their grandmother. For a time, secure away from Janvier’s revenge, a violent person dedicated to the new power, Sarah creates a world of her own, full of fantasies, of mysteries and rituals. 30 years later, the pictures of those years intermingle, nightmares recalling a man on the quays that put an end to her childhood.\n\n‍\n\n‍\n\n‍\n\n‍\n\n‍\n\n**dir. Raoul Peck, 1993***Haiti, digital projection*106 min\n\n‍\n\n## MONDAY, 10\/127:30 DOORS8:00 SCREENING\n\n‍\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** *members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one* *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n‍\n\n‍\n\n‍\n\n**‍***Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
+      "rawTitle" : "L'HOMME SUR LES QUAIS (1993), pres. by UCI Third Cinema Now Collective",
+      "start" : "2026-10-13T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/lhomme-sur-les-quais-1993-pres-by-uci-third-cinema-now-collective",
+      "venueID" : "whammy",
+      "videoFormats" : [
+        "digital projection"
+      ],
+      "works" : [
+        {
+          "director" : "Raoul Peck",
+          "rawName" : "L'HOMME SUR LES QUAIS (1993), pres. by UCI Third Cinema Now Collective",
+          "runtimeMinutes" : 106,
           "year" : "2026"
         }
       ]
@@ -2836,26 +2630,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Bernard Rose",
-      "feedRuntimeHint" : 100,
-      "rawDescription" : "**Screenwriter**: Bernard Rose from a story by Clive Barker\n\n**Producers**: Steve Golin, Sigurjon Sighvatsson, Alan Poul\n\n*Sweets for the sweet*&#8230;Undisputedly one of the best horror films of the 1990s (and arguably of all time), this creepy classic will still chill you to the bone. Let the hypnotic Philip Glass score draw you into a haunting and menacing nightmare about gentrification and systemic racism, perfectly helmed by Tony Todd&#8217;s iconic performance. Helen (Virginia Madsen) is a grad student on the hunt for the definitive scoop of a local urban legend for her thesis project. What she finds is a monster that preys on the projects and seduces her into his antebellum mythology. A pitch-perfect masterpiece of horror, say his name five times and join us for terror in Cabrini Green!\n\n**Picks from the Video Store**\n\nWe miss Tony Todd! Take home more menacing delights from his killer career!\n\n*Final Destination(s), The Rock, The Crow*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Candyman",
-      "start" : "2026-10-15T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4735523",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Bernard Rose",
-          "rawName" : "Candyman",
-          "runtimeMinutes" : 100,
-          "year" : "1992"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Joseph Cates",
       "feedRuntimeHint" : 94,
       "rawTitle" : "Who Killed Teddy Bear? \/ In the Cut",
@@ -2878,6 +2652,26 @@
           "rawName" : "In the Cut",
           "runtimeMinutes" : 119,
           "year" : "2003"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Bernard Rose",
+      "feedRuntimeHint" : 100,
+      "rawDescription" : "**Screenwriter**: Bernard Rose from a story by Clive Barker\n\n**Producers**: Steve Golin, Sigurjon Sighvatsson, Alan Poul\n\n*Sweets for the sweet*&#8230;Undisputedly one of the best horror films of the 1990s (and arguably of all time), this creepy classic will still chill you to the bone. Let the hypnotic Philip Glass score draw you into a haunting and menacing nightmare about gentrification and systemic racism, perfectly helmed by Tony Todd&#8217;s iconic performance. Helen (Virginia Madsen) is a grad student on the hunt for the definitive scoop of a local urban legend for her thesis project. What she finds is a monster that preys on the projects and seduces her into his antebellum mythology. A pitch-perfect masterpiece of horror, say his name five times and join us for terror in Cabrini Green!\n\n**Picks from the Video Store**\n\nWe miss Tony Todd! Take home more menacing delights from his killer career!\n\n*Final Destination(s), The Rock, The Crow*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Candyman",
+      "start" : "2026-10-15T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4735523",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Bernard Rose",
+          "rawName" : "Candyman",
+          "runtimeMinutes" : 100,
+          "year" : "1992"
         }
       ]
     },
@@ -2922,6 +2716,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Joe Lo Truglio",
+      "feedRuntimeHint" : 84,
+      "rawDescription" : "**Screenwriter**: Joe Lo Truglio\n\n**Producers**: Kara Baker,  Joe Lo Truglio,  Joe Mortimer\n\nWith writer\/director **Joe Lo Truglio** in person for the October 15th screening!\n\nJoin us in the microcinema for Joe Lo Truglio&#8217;s nail-biting nightmare of the darkness that lurks in the woods and inside us. In his directorial debut feature, veteran comedian and actor Joe Lo Truglio displays his darker side with this satisfying slow burn of isolation, PTSD, and pyschosis. After a violent attack, a woman searches for strength in the solitude of a lookout job, but is overwhelmed by something darker. With a phenomenal cast and a slow and steadily unhinged descent into madness and feminine rage, culminating in a gory and hallucinatory climax, you won&#8217;t want to skip this trip to the nature&#8230;of revenge!\n\nOctober 16th will be screening only without guests.",
+      "rawTitle" : "Outpost",
+      "start" : "2026-10-16T02:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4679430",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Joe Lo Truglio",
+          "rawName" : "Outpost",
+          "runtimeMinutes" : 84,
+          "year" : "2023"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Ken Russell",
       "feedRuntimeHint" : 114,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nAn enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K. \n\nFORMAT: 35mm\n\nDISTRIBUTOR: Clockwork\n\nCOUNTRY: UK",
@@ -2962,22 +2776,28 @@
       ]
     },
     {
-      "feedDirectorHint" : "Joe Lo Truglio",
-      "feedRuntimeHint" : 84,
-      "rawDescription" : "**Screenwriter**: Joe Lo Truglio\n\n**Producers**: Kara Baker,  Joe Lo Truglio,  Joe Mortimer\n\nWith writer\/director **Joe Lo Truglio** in person for the October 15th screening!\n\nJoin us in the microcinema for Joe Lo Truglio&#8217;s nail-biting nightmare of the darkness that lurks in the woods and inside us. In his directorial debut feature, veteran comedian and actor Joe Lo Truglio displays his darker side with this satisfying slow burn of isolation, PTSD, and pyschosis. After a violent attack, a woman searches for strength in the solitude of a lookout job, but is overwhelmed by something darker. With a phenomenal cast and a slow and steadily unhinged descent into madness and feminine rage, culminating in a gory and hallucinatory climax, you won&#8217;t want to skip this trip to the nature&#8230;of revenge!\n\nOctober 16th will be screening only without guests.",
-      "rawTitle" : "Outpost",
-      "start" : "2026-10-16T02:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4679430",
-      "venueID" : "vidiots",
+      "feedDirectorHint" : "Victor Halperin",
+      "feedRuntimeHint" : 64,
+      "rawTitle" : "Supernatural \/ Terror Aboard",
+      "start" : "2026-10-16T02:30:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-15-supernatural-terror-aboard",
+      "venueID" : "newbev",
       "videoFormats" : [
-        "Digital"
+        "35mm",
+        "35mm"
       ],
       "works" : [
         {
-          "director" : "Joe Lo Truglio",
-          "rawName" : "Outpost",
-          "runtimeMinutes" : 84,
-          "year" : "2023"
+          "director" : "Victor Halperin",
+          "rawName" : "Supernatural",
+          "runtimeMinutes" : 64,
+          "year" : "1933"
+        },
+        {
+          "director" : "Paul Sloane",
+          "rawName" : "Terror Aboard",
+          "runtimeMinutes" : 69,
+          "year" : "1933"
         }
       ]
     },
@@ -3012,32 +2832,6 @@
       ],
       "works" : [
 
-      ]
-    },
-    {
-      "feedDirectorHint" : "Victor Halperin",
-      "feedRuntimeHint" : 64,
-      "rawTitle" : "Supernatural \/ Terror Aboard",
-      "start" : "2026-10-16T02:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-15-supernatural-terror-aboard",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm",
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Victor Halperin",
-          "rawName" : "Supernatural",
-          "runtimeMinutes" : 64,
-          "year" : "1933"
-        },
-        {
-          "director" : "Paul Sloane",
-          "rawName" : "Terror Aboard",
-          "runtimeMinutes" : 69,
-          "year" : "1933"
-        }
       ]
     },
     {
@@ -3174,23 +2968,16 @@
       ]
     },
     {
-      "feedDirectorHint" : "Ken Russell",
-      "feedRuntimeHint" : 114,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nAn enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Clockwork\n\nCOUNTRY: UK",
-      "rawTitle" : "KEN RUSSELL'S THE DEVILS",
-      "start" : "2026-10-17T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/ken-russells-the-devils-10-16-2026-7pm",
-      "venueID" : "aero",
+      "rawDescription" : "Free. Bad artist welcome\n\nHosted by an art group based in Echo Park",
+      "rawTitle" : "BYOP: Bring Your Own Pen Drink & Draw!",
+      "start" : "2026-10-17T01:00:00.000Z",
+      "ticketURL" : "https:\/\/storiesla.com\/events?id=4035820261016",
+      "venueID" : "stories",
       "videoFormats" : [
-        "35mm"
+
       ],
       "works" : [
-        {
-          "director" : "Ken Russell",
-          "rawName" : "KEN RUSSELL'S THE DEVILS",
-          "runtimeMinutes" : 114,
-          "year" : "1971"
-        }
+
       ]
     },
     {
@@ -3240,6 +3027,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Ken Russell",
+      "feedRuntimeHint" : 114,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nAn enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Clockwork\n\nCOUNTRY: UK",
+      "rawTitle" : "KEN RUSSELL'S THE DEVILS",
+      "start" : "2026-10-17T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/ken-russells-the-devils-10-16-2026-7pm",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Ken Russell",
+          "rawName" : "KEN RUSSELL'S THE DEVILS",
+          "runtimeMinutes" : 114,
+          "year" : "1971"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Taika Waititi",
       "feedRuntimeHint" : 108,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nJojo is a lonely German boy who discovers that his single mother is hiding a Jewish girl in their attic. Aided only by his imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism as World War II continues to rage on.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: New Zealand\/USA\/Czech Republic",
@@ -3274,18 +3081,6 @@
       ]
     },
     {
-      "rawTitle" : "The Tingler",
-      "start" : "2026-10-17T03:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4191?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "Tobe Hooper",
       "feedRuntimeHint" : 83,
       "rawDescription" : "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
@@ -3303,6 +3098,18 @@
           "runtimeMinutes" : 83,
           "year" : "1974"
         }
+      ]
+    },
+    {
+      "rawTitle" : "The Tingler",
+      "start" : "2026-10-17T03:00:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4191?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -3433,20 +3240,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Ken Russell",
-      "feedRuntimeHint" : 114,
-      "rawTitle" : "Ken Russell's The Devils 35mm",
-      "start" : "2026-10-17T20:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4085?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "Jules Bass",
       "feedRuntimeHint" : 95,
       "rawDescription" : "**Screenwriters**: Arthur Rankin Jr.,  Len Korobkin,  Harvey Kurtzman\n\n**Producers**: Arthur Rankin Jr., Jules Bass\n\nGet ready for the wildest, cutest, stop-motion spooky soiree ever made when all your favorite monsters (and even a pint-sized Peter Lorre) get together to sing, dance, and get groovy in this Rankin and Bass animated classic! If you&#8217;ve been looking for the kiddo gateway to all the classic horror monsters, look no further than this adorable animated shindig from the people that animated all our favorite holidays! When Dr Frankenstein decides to retire from the monster-making business, he calls an international roster of monsters to a creepy convention to elect his successor. Everyone is there including Dracula, The Werewolf, The Creature, Dr Jekyll & Mr Hyde and many more. But Frankenstein&#8217;s title is not all that is at stake. The famous doctor has also discovered the secret of total destruction that must not fall into the wrong hands! Bring your little monster lovers, or your stop-motion stan besties for the party of the season!\n\n**Picks from the Video Store**\n\nWe&#8217;ve got a Rankin and Bass section for all the cutest animated holidays and more!\n\n*The Daydreamer, Rudolph the Red Nosed Reindeer, Here Comes Peter Cottontail*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -3464,6 +3257,20 @@
           "runtimeMinutes" : 95,
           "year" : "1967"
         }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Ken Russell",
+      "feedRuntimeHint" : 114,
+      "rawTitle" : "Ken Russell's The Devils 35mm",
+      "start" : "2026-10-17T20:00:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4085?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -3506,23 +3313,6 @@
       ]
     },
     {
-      "feedRuntimeHint" : 720,
-      "rawDescription" : "35mm can be beautiful, but 16mm is *personal*. And when it’s a marathon of IB Technicolor 16mm prints, it’s both! Join Secret Sixteen founder Mike Williamson, Josh Miller (Killer Movies) and Bret Berg (Museum of Home Video) for a 12-hour sensorial feast of shockingly saturated colors and bloody night terrors — all screened from Secret Sixteen’s siqq collection of this wonderous format.\n\nWith enough decades, any print says bye-bye to its color except for the literal magic of Technicolor. This ancient occult art used 3x the amount of film to conjure 3x the joy in seeing unreal amounts of hues…the kind of shades that physically can’t be created today, as the company discontinued its dark arts in ’75.\n\n**Titles aren’t revealed until they unspool onscreen.** What we can say is this six-film marathon is soaking in cursed body parts, heavyweight character actors, even heavier cloaks, liminal libraries and haunting hallways, sweaty demonology, boosted bustiers, gorgeous lighting, the walls closing in, wealthy reprobates, moody golems, boundless beliefs, hammy histrionics, masked murderers, meek mod psychopaths, rural isolation, “I killed your friend” vibes, danger, paranoia, bite marks, high fashion and quite a few instances of eye-popping palates matching a 4D printing process to give you an unparalleled moment in time. A pigment of your imagination.",
-      "rawTitle" : "SECRET SIXTEEN: TECHNICOLOR TERRORS",
-      "start" : "2026-10-17T21:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1410726",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "16mm"
-      ],
-      "works" : [
-        {
-          "rawName" : "SECRET SIXTEEN: TECHNICOLOR TERRORS",
-          "runtimeMinutes" : 720
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "David Hand",
       "feedRuntimeHint" : 83,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nSnow White wins the hearts of the Seven Dwarfs and triumphs over an evil Queen in the film that launched Disney’s animation legacy.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: USA",
@@ -3543,22 +3333,19 @@
       ]
     },
     {
-      "feedDirectorHint" : "Peter Yates",
-      "feedRuntimeHint" : 101,
-      "rawDescription" : "**Screenwriter**: Steve Tesich\n\n**Producer**: Peter Yates\n\nGet on your bikes and ride down to Vidiots for this coming-of-age classic on two wheels with a special pre-screening conversation with the legendary **Paul Dooley**!\n\nJoin us for Peter Yates&#8217; keenly observed character study and underdog teen triumph. Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends&#8217; and parents&#8217; annoyance. With affectionate characterization, a remarkable cast, and an un-clichéd underdog story for everyone, *Breaking Away* remains an effortless classic of 1970s cinema!\n\n**Picks from the Video Store**\n\nBring home more Paul Dooley tonight &#8211; no bicycle needed!\n\n*Strange Brew, Waiting for Guffman, A Perfect Couple*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Breaking Away",
-      "start" : "2026-10-17T23:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672377",
-      "venueID" : "vidiots",
+      "feedRuntimeHint" : 720,
+      "rawDescription" : "35mm can be beautiful, but 16mm is *personal*. And when it’s a marathon of IB Technicolor 16mm prints, it’s both! Join Secret Sixteen founder Mike Williamson, Josh Miller (Killer Movies) and Bret Berg (Museum of Home Video) for a 12-hour sensorial feast of shockingly saturated colors and bloody night terrors — all screened from Secret Sixteen’s siqq collection of this wonderous format.\n\nWith enough decades, any print says bye-bye to its color except for the literal magic of Technicolor. This ancient occult art used 3x the amount of film to conjure 3x the joy in seeing unreal amounts of hues…the kind of shades that physically can’t be created today, as the company discontinued its dark arts in ’75.\n\n**Titles aren’t revealed until they unspool onscreen.** What we can say is this six-film marathon is soaking in cursed body parts, heavyweight character actors, even heavier cloaks, liminal libraries and haunting hallways, sweaty demonology, boosted bustiers, gorgeous lighting, the walls closing in, wealthy reprobates, moody golems, boundless beliefs, hammy histrionics, masked murderers, meek mod psychopaths, rural isolation, “I killed your friend” vibes, danger, paranoia, bite marks, high fashion and quite a few instances of eye-popping palates matching a 4D printing process to give you an unparalleled moment in time. A pigment of your imagination.",
+      "rawTitle" : "SECRET SIXTEEN: TECHNICOLOR TERRORS",
+      "start" : "2026-10-17T21:00:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1410726",
+      "venueID" : "braindead",
       "videoFormats" : [
-
+        "16mm"
       ],
       "works" : [
         {
-          "director" : "Peter Yates",
-          "rawName" : "Breaking Away",
-          "runtimeMinutes" : 101,
-          "year" : "1979"
+          "rawName" : "SECRET SIXTEEN: TECHNICOLOR TERRORS",
+          "runtimeMinutes" : 720
         }
       ]
     },
@@ -3579,6 +3366,26 @@
           "rawName" : "THE WITCHES OF EASTWICK",
           "runtimeMinutes" : 118,
           "year" : "1987"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Peter Yates",
+      "feedRuntimeHint" : 101,
+      "rawDescription" : "**Screenwriter**: Steve Tesich\n\n**Producer**: Peter Yates\n\nGet on your bikes and ride down to Vidiots for this coming-of-age classic on two wheels with a special pre-screening conversation with the legendary **Paul Dooley**!\n\nJoin us for Peter Yates&#8217; keenly observed character study and underdog teen triumph. Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends&#8217; and parents&#8217; annoyance. With affectionate characterization, a remarkable cast, and an un-clichéd underdog story for everyone, *Breaking Away* remains an effortless classic of 1970s cinema!\n\n**Picks from the Video Store**\n\nBring home more Paul Dooley tonight &#8211; no bicycle needed!\n\n*Strange Brew, Waiting for Guffman, A Perfect Couple*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Breaking Away",
+      "start" : "2026-10-17T23:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672377",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Peter Yates",
+          "rawName" : "Breaking Away",
+          "runtimeMinutes" : 101,
+          "year" : "1979"
         }
       ]
     },
@@ -3643,22 +3450,17 @@
       ]
     },
     {
-      "feedDirectorHint" : "Ken Russell",
-      "feedRuntimeHint" : 114,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nAn enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Clockwork\n\nCOUNTRY: UK",
-      "rawTitle" : "KEN RUSSELL'S THE DEVILS",
+      "rawDescription" : "### **ABOUT THE EVENT:**\n\nThis festive event supports **Silverlake Shorts,** a monthly short-film screening series championing independent filmmakers and animators in Los Angeles. Proceeds from the event will also support the work of **Saturday Morning Cartoons United**™, a Los Angeles 501(c)(3) nonprofit dedicated to celebrating legacy cartoons and strengthening local communities through shared cultural experiences.\n\n### **ABOUT THE SHORTS:**\n\n**“Parrots,” 2023, Dir. Jennifer Nie, 6 Mins, USA**\n\n“Parrots” is a 6 minute slice-of-life short film about two girls growing up in the San Gabriel Valley, language and the mundane moments that don’t feel big when they happen, but end up defining a big part of who we become. As they observe and repeat things they don’t yet understand, they live and grow in a world more connected than they realize.\n\nFORMAT: DCP\n\n**“Arnold Escapes from Church,” 1988, Dir. Craig Bartlett, 2 Mins, USA**\n\nOur favorite football head Arnold goes to church and daydreams about the 23rd Psalm.\n\nFORMAT: DCP\n\n### **ABOUT THE EPISODES:**\n\n**“Pilot Episode,” 1996, Dirs. Craig Barlett and Tuck Tucker, 11 Mins**\n\nArnold accidentally knocks out a bully named Harold during a baseball game, and Harold gives Arnold 24 hours to live before he beats him to a pulp.\n\nFORMAT: DCP\n\n**“Stoop Kid,” 1996, Dirs. Kelly James, Larry Leichliter and Jamie Mitchell, 11 Mins**\n\nWhen Arnold finds out that Stoop Kid is afraid to leave his stoop, he feels sorry for him and decides to help him overcome his fear.\n\nFORMAT: DCP\n\n**“Arnold’s Halloween,” 1997, Dir. Jamie Mitchell, 22 Mins**\n\nArnold and Gerald team up to carry out the ultimate Halloween prank, by deliberately faking a news radio broadcast of an alien invasion, causing widespread panic throughout town not seen since Orson Welles inadvertently did so in 1938!\n\nFORMAT: DCP\n\n**“Haunted Train,” 1996, Dirs. Larry Leichliter, Jamie Mitchell and Juli Murphy, 11 Mins**\n\nOn a boring summer night, Grandpa tries to liven things up by telling a story about haunted Train Number 25.\n\nFORMAT: DCP\n\n### **ABOUT THE SERIES:**\n\n**HEY ARNOLD!, 1996, Nickelodeon, USA**\n\nCreated by Craig Bartlett, HEY ARNOLD! premiered on Nickelodeon in 1996 and quickly became one of the defining animated series of its generation. Set in the fictional urban neighborhood of Hillwood, the series followed fourth-grader Arnold Shortman and his friends, family and neighbors as they navigated childhood, friendship, school and growing up. Known for its distinctive visual style, memorable characters, heartfelt storytelling and acclaimed music by composer Jim Lang, HEY ARNOLD! balanced humor with surprisingly thoughtful stories about family, identity, friendship and life in the city. From Arnold and Gerald to Helga, Phoebe, Harold, Rhonda, and the unforgettable residents of the Sunset Arms boarding house, the series created a world that felt both imaginative and deeply relatable.\n\nOriginally airing for five seasons, HEY ARNOLD! became a lasting part of Nickelodeon’s legacy and continues to inspire a devoted fanbase decades after its debut. In 2026, fans are celebrating 30 years of HEY ARNOLD! and the enduring heart, humor, music and characters that made Hillwood feel like home.",
+      "rawTitle" : "Hey Arnold!: A Spooktacular 30th Anniversary Screening",
       "start" : "2026-10-18T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/ken-russells-the-devils-10-17-2026-7pm",
-      "venueID" : "aero",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/hey-arnold-a-spooktacular-30th-anniversary-benefit-10-17-2026",
+      "venueID" : "losfeliz",
       "videoFormats" : [
-        "35mm"
+
       ],
       "works" : [
         {
-          "director" : "Ken Russell",
-          "rawName" : "KEN RUSSELL'S THE DEVILS",
-          "runtimeMinutes" : 114,
-          "year" : "1971"
+          "rawName" : "Hey Arnold!: A Spooktacular 30th Anniversary Screening"
         }
       ]
     },
@@ -3683,17 +3485,22 @@
       ]
     },
     {
-      "rawDescription" : "### **ABOUT THE EVENT:**\n\nThis festive event supports **Silverlake Shorts,** a monthly short-film screening series championing independent filmmakers and animators in Los Angeles. Proceeds from the event will also support the work of **Saturday Morning Cartoons United**™, a Los Angeles 501(c)(3) nonprofit dedicated to celebrating legacy cartoons and strengthening local communities through shared cultural experiences.\n\n### **ABOUT THE SHORTS:**\n\n**“Parrots,” 2023, Dir. Jennifer Nie, 6 Mins, USA**\n\n“Parrots” is a 6 minute slice-of-life short film about two girls growing up in the San Gabriel Valley, language and the mundane moments that don’t feel big when they happen, but end up defining a big part of who we become. As they observe and repeat things they don’t yet understand, they live and grow in a world more connected than they realize.\n\nFORMAT: DCP\n\n**“Arnold Escapes from Church,” 1988, Dir. Craig Bartlett, 2 Mins, USA**\n\nOur favorite football head Arnold goes to church and daydreams about the 23rd Psalm.\n\nFORMAT: DCP\n\n### **ABOUT THE EPISODES:**\n\n**“Pilot Episode,” 1996, Dirs. Craig Barlett and Tuck Tucker, 11 Mins**\n\nArnold accidentally knocks out a bully named Harold during a baseball game, and Harold gives Arnold 24 hours to live before he beats him to a pulp.\n\nFORMAT: DCP\n\n**“Stoop Kid,” 1996, Dirs. Kelly James, Larry Leichliter and Jamie Mitchell, 11 Mins**\n\nWhen Arnold finds out that Stoop Kid is afraid to leave his stoop, he feels sorry for him and decides to help him overcome his fear.\n\nFORMAT: DCP\n\n**“Arnold’s Halloween,” 1997, Dir. Jamie Mitchell, 22 Mins**\n\nArnold and Gerald team up to carry out the ultimate Halloween prank, by deliberately faking a news radio broadcast of an alien invasion, causing widespread panic throughout town not seen since Orson Welles inadvertently did so in 1938!\n\nFORMAT: DCP\n\n**“Haunted Train,” 1996, Dirs. Larry Leichliter, Jamie Mitchell and Juli Murphy, 11 Mins**\n\nOn a boring summer night, Grandpa tries to liven things up by telling a story about haunted Train Number 25.\n\nFORMAT: DCP\n\n### **ABOUT THE SERIES:**\n\n**HEY ARNOLD!, 1996, Nickelodeon, USA**\n\nCreated by Craig Bartlett, HEY ARNOLD! premiered on Nickelodeon in 1996 and quickly became one of the defining animated series of its generation. Set in the fictional urban neighborhood of Hillwood, the series followed fourth-grader Arnold Shortman and his friends, family and neighbors as they navigated childhood, friendship, school and growing up. Known for its distinctive visual style, memorable characters, heartfelt storytelling and acclaimed music by composer Jim Lang, HEY ARNOLD! balanced humor with surprisingly thoughtful stories about family, identity, friendship and life in the city. From Arnold and Gerald to Helga, Phoebe, Harold, Rhonda, and the unforgettable residents of the Sunset Arms boarding house, the series created a world that felt both imaginative and deeply relatable.\n\nOriginally airing for five seasons, HEY ARNOLD! became a lasting part of Nickelodeon’s legacy and continues to inspire a devoted fanbase decades after its debut. In 2026, fans are celebrating 30 years of HEY ARNOLD! and the enduring heart, humor, music and characters that made Hillwood feel like home.",
-      "rawTitle" : "Hey Arnold!: A Spooktacular 30th Anniversary Screening",
+      "feedDirectorHint" : "Ken Russell",
+      "feedRuntimeHint" : 114,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nAn enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption – and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Clockwork\n\nCOUNTRY: UK",
+      "rawTitle" : "KEN RUSSELL'S THE DEVILS",
       "start" : "2026-10-18T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/hey-arnold-a-spooktacular-30th-anniversary-benefit-10-17-2026",
-      "venueID" : "losfeliz",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/ken-russells-the-devils-10-17-2026-7pm",
+      "venueID" : "aero",
       "videoFormats" : [
-
+        "35mm"
       ],
       "works" : [
         {
-          "rawName" : "Hey Arnold!: A Spooktacular 30th Anniversary Screening"
+          "director" : "Ken Russell",
+          "rawName" : "KEN RUSSELL'S THE DEVILS",
+          "runtimeMinutes" : 114,
+          "year" : "1971"
         }
       ]
     },
@@ -4057,6 +3864,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Rob Christopher",
+      "feedRuntimeHint" : 75,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nHailed as “William Faulkner by way of B-movie film noir, porn paperbacks and Sun Records rockabilly,” poet, author and screenwriter Barry Gifford has given the world more than forty works, including the Sailor and Lula novels that inspired David Lynch’s WILD AT HEART. Featuring Willem Dafoe, Matt Dillon and Lili Taylor, ROY’S WORLD: BARRY GIFFORD’S CHICAGO brilliantly brings to life Gifford’s autobiographical collection of stories, capturing a vanished 1950s Chicago through a jazzy, impressionistic combination of beguiling archive footage, animation and spoken word.\n\nFORMAT: DCP\n\nCOUNTRY: USA",
+      "rawTitle" : "ROY'S WORLD: BARRY GIFFORD'S CHICAGO",
+      "start" : "2026-10-19T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/roys-world-barry-giffords-chicago-10-18-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Rob Christopher",
+          "rawName" : "ROY'S WORLD: BARRY GIFFORD'S CHICAGO",
+          "runtimeMinutes" : 75,
+          "year" : "2020"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "William Friedkin",
       "feedRuntimeHint" : 132,
       "rawDescription" : "**Screenwriter**: William Peter Blatty\n\n**Producer**: William Peter Blatty\n\nGrab your crucifix and hold your loved ones close as Vidiots delves into the depths of demonic horror on glorious celluloid!  Linda Blair shot her way into the stuff of cinematic legend as 12-year-old Regan MacNeil in this twisted, horrifying classic &#8211; considered by many to be the scariest film of all time. Young Regan begins to adopt an explicit new personality as strange events befall the local area of Georgetown. Her mother becomes torn between science and superstition in a desperate bid to save her daughter, and ultimately turns to her last hope: Father Damien Karras, a troubled priest who is struggling with his own faith. A blood-curdling masterwork from the late great William Friedkin, *The Exorcist* is ready to possess you once again!\n\n**Picks from the Video Store**\n\nWant to bring home more creepy kids? Try out these deep cuts from our horror and cult sections!\n\n*The Possession* (2012), *Kiss Daddy Goodbye, The Visitor*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.\n\n* *",
@@ -4088,26 +3915,6 @@
       ],
       "works" : [
 
-      ]
-    },
-    {
-      "feedDirectorHint" : "Rob Christopher",
-      "feedRuntimeHint" : 75,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nHailed as “William Faulkner by way of B-movie film noir, porn paperbacks and Sun Records rockabilly,” poet, author and screenwriter Barry Gifford has given the world more than forty works, including the Sailor and Lula novels that inspired David Lynch’s WILD AT HEART. Featuring Willem Dafoe, Matt Dillon and Lili Taylor, ROY’S WORLD: BARRY GIFFORD’S CHICAGO brilliantly brings to life Gifford’s autobiographical collection of stories, capturing a vanished 1950s Chicago through a jazzy, impressionistic combination of beguiling archive footage, animation and spoken word.\n\nFORMAT: DCP\n\nCOUNTRY: USA",
-      "rawTitle" : "ROY'S WORLD: BARRY GIFFORD'S CHICAGO",
-      "start" : "2026-10-19T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/roys-world-barry-giffords-chicago-10-18-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Rob Christopher",
-          "rawName" : "ROY'S WORLD: BARRY GIFFORD'S CHICAGO",
-          "runtimeMinutes" : 75,
-          "year" : "2020"
-        }
       ]
     },
     {
@@ -4252,6 +4059,25 @@
       ]
     },
     {
+      "feedDirectorHint" : "John Carpenter",
+      "feedRuntimeHint" : 95,
+      "rawTitle" : "In the Mouth of Madness in 4K",
+      "start" : "2026-10-20T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/in-the-mouth-of-madness-019fcdb6-5fab-378b-4f89-99a1fa5dba6e",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "John Carpenter",
+          "rawName" : "In the Mouth of Madness in 4K",
+          "runtimeMinutes" : 95,
+          "year" : "1995"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Ari Aster",
       "feedRuntimeHint" : 128,
       "rawDescription" : "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
@@ -4268,25 +4094,6 @@
           "rawName" : "Hereditary",
           "runtimeMinutes" : 128,
           "year" : "2018"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "John Carpenter",
-      "feedRuntimeHint" : 95,
-      "rawTitle" : "In the Mouth of Madness in 4K",
-      "start" : "2026-10-20T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/in-the-mouth-of-madness-019fcdb6-5fab-378b-4f89-99a1fa5dba6e",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "John Carpenter",
-          "rawName" : "In the Mouth of Madness in 4K",
-          "runtimeMinutes" : 95,
-          "year" : "1995"
         }
       ]
     },
@@ -4404,26 +4211,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Altman",
-      "feedRuntimeHint" : 160,
-      "rawDescription" : "**Screenwriter**: Joan Tewkesbury\n\n**Producer**: Robert Altman\n\nPart political thriller, part comedy, part musical, part whirling dervish, this kaleidoscopic symphony of celluloid could only be conducted by the maestro himself, Robert Altman. Dozens of characters&#8217; lives intersect in the bars, recording studios, music halls, hospitals, and airports of Music City, leading to a surprising and devastating climax. With overlapping soundtracks of dialogue, political rhetoric, and country music (written and performed by its stars including Karen Black and Ronee Blakley) and a cavalcade of fascinating characters that shoot for stardom, or fall from it, this film is a one-of-a-kind exercise in flawlessly-executed excess. Funny, cynical, and sonically enduring, you won&#8217;t want to miss a beat of *Nashville*.\n\n**Picks from the Video Store**\n\nTake home more physical media from maestro Altman tonight!\n\n*A Wedding, California Split, The Long Goodbye*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Nashville",
-      "start" : "2026-10-21T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4751215",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Robert Altman",
-          "rawName" : "Nashville",
-          "runtimeMinutes" : 160,
-          "year" : "1975"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Robert Zemeckis",
       "feedRuntimeHint" : 104,
       "rawDescription" : "**Screenwriters**: Martin Donovan, David Koepp\n\n**Producers**: Robert Zemeckis, Steve Starkey\n\nBring your best frenemies and get ready for Vidiots epic annual Halloween Shindig! We&#8217;ll be kicking off the night with extra spooky tunes and vibes before diving into the everlasting classic dark comedy ***Death Becomes Her***, followed by more Halloweenie revelry and plenty of spooky Vidiots fun. So, put on your costumes, bring your besties, and come for one killer party!\n\nThe quest for eternal youth is a bitch! National treasures Meryl Streep and Goldie Hawn star as best frenemies who will stop at nothing to keep their youthful good looks and the love of Bruce Willis. When Isabella Rossellini offers up a magical immortality potion, the rivalry intensifies to deadly and devilishly funny heights. A marvelously twisted dark comedy that lives on forever!\n\n**Picks from the Video Store**\n\nWe would die for Goldie Hawn! Take home more ridiculous classics from one of America&#8217;s funniest ladies!\n\n*Private Benjamin, Housesitter, Overboard*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -4459,6 +4246,26 @@
           "rawName" : "Teenage Sex and Death at Camp Miasma",
           "runtimeMinutes" : 112,
           "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Robert Altman",
+      "feedRuntimeHint" : 160,
+      "rawDescription" : "**Screenwriter**: Joan Tewkesbury\n\n**Producer**: Robert Altman\n\nPart political thriller, part comedy, part musical, part whirling dervish, this kaleidoscopic symphony of celluloid could only be conducted by the maestro himself, Robert Altman. Dozens of characters&#8217; lives intersect in the bars, recording studios, music halls, hospitals, and airports of Music City, leading to a surprising and devastating climax. With overlapping soundtracks of dialogue, political rhetoric, and country music (written and performed by its stars including Karen Black and Ronee Blakley) and a cavalcade of fascinating characters that shoot for stardom, or fall from it, this film is a one-of-a-kind exercise in flawlessly-executed excess. Funny, cynical, and sonically enduring, you won&#8217;t want to miss a beat of *Nashville*.\n\n**Picks from the Video Store**\n\nTake home more physical media from maestro Altman tonight!\n\n*A Wedding, California Split, The Long Goodbye*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Nashville",
+      "start" : "2026-10-21T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4751215",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Altman",
+          "rawName" : "Nashville",
+          "runtimeMinutes" : 160,
+          "year" : "1975"
         }
       ]
     },
@@ -4529,20 +4336,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Ken Russell",
-      "feedRuntimeHint" : 114,
-      "rawTitle" : "Ken Russell's The Devils 35mm",
-      "start" : "2026-10-21T21:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4089?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "Billy Wilder",
       "feedRuntimeHint" : 105,
       "rawTitle" : "The Seven Year Itch",
@@ -4559,6 +4352,20 @@
           "runtimeMinutes" : 105,
           "year" : "1955"
         }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Ken Russell",
+      "feedRuntimeHint" : 114,
+      "rawTitle" : "Ken Russell's The Devils 35mm",
+      "start" : "2026-10-21T21:30:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4089?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -4883,26 +4690,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Zemeckis",
-      "feedRuntimeHint" : 104,
-      "rawDescription" : "**Screenwriters**: Martin Donovan, David Koepp\n\n**Producers**: Robert Zemeckis, Steve Starkey\n\nBring your best frenemies and get ready for Vidiots epic annual Halloween Shindig! We&#8217;ll be kicking off the night with extra spooky tunes from **DJ Jeli** and creeped out vibes before diving into the everlasting classic dark comedy ***Death Becomes Her***, followed by more Halloweenie revelry and plenty of spooky Vidiots fun. So, put on your costumes, bring your besties, and come for one killer party!\n\nThe quest for eternal youth is a bitch! National treasures Meryl Streep and Goldie Hawn star as best frenemies who will stop at nothing to keep their youthful good looks and the love of Bruce Willis. When Isabella Rossellini offers up a magical immortality potion, the rivalry intensifies to deadly and devilishly funny heights. A marvelously twisted dark comedy that lives on forever!\n\n**Picks from the Video Store**\n\nWe would die for Goldie Hawn! Take home more ridiculous classics from one of America&#8217;s funniest ladies!\n\n*Private Benjamin, Housesitter, Overboard*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Death Becomes Her + Vidiots Halloween Party",
-      "start" : "2026-10-23T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672393",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Robert Zemeckis",
-          "rawName" : "Death Becomes Her + Vidiots Halloween Party",
-          "runtimeMinutes" : 104,
-          "year" : "1992"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "John Carpenter",
       "feedRuntimeHint" : 7,
       "rawTitle" : "Dark Star with Captain Voyeur",
@@ -4924,6 +4711,26 @@
           "rawName" : "Dark Star",
           "runtimeMinutes" : 83,
           "year" : "1974"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Robert Zemeckis",
+      "feedRuntimeHint" : 104,
+      "rawDescription" : "**Screenwriters**: Martin Donovan, David Koepp\n\n**Producers**: Robert Zemeckis, Steve Starkey\n\nBring your best frenemies and get ready for Vidiots epic annual Halloween Shindig! We&#8217;ll be kicking off the night with extra spooky tunes from **DJ Jeli** and creeped out vibes before diving into the everlasting classic dark comedy ***Death Becomes Her***, followed by more Halloweenie revelry and plenty of spooky Vidiots fun. So, put on your costumes, bring your besties, and come for one killer party!\n\nThe quest for eternal youth is a bitch! National treasures Meryl Streep and Goldie Hawn star as best frenemies who will stop at nothing to keep their youthful good looks and the love of Bruce Willis. When Isabella Rossellini offers up a magical immortality potion, the rivalry intensifies to deadly and devilishly funny heights. A marvelously twisted dark comedy that lives on forever!\n\n**Picks from the Video Store**\n\nWe would die for Goldie Hawn! Take home more ridiculous classics from one of America&#8217;s funniest ladies!\n\n*Private Benjamin, Housesitter, Overboard*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Death Becomes Her + Vidiots Halloween Party",
+      "start" : "2026-10-23T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672393",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Zemeckis",
+          "rawName" : "Death Becomes Her + Vidiots Halloween Party",
+          "runtimeMinutes" : 104,
+          "year" : "1992"
         }
       ]
     },
@@ -5052,6 +4859,20 @@
       ]
     },
     {
+      "feedDirectorHint" : "Quentin Tarantino",
+      "feedRuntimeHint" : 161,
+      "rawTitle" : "Once Upon a Time in... Hollywood (70mm)",
+      "start" : "2026-10-24T02:00:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4167?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "Wes Craven",
       "feedRuntimeHint" : 91,
       "rawDescription" : "**Screenwriter**: Wes Craven\n\n**Producer**: Robert Shaye\n\n*One, two&#8230; Freddy&#8217;s coming for you!* The teenagers on Elm Street are having a hard time sleeping &#8211; some creep with knives for fingers keeps terrorizing them in their dreams. When her friends begin to die off one by one, Nancy Thompson has got to find a way to track the madman in her own nightmares in order to stop him once and for all in the waking world. Wes Craven&#8217;s original nightmare and the start of a monstrous 20-year franchise, this first installment of Freddy remains the most terrifying of the series and is considered one of the best horror movies of all time. So, get your hall pass and head down to the boiler room, because the man of your dreams is waiting for you!\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -5108,20 +4929,6 @@
           "runtimeMinutes" : 198,
           "year" : "1956"
         }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Quentin Tarantino",
-      "feedRuntimeHint" : 161,
-      "rawTitle" : "Once Upon a Time in... Hollywood (70mm)",
-      "start" : "2026-10-24T02:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4167?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -5189,23 +4996,15 @@
       ]
     },
     {
-      "feedDirectorHint" : "Chuck Russell",
-      "feedRuntimeHint" : 96,
-      "rawDescription" : "A psychiatrist, familiar with the knife-wielding dream demon Freddy Krueger, helps teens at a mental hospital battle the killer who is invading their dreams.",
-      "rawTitle" : "A Nightmare on Elm Street 3: Dream Warriors",
+      "rawTitle" : "The Frighteners",
       "start" : "2026-10-24T03:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415578",
-      "venueID" : "braindead",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4198?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
       "videoFormats" : [
-        "DCP"
+
       ],
       "works" : [
-        {
-          "director" : "Chuck Russell",
-          "rawName" : "A Nightmare on Elm Street 3: Dream Warriors",
-          "runtimeMinutes" : 96,
-          "year" : "1987"
-        }
+
       ]
     },
     {
@@ -5229,15 +5028,23 @@
       ]
     },
     {
-      "rawTitle" : "The Frighteners",
+      "feedDirectorHint" : "Chuck Russell",
+      "feedRuntimeHint" : 96,
+      "rawDescription" : "A psychiatrist, familiar with the knife-wielding dream demon Freddy Krueger, helps teens at a mental hospital battle the killer who is invading their dreams.",
+      "rawTitle" : "A Nightmare on Elm Street 3: Dream Warriors",
       "start" : "2026-10-24T03:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4198?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415578",
+      "venueID" : "braindead",
       "videoFormats" : [
-
+        "DCP"
       ],
       "works" : [
-
+        {
+          "director" : "Chuck Russell",
+          "rawName" : "A Nightmare on Elm Street 3: Dream Warriors",
+          "runtimeMinutes" : 96,
+          "year" : "1987"
+        }
       ]
     },
     {
@@ -5478,26 +5285,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Andrew Fleming",
-      "feedRuntimeHint" : 101,
-      "rawDescription" : "“We are the freaks.” Black lipstick, Wicca, and Catholic school angst — THE CRAFT is CARRIE by way of CLUELESS. When troubled teen Sarah (Robin Tunney, EMPIRE RECORDS) transfers to a new high school in LA, she is quickly befriended by a trio rumored to be witches — Bonnie (Neve Campbell, SCREAM), Rochelle (Rachel True, NOWHERE), and Nancy (Fairuza Balk, AMERICAN HISTORY X). It is not long before the spells and curses cast by the budding coven take on a life of their own. Less content to rest on hijinks and popularity contests than its contemporaries, the script by FLATLINERS scribe, Peter Filardi, crafts a broody atmosphere as thick as its protagonist’s eyeliner and continues to resonate with girl gangs and misfits who’ve long outgrown the braces and rosary combo. Co-starring Skeet Ulrich (SCREAM) and Breckin Meyer (ROADTRIP).  **Screening in 35mm! **",
-      "rawTitle" : "The Craft",
-      "start" : "2026-10-24T23:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415600",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Andrew Fleming",
-          "rawName" : "The Craft",
-          "runtimeMinutes" : 101,
-          "year" : "1996"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Henry Selick",
       "feedRuntimeHint" : 76,
       "rawDescription" : "**Screenwriters**: Michael McDowell, Caroline Thompson\n\n**Producers**: Tim Burton, Denise Di Novi, Kathleen Gavin\n\nGet in the spooky spirit with a trip to the delightful nightmare world of Halloween Town with Jack Skellington and his gruesome band of ghoulfriends. Tired of the monotony of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, has a plan to kidnap Santa Claus and turn Christmas creepy. But as the winter holiday approaches, Jack&#8217;s rag-doll girlfriend, Sally, tries to foil his misguided plans and bring back Christmas merriment. A stop-motion delight for everyone with extraordinary animation, iconic songs, and a whole world of creepy creatures to fall in love with!\n\n**Picks from the Video Store******\n\nBring home more spooky cuties for the kiddos!\n\n*The Worst Witch, Something Wicked this way Comes, Casper***\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -5534,6 +5321,26 @@
           "rawName" : "THE BLACK CAULDRON",
           "runtimeMinutes" : 82,
           "year" : "1985"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Andrew Fleming",
+      "feedRuntimeHint" : 101,
+      "rawDescription" : "“We are the freaks.” Black lipstick, Wicca, and Catholic school angst — THE CRAFT is CARRIE by way of CLUELESS. When troubled teen Sarah (Robin Tunney, EMPIRE RECORDS) transfers to a new high school in LA, she is quickly befriended by a trio rumored to be witches — Bonnie (Neve Campbell, SCREAM), Rochelle (Rachel True, NOWHERE), and Nancy (Fairuza Balk, AMERICAN HISTORY X). It is not long before the spells and curses cast by the budding coven take on a life of their own. Less content to rest on hijinks and popularity contests than its contemporaries, the script by FLATLINERS scribe, Peter Filardi, crafts a broody atmosphere as thick as its protagonist’s eyeliner and continues to resonate with girl gangs and misfits who’ve long outgrown the braces and rosary combo. Co-starring Skeet Ulrich (SCREAM) and Breckin Meyer (ROADTRIP).  **Screening in 35mm! **",
+      "rawTitle" : "The Craft",
+      "start" : "2026-10-24T23:00:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1415600",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Andrew Fleming",
+          "rawName" : "The Craft",
+          "runtimeMinutes" : 101,
+          "year" : "1996"
         }
       ]
     },
@@ -5598,26 +5405,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Brian De Palma",
-      "feedRuntimeHint" : 92,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nA disfigured composer sells his soul for the woman he loves so that she will perform his music. However, an evil record tycoon betrays him and steals his music.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: USA",
-      "rawTitle" : "PHANTOM OF THE PARADISE",
-      "start" : "2026-10-25T02:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/phantom-of-the-paradise-10-24-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Brian De Palma",
-          "rawName" : "PHANTOM OF THE PARADISE",
-          "runtimeMinutes" : 92,
-          "year" : "1974"
-        }
-      ]
-    },
-    {
       "rawDescription" : "### **ABOUT THE FILMS:**\n\nFilms coming soon.",
       "rawTitle" : "21st Annual Horrorthon",
       "start" : "2026-10-25T02:00:00.000Z",
@@ -5644,6 +5431,26 @@
       ],
       "works" : [
 
+      ]
+    },
+    {
+      "feedDirectorHint" : "Brian De Palma",
+      "feedRuntimeHint" : 92,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nA disfigured composer sells his soul for the woman he loves so that she will perform his music. However, an evil record tycoon betrays him and steals his music.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: USA",
+      "rawTitle" : "PHANTOM OF THE PARADISE",
+      "start" : "2026-10-25T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/phantom-of-the-paradise-10-24-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Brian De Palma",
+          "rawName" : "PHANTOM OF THE PARADISE",
+          "runtimeMinutes" : 92,
+          "year" : "1974"
+        }
       ]
     },
     {
@@ -5685,18 +5492,6 @@
       ]
     },
     {
-      "rawTitle" : "V\/H\/S\/Mixtape",
-      "start" : "2026-10-25T03:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "Jon Moritsugu",
       "feedRuntimeHint" : 95,
       "rawDescription" : "‍**A Punk Rock *Blade Runner* for Artists!!!**\n\n‍\n\n‍\n\n***Numbskull Revolution*** took nine long years to complete and witnessed the end of the 29-year marriage and creative partnership of Moritsugu and Davis. This grand finale is their most epic and fully-realized motion picture. Ostensibly a riff on the absurdity of art, warfare of people, material control\/secular terror, addictions of every genre, and self-actualization thru internal Jungian conflict, it is -  at its most base level - a full-on and mega-entertaining cinematic odyssey tinged with ludicrous sci-fi, raw poignancy, and utter brutalism.\n\n‍\n\n**Screening Starts**: Numbskull Revolution premiered at The Hammer Museum (Los Angeles) in February 2026 and has since screened - traveling roadshow style - at kick-ass theaters, cool high art repositories, and punk rock clubhouses in 25 cities in the USA, Australia, and Canada. It will be premiering soon in Europe and South America. NO FILM FESTIVAL S! NO LEGIT DISTRIBUTION!\n\n‍\n\n\"Amy Davis and James Duval play a pair of rival conceptual artists battling for fame and funding in the near-future dystopia of Shitville, Earth. As one ascends the heights of neoliberal capitalist success, the other seeks inspiration and solace in the euphoric waves of a new cyber drug called Skullfuck. Ingenious production design and savvy location shooting evoke the urban sprawl and rural industrial collapse against which the filmmakers frame this scathing satire of art world pretension.\"\n\n- Paul Malcolm: Senior Public Programmer, UCLA Film & Television Archive\/Hammer Museum\n\n‍\n\n‍\n\n‍\n\n‍\n\n**dir. Jon Moritsugu, 2026***United States, digital projection*95 min\n\n‍\n\n## SATURDAY, 10\/247:30P DOORS8:00P SCREENING\n\nFollowed by a Zoom Q&A with director Jon Moritsugu!\n\n‍\n\n‍\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** *members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one* *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n‍\n\n‍\n\n********Jon Moritsugu** (*Mod Fuck Explosion, Fame Whore,* *Terminal USA, Scumrock)*, “The Godfather of Punk Cinema,” has returned from the near-dead with ******Numbskull Revolution******, his eighth feature! This collaboration with his now ex-wife, Amy Davis, marks the **OFFICIAL COMEBACK** for this Grammy-nominated Oscar Contender, who is arguably the world’s most uncompromising and extreme movie director. Numbskull Revolution, shot in 2017 in Santa Fe and Marfa, stars James Duval (“Frank the Bunny” from ***Donnie Darko***) and Amy Davis (as twin sisters).\n\n‍**IG: @jon.moritsugu**\n\n## www.jonmoritsugu.com\n\n‍\n\n‍\n\n‍\n\n**‍***Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
@@ -5714,6 +5509,18 @@
           "runtimeMinutes" : 95,
           "year" : "2026"
         }
+      ]
+    },
+    {
+      "rawTitle" : "V\/H\/S\/Mixtape",
+      "start" : "2026-10-25T03:00:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -5867,25 +5674,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Wiene",
-      "feedRuntimeHint" : 75,
-      "rawTitle" : "The Cabinet of Dr. Caligari",
-      "start" : "2026-10-25T21:00:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-25-the-cabinet-of-dr-caligari",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Robert Wiene",
-          "rawName" : "The Cabinet of Dr. Caligari",
-          "runtimeMinutes" : 75,
-          "year" : "1920"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Barry Sonnenfeld",
       "feedRuntimeHint" : 98,
       "rawTitle" : "Men in Black in 35mm",
@@ -5901,6 +5689,25 @@
           "rawName" : "Men in Black in 35mm",
           "runtimeMinutes" : 98,
           "year" : "1997"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Robert Wiene",
+      "feedRuntimeHint" : 75,
+      "rawTitle" : "The Cabinet of Dr. Caligari",
+      "start" : "2026-10-25T21:00:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-25-the-cabinet-of-dr-caligari",
+      "venueID" : "newbev",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Wiene",
+          "rawName" : "The Cabinet of Dr. Caligari",
+          "runtimeMinutes" : 75,
+          "year" : "1920"
         }
       ]
     },
@@ -5965,21 +5772,21 @@
       ]
     },
     {
-      "feedDirectorHint" : "Jane Schoenbrun",
-      "feedRuntimeHint" : 112,
-      "rawTitle" : "Teenage Sex and Death at Camp Miasma",
+      "feedDirectorHint" : "John Carpenter",
+      "feedRuntimeHint" : 110,
+      "rawTitle" : "Christine",
       "start" : "2026-10-26T01:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-25-teenage-sex-and-death-at-camp-miasma",
-      "venueID" : "newbev",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/christine-019fce1e-0dad-beb1-27fe-7e0bb544d83a",
+      "venueID" : "academy",
       "videoFormats" : [
-        "35mm"
+
       ],
       "works" : [
         {
-          "director" : "Jane Schoenbrun",
-          "rawName" : "Teenage Sex and Death at Camp Miasma",
-          "runtimeMinutes" : 112,
-          "year" : "2026"
+          "director" : "John Carpenter",
+          "rawName" : "Christine",
+          "runtimeMinutes" : 110,
+          "year" : "1983"
         }
       ]
     },
@@ -6004,21 +5811,21 @@
       ]
     },
     {
-      "feedDirectorHint" : "John Carpenter",
-      "feedRuntimeHint" : 110,
-      "rawTitle" : "Christine",
+      "feedDirectorHint" : "Jane Schoenbrun",
+      "feedRuntimeHint" : 112,
+      "rawTitle" : "Teenage Sex and Death at Camp Miasma",
       "start" : "2026-10-26T01:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/christine-019fce1e-0dad-beb1-27fe-7e0bb544d83a",
-      "venueID" : "academy",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-25-teenage-sex-and-death-at-camp-miasma",
+      "venueID" : "newbev",
       "videoFormats" : [
-
+        "35mm"
       ],
       "works" : [
         {
-          "director" : "John Carpenter",
-          "rawName" : "Christine",
-          "runtimeMinutes" : 110,
-          "year" : "1983"
+          "director" : "Jane Schoenbrun",
+          "rawName" : "Teenage Sex and Death at Camp Miasma",
+          "runtimeMinutes" : 112,
+          "year" : "2026"
         }
       ]
     },
@@ -6189,26 +5996,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Yeon Sang-ho",
-      "feedRuntimeHint" : 123,
-      "rawDescription" : "**Screenwriters**: Yeon Sang-ho,  Choe Gyu-seok\n\n**Producers**: Hailey Yoomin Yang,  Sung Joon-ho\n\nOur microcinema is going to the undead with horror master Yeon Sang-ho&#8217;s (*Train to Busan*) new Korean zombie thriller starring Gianna Jun and Koo Kyo-hwan. Professor Se-jeong (Jun) is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. With new and fascinating ideas that bring the zombie genre into brilliant new territory of collective consciousness and mold networks, and the kind of action and pathos Yeon Sang-ho is best at, this is a no brainer for any horrorphile!",
-      "rawTitle" : "Colony",
-      "start" : "2026-10-27T02:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4757701",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Yeon Sang-ho",
-          "rawName" : "Colony",
-          "runtimeMinutes" : 123,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Chang-dong Lee",
       "feedRuntimeHint" : 133,
       "rawDescription" : "Fresh out of prison, Hong Jong-du (Sul Kyung-gu) finds an unlikely soulmate in Gong-ju (Moon So-ri), the daughter of the victim of the hit-and-run accident for which he went to jail. Wheelchair-bound and suffering from severe cerebral palsy, Gong-ju is kept cloistered in a cheap apartment by her brother, whose only concern is the government assistance she receives. Over a series of clandestine meetings, the two begin an improbable relationship that defies the judgment and cruelty of the world around them.\n\nWinner of the Silver Lion for Best Director and Best Young Actress at the Venice Film Festival, Lee Chang-dong's OASIS is a “brave film” that “shows two people who find any relationship almost impossible, and yet find a way to make theirs work” (Roger Ebert, Chicago Sun-Times). Presented in a new 4K restoration.",
@@ -6229,21 +6016,42 @@
       ]
     },
     {
-      "feedDirectorHint" : "Nicholas Ray",
-      "feedRuntimeHint" : 95,
-      "rawTitle" : "They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah",
-      "start" : "2026-10-27T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/they-live-by-night-with-a-s-hamrah-and-nathan-gelgud-019fce87-a827-bf83-b8a9-0fc6ac7bc84d",
-      "venueID" : "academy",
+      "feedDirectorHint" : "Yeon Sang-ho",
+      "feedRuntimeHint" : 123,
+      "rawDescription" : "**Screenwriters**: Yeon Sang-ho,  Choe Gyu-seok\n\n**Producers**: Hailey Yoomin Yang,  Sung Joon-ho\n\nOur microcinema is going to the undead with horror master Yeon Sang-ho&#8217;s (*Train to Busan*) new Korean zombie thriller starring Gianna Jun and Koo Kyo-hwan. Professor Se-jeong (Jun) is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. With new and fascinating ideas that bring the zombie genre into brilliant new territory of collective consciousness and mold networks, and the kind of action and pathos Yeon Sang-ho is best at, this is a no brainer for any horrorphile!",
+      "rawTitle" : "Colony",
+      "start" : "2026-10-27T02:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4757701",
+      "venueID" : "vidiots",
       "videoFormats" : [
-
+        "Digital"
       ],
       "works" : [
         {
-          "director" : "Nicholas Ray",
-          "rawName" : "They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah",
+          "director" : "Yeon Sang-ho",
+          "rawName" : "Colony",
+          "runtimeMinutes" : 123,
+          "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Lino Brocka",
+      "feedRuntimeHint" : 95,
+      "rawDescription" : "**Screenwriters**: Mario O&#8217;Hara,  Lamberto E. Antonio\n\n**Vidiots, [The Cinegogue](https:\/\/thecinegogue.com), **and**[ A Bunch of Savages](https:\/\/www.abunchofsavages.com\/about)** are thrilled to present an ultra-rare screening of Lino Brocka&#8217;s masterful melodrama ***Insiang***.\n\nJealousy and violence take center stage in this claustrophobic melo­drama, a tautly constructed character study set in the slums of Manila from Filipino master Lino Brocka. Brocka crafts an eviscerating portrait of an innocent daughter and her bitter mother as women scorned. Insiang leads a quiet life dominated by household duties, but after she is assaulted by her mother’s lover and abandoned by the young man who claims to care for her, she exacts vicious revenge. A savage commentary on the degradations of urban poverty, especially for women, *Insiang *was the first Filipino film ever to play at Cannes.\n\n**A Bunch of Savages** is a creative collective in Los Angeles, California. We are unapologetically Filipino-American with a knack for premium multifaceted storytelling in the arts. Toss your KPIs out the window because we have one bonafide intention &#8211; To do cool sh*t that matters.\n\nIf anyone asks, we’re a collective of dreamers, filmmakers, writers, and creatives with a commitment to empowering the next generation of artists. Our name comes from a phrase used to describe the Filipinos in 1899 by then Gov. Theodore Roosevelt.\n\n**The** **Cinegogue** is a community-driven organization dedicated to increasing interest in film. We make clothes, throw parties, host screenings, and produce films. Our goal: make movies cool again through concert-like experiences and fanfare. We’re a group of friends who wish to extend our love for cinema beyond the 2 hour runtimes in which these movies exist. Because even though a movie might end, cinema is forever.",
+      "rawTitle" : "Insiang",
+      "start" : "2026-10-27T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4675667",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Lino Brocka",
+          "rawName" : "Insiang",
           "runtimeMinutes" : 95,
-          "year" : "1948"
+          "year" : "1976"
         }
       ]
     },
@@ -6274,22 +6082,21 @@
       ]
     },
     {
-      "feedDirectorHint" : "Lino Brocka",
+      "feedDirectorHint" : "Nicholas Ray",
       "feedRuntimeHint" : 95,
-      "rawDescription" : "**Screenwriters**: Mario O&#8217;Hara,  Lamberto E. Antonio\n\n**Vidiots, [The Cinegogue](https:\/\/thecinegogue.com), **and**[ A Bunch of Savages](https:\/\/www.abunchofsavages.com\/about)** are thrilled to present an ultra-rare screening of Lino Brocka&#8217;s masterful melodrama ***Insiang***.\n\nJealousy and violence take center stage in this claustrophobic melo­drama, a tautly constructed character study set in the slums of Manila from Filipino master Lino Brocka. Brocka crafts an eviscerating portrait of an innocent daughter and her bitter mother as women scorned. Insiang leads a quiet life dominated by household duties, but after she is assaulted by her mother’s lover and abandoned by the young man who claims to care for her, she exacts vicious revenge. A savage commentary on the degradations of urban poverty, especially for women, *Insiang *was the first Filipino film ever to play at Cannes.\n\n**A Bunch of Savages** is a creative collective in Los Angeles, California. We are unapologetically Filipino-American with a knack for premium multifaceted storytelling in the arts. Toss your KPIs out the window because we have one bonafide intention &#8211; To do cool sh*t that matters.\n\nIf anyone asks, we’re a collective of dreamers, filmmakers, writers, and creatives with a commitment to empowering the next generation of artists. Our name comes from a phrase used to describe the Filipinos in 1899 by then Gov. Theodore Roosevelt.\n\n**The** **Cinegogue** is a community-driven organization dedicated to increasing interest in film. We make clothes, throw parties, host screenings, and produce films. Our goal: make movies cool again through concert-like experiences and fanfare. We’re a group of friends who wish to extend our love for cinema beyond the 2 hour runtimes in which these movies exist. Because even though a movie might end, cinema is forever.",
-      "rawTitle" : "Insiang",
+      "rawTitle" : "They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah",
       "start" : "2026-10-27T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4675667",
-      "venueID" : "vidiots",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/they-live-by-night-with-a-s-hamrah-and-nathan-gelgud-019fce87-a827-bf83-b8a9-0fc6ac7bc84d",
+      "venueID" : "academy",
       "videoFormats" : [
-        "Digital"
+
       ],
       "works" : [
         {
-          "director" : "Lino Brocka",
-          "rawName" : "Insiang",
+          "director" : "Nicholas Ray",
+          "rawName" : "They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah",
           "runtimeMinutes" : 95,
-          "year" : "1976"
+          "year" : "1948"
         }
       ]
     },
@@ -6372,32 +6179,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Alejandro Amenábar",
-      "feedRuntimeHint" : 104,
-      "rawTitle" : "The Others \/ The Orphanage",
-      "start" : "2026-10-28T02:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-27-the-others-the-orphanage",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm",
-        "English subtitled 35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Alejandro Amenábar",
-          "rawName" : "The Others",
-          "runtimeMinutes" : 104,
-          "year" : "2001"
-        },
-        {
-          "director" : "J.A. Bayona",
-          "rawName" : "The Orphanage",
-          "runtimeMinutes" : 97,
-          "year" : "2007"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Robert Wiene",
       "feedRuntimeHint" : 77,
       "rawDescription" : "### THE BERLIN SERIES on 16mm by Julie O.\n\nA collection of four short films by Julie O., all shot in Berlin in 2018: *DAS IST KUNST* (2 min), *Trauer Natur* (3 min), *Pustra* (2 min), and *my masterpiece* (4 min).\n\n**Total Runtime: 11 mins**\n\n### THE CABINET OF DR. CALIGARI (1920)\n\nA hypnotist, a somnambulist, and a string of mysterious murders collide in Robert Wiene’s landmark of German Expressionism. With its wildly distorted sets, painted shadows, and warped sense of space, *The Cabinet of Dr. Caligari* helped establish a visual language that would influence horror and cinema for decades to come.\n\n**Presented with a live score.**",
@@ -6434,6 +6215,32 @@
           "rawName" : "Italo-Disco Horror Night – Argento’s Deep Red",
           "runtimeMinutes" : 127,
           "year" : "1975"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Alejandro Amenábar",
+      "feedRuntimeHint" : 104,
+      "rawTitle" : "The Others \/ The Orphanage",
+      "start" : "2026-10-28T02:30:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/october-27-the-others-the-orphanage",
+      "venueID" : "newbev",
+      "videoFormats" : [
+        "35mm",
+        "English subtitled 35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Alejandro Amenábar",
+          "rawName" : "The Others",
+          "runtimeMinutes" : 104,
+          "year" : "2001"
+        },
+        {
+          "director" : "J.A. Bayona",
+          "rawName" : "The Orphanage",
+          "runtimeMinutes" : 97,
+          "year" : "2007"
         }
       ]
     },
@@ -6522,65 +6329,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Lee Chang-dong",
-      "feedRuntimeHint" : 139,
-      "rawDescription" : "Kind-hearted Mija (Yun Jung-hee) is tasked with raising her troubled teenage grandson, Jong-wook, while her daughter works in far-off Busan. In denial that her abilities as a caregiver are threatened by the early stages of Alzheimer's disease, Mija begins to study poetry writing at the local cultural center. At first she finds inspiration in the beauty of the natural world, but then, when Jong-wook is mired in a shocking scandal, Mija taps into newfound depths of disappointment and pain.\n\nWinner of the Prize of the Ecumenical Jury and Best Screenplay at Cannes, Lee Chang-dong's POETRY is a “tour de force” that presents an “extraordinary vision of human empathy” (The New York Times). Presented in a new 4K restoration.",
-      "rawTitle" : "Poetry",
-      "start" : "2026-10-29T02:30:00.000Z",
-      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2552\/seats",
-      "venueID" : "egyptian",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Lee Chang-dong",
-          "rawName" : "Poetry",
-          "runtimeMinutes" : 139,
-          "year" : "2010"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Sam Mendes",
-      "feedRuntimeHint" : 117,
-      "rawTitle" : "Road to Perdition in 35mm",
-      "start" : "2026-10-29T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/road-to-perdition-019fce2f-801e-c756-e852-6f258f23222f",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Sam Mendes",
-          "rawName" : "Road to Perdition in 35mm",
-          "runtimeMinutes" : 117,
-          "year" : "2002"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "John Fawcett",
-      "feedRuntimeHint" : 108,
-      "rawDescription" : "**Screenwriters**: John Fawcett,  Karen Walton\n\n**Producers**: Karen Lee Hall,  Steven Hoban\n\nA teen horror for the true weirdos &#8211; *Ginger Snap*s is not only one of the best werewolf films of the new millennium, it&#8217;s also one of its best Coming-of-Age classics as well!  Ginger and Brigitte have always been outcasts, and proud of it. After an attack by a vicious lycanthropic animal, Ginger&#8217;s really starting to change &#8211; for the weirder. Now, she&#8217;s more confident than ever; owning her sexuality even while hiding her newly acquired fur and claws. As Ginger&#8217;s transformation gets more alarming &#8211; and deadly &#8211; Brigitte has to find a way to save her sister and herself. Smart, funny, cool, and gross, don&#8217;t miss this toothy terror with a crowd on our big screen!\n\n**Picks from the Video Store**\n\nLove a coming-of-age Teen Terror? Try out these killer deep cuts!\n\n*Teeth, Raw, Der Fan*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Ginger Snaps",
-      "start" : "2026-10-29T02:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672423",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "John Fawcett",
-          "rawName" : "Ginger Snaps",
-          "runtimeMinutes" : 108,
-          "year" : "2000"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Alejandro Amenábar",
       "feedRuntimeHint" : 104,
       "rawTitle" : "The Others \/ The Orphanage",
@@ -6627,6 +6375,65 @@
       ]
     },
     {
+      "feedDirectorHint" : "Lee Chang-dong",
+      "feedRuntimeHint" : 139,
+      "rawDescription" : "Kind-hearted Mija (Yun Jung-hee) is tasked with raising her troubled teenage grandson, Jong-wook, while her daughter works in far-off Busan. In denial that her abilities as a caregiver are threatened by the early stages of Alzheimer's disease, Mija begins to study poetry writing at the local cultural center. At first she finds inspiration in the beauty of the natural world, but then, when Jong-wook is mired in a shocking scandal, Mija taps into newfound depths of disappointment and pain.\n\nWinner of the Prize of the Ecumenical Jury and Best Screenplay at Cannes, Lee Chang-dong's POETRY is a “tour de force” that presents an “extraordinary vision of human empathy” (The New York Times). Presented in a new 4K restoration.",
+      "rawTitle" : "Poetry",
+      "start" : "2026-10-29T02:30:00.000Z",
+      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2552\/seats",
+      "venueID" : "egyptian",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Lee Chang-dong",
+          "rawName" : "Poetry",
+          "runtimeMinutes" : 139,
+          "year" : "2010"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "John Fawcett",
+      "feedRuntimeHint" : 108,
+      "rawDescription" : "**Screenwriters**: John Fawcett,  Karen Walton\n\n**Producers**: Karen Lee Hall,  Steven Hoban\n\nA teen horror for the true weirdos &#8211; *Ginger Snap*s is not only one of the best werewolf films of the new millennium, it&#8217;s also one of its best Coming-of-Age classics as well!  Ginger and Brigitte have always been outcasts, and proud of it. After an attack by a vicious lycanthropic animal, Ginger&#8217;s really starting to change &#8211; for the weirder. Now, she&#8217;s more confident than ever; owning her sexuality even while hiding her newly acquired fur and claws. As Ginger&#8217;s transformation gets more alarming &#8211; and deadly &#8211; Brigitte has to find a way to save her sister and herself. Smart, funny, cool, and gross, don&#8217;t miss this toothy terror with a crowd on our big screen!\n\n**Picks from the Video Store**\n\nLove a coming-of-age Teen Terror? Try out these killer deep cuts!\n\n*Teeth, Raw, Der Fan*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Ginger Snaps",
+      "start" : "2026-10-29T02:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4672423",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "John Fawcett",
+          "rawName" : "Ginger Snaps",
+          "runtimeMinutes" : 108,
+          "year" : "2000"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Sam Mendes",
+      "feedRuntimeHint" : 117,
+      "rawTitle" : "Road to Perdition in 35mm",
+      "start" : "2026-10-29T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/road-to-perdition-019fce2f-801e-c756-e852-6f258f23222f",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Sam Mendes",
+          "rawName" : "Road to Perdition in 35mm",
+          "runtimeMinutes" : 117,
+          "year" : "2002"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Kenny Ortega",
       "feedRuntimeHint" : 96,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nYou’re in for a devil of a time when three outlandishly wild witches—Bette Midler, Sarah Jessica Parker and Kathy Najimy—return from 17th-century Salem after they’re accidentally conjured up by some unsuspecting pranksters. It’s a night full of zany fun and comic chaos once the tricky 300-year-old trio set out to cast a spell on the town and reclaim their youth…but first they must get their act together and outwit three kids and a talking cat. \n\nFORMAT: DCP\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: USA",
@@ -6662,6 +6469,23 @@
       ]
     },
     {
+      "feedRuntimeHint" : 90,
+      "rawDescription" : "Vidiots invites you back for more celluloid strangeness with *Sweet 16mm: Halloween Haunts*, a ghostly night of obscure, rare, goofy, and haunting short films and cartoons all on 16mm celluloid. From the 1930s through the 1980s, this beyond-rare collection of esoteric spookiness features devilish cartoons, obscure and demonic literary adaptations, antique movie monsters, horrifying vintage trailers, and our annual reprise of the infamous educational short *Halloween Safety* &#8211; it&#8217;s sure to be a one-of-a-kind night of witches, demons, ghosts, razorblades in apples, and creeps galore! Everything screened on 16mm film.",
+      "rawTitle" : "Sweet 16mm: Halloween Haunts",
+      "start" : "2026-10-30T02:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4675860",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "16mm Film"
+      ],
+      "works" : [
+        {
+          "rawName" : "Sweet 16mm: Halloween Haunts",
+          "runtimeMinutes" : 90
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Quentin Tarantino",
       "feedRuntimeHint" : 161,
       "rawTitle" : "Once Upon a Time in... Hollywood (70mm)",
@@ -6676,19 +6500,21 @@
       ]
     },
     {
-      "feedRuntimeHint" : 90,
-      "rawDescription" : "Vidiots invites you back for more celluloid strangeness with *Sweet 16mm: Halloween Haunts*, a ghostly night of obscure, rare, goofy, and haunting short films and cartoons all on 16mm celluloid. From the 1930s through the 1980s, this beyond-rare collection of esoteric spookiness features devilish cartoons, obscure and demonic literary adaptations, antique movie monsters, horrifying vintage trailers, and our annual reprise of the infamous educational short *Halloween Safety* &#8211; it&#8217;s sure to be a one-of-a-kind night of witches, demons, ghosts, razorblades in apples, and creeps galore! Everything screened on 16mm film.",
-      "rawTitle" : "Sweet 16mm: Halloween Haunts",
-      "start" : "2026-10-30T02:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4675860",
-      "venueID" : "vidiots",
+      "feedDirectorHint" : "Park Chan-wook",
+      "feedRuntimeHint" : 138,
+      "rawTitle" : "Decision to Leave (헤어질 결심) with Park Hae-il",
+      "start" : "2026-10-30T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/decision-to-leave-019fce27-6a63-4b4d-9352-4a2c3fd9026e",
+      "venueID" : "academy",
       "videoFormats" : [
-        "16mm Film"
+
       ],
       "works" : [
         {
-          "rawName" : "Sweet 16mm: Halloween Haunts",
-          "runtimeMinutes" : 90
+          "director" : "Park Chan-wook",
+          "rawName" : "Decision to Leave (헤어질 결심) with Park Hae-il",
+          "runtimeMinutes" : 138,
+          "year" : "2022"
         }
       ]
     },
@@ -6715,25 +6541,6 @@
           "rawName" : "Pieces",
           "runtimeMinutes" : 85,
           "year" : "1982"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Park Chan-wook",
-      "feedRuntimeHint" : 138,
-      "rawTitle" : "Decision to Leave (헤어질 결심) with Park Hae-il",
-      "start" : "2026-10-30T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/decision-to-leave-019fce27-6a63-4b4d-9352-4a2c3fd9026e",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Park Chan-wook",
-          "rawName" : "Decision to Leave (헤어질 결심) with Park Hae-il",
-          "runtimeMinutes" : 138,
-          "year" : "2022"
         }
       ]
     },
@@ -7119,6 +6926,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Robert Wise",
+      "feedRuntimeHint" : 112,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nParanormal researcher Richard Johnson leads a team of clairvoyants (Julie Harris, Claire Bloom) to determine if the notorious, bad karma-filled Hill House is truly haunted. What he doesn’t bargain for is intensely neurotic Harris developing an unhealthy sensitivity to the mansion’s evil-charged atmosphere. Based on Shirley Jackson’s novel *The Haunting of Hill House*, this is one of the all-time classics of the genre.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: UK",
+      "rawTitle" : "THE HAUNTING",
+      "start" : "2026-10-31T20:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/the-haunting-10-31-2026",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Wise",
+          "rawName" : "THE HAUNTING",
+          "runtimeMinutes" : 112,
+          "year" : "1963"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Tobe Hooper",
       "feedRuntimeHint" : 114,
       "rawDescription" : "The Freelings&#8217; suburban home becomes the center of paranormal activity that opens a portal to the &#8216;other side&#8217;. With help, they must cross over to get their daughter back.",
@@ -7155,26 +6982,6 @@
           "rawName" : "THE INNOCENTS",
           "runtimeMinutes" : 99,
           "year" : "1961"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Robert Wise",
-      "feedRuntimeHint" : 112,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nParanormal researcher Richard Johnson leads a team of clairvoyants (Julie Harris, Claire Bloom) to determine if the notorious, bad karma-filled Hill House is truly haunted. What he doesn’t bargain for is intensely neurotic Harris developing an unhealthy sensitivity to the mansion’s evil-charged atmosphere. Based on Shirley Jackson’s novel *The Haunting of Hill House*, this is one of the all-time classics of the genre.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: UK",
-      "rawTitle" : "THE HAUNTING",
-      "start" : "2026-10-31T20:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/the-haunting-10-31-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Robert Wise",
-          "rawName" : "THE HAUNTING",
-          "runtimeMinutes" : 112,
-          "year" : "1963"
         }
       ]
     },
@@ -7218,23 +7025,15 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Zemeckis",
-      "feedRuntimeHint" : 104,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nMeryl Streep and Goldie Hawn star with Bruce Willis in Robert Zemeckis’ outrageously entertaining comedy about greed, vanity, sex, immortality, life… and death. Isabella Rossellini is a beautiful enchantress who changes their lives—and deaths—forever in this hilarious dark comedy with ground-breaking special effects.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Universal\n\nCOUNTRY: USA",
-      "rawTitle" : "DEATH BECOMES HER",
+      "rawTitle" : "Tales from the Archives",
       "start" : "2026-10-31T23:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/death-becomes-her-10-31-2026",
-      "venueID" : "losfeliz",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4203?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
       "videoFormats" : [
-        "35mm"
+
       ],
       "works" : [
-        {
-          "director" : "Robert Zemeckis",
-          "rawName" : "DEATH BECOMES HER",
-          "runtimeMinutes" : 104,
-          "year" : "1992"
-        }
+
       ]
     },
     {
@@ -7258,15 +7057,23 @@
       ]
     },
     {
-      "rawTitle" : "Tales from the Archives",
+      "feedDirectorHint" : "Robert Zemeckis",
+      "feedRuntimeHint" : 104,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nMeryl Streep and Goldie Hawn star with Bruce Willis in Robert Zemeckis’ outrageously entertaining comedy about greed, vanity, sex, immortality, life… and death. Isabella Rossellini is a beautiful enchantress who changes their lives—and deaths—forever in this hilarious dark comedy with ground-breaking special effects.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Universal\n\nCOUNTRY: USA",
+      "rawTitle" : "DEATH BECOMES HER",
       "start" : "2026-10-31T23:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4203?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/death-becomes-her-10-31-2026",
+      "venueID" : "losfeliz",
       "videoFormats" : [
-
+        "35mm"
       ],
       "works" : [
-
+        {
+          "director" : "Robert Zemeckis",
+          "rawName" : "DEATH BECOMES HER",
+          "runtimeMinutes" : 104,
+          "year" : "1992"
+        }
       ]
     },
     {
@@ -7416,6 +7223,25 @@
       ]
     },
     {
+      "feedDirectorHint" : "Andrew Fleming",
+      "feedRuntimeHint" : 101,
+      "rawTitle" : "30th Anniversary of The Craft",
+      "start" : "2026-11-01T05:00:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/30th-anniversary-of-the-craft-019fce89-65f1-d75b-7550-d6d55b63dd80",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Andrew Fleming",
+          "rawName" : "30th Anniversary of The Craft",
+          "runtimeMinutes" : 101,
+          "year" : "1996"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Julia Ducournau",
       "feedRuntimeHint" : 99,
       "rawDescription" : "### **ABOUT THE FILM:**\n\n*In French with English subtitles.*\n\nAt 16, Justine is a brilliant, promising student and a strict vegetarian. But when she starts veterinary school, she quickly encounters a decadent, merciless and dangerously seductive world. Desperate to fit in, she strays from her principles and eats raw meat for the first time and faces the terrible and unexpected consequences of her actions as her true self emerges.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Universal\n\nCOUNTRY: France\/Belgium",
@@ -7432,25 +7258,6 @@
           "rawName" : "RAW",
           "runtimeMinutes" : 99,
           "year" : "2016"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Andrew Fleming",
-      "feedRuntimeHint" : 101,
-      "rawTitle" : "30th Anniversary of The Craft",
-      "start" : "2026-11-01T05:00:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/30th-anniversary-of-the-craft-019fce89-65f1-d75b-7550-d6d55b63dd80",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Andrew Fleming",
-          "rawName" : "30th Anniversary of The Craft",
-          "runtimeMinutes" : 101,
-          "year" : "1996"
         }
       ]
     },
@@ -7942,7 +7749,7 @@
       "feedRuntimeHint" : 109,
       "rawTitle" : "Waikiki Brothers (와이키키 브라더스)",
       "start" : "2026-11-09T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/waikiki-brothers-019fceaa-0d8c-29c6-78fd-3da5a274eff0",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/waikiki-brothers-with-jealousy-is-my-middle-name-019fceaa-0d8c-29c6-78fd-3da5a274eff0",
       "venueID" : "academy",
       "videoFormats" : [
 
@@ -7961,7 +7768,7 @@
       "feedRuntimeHint" : 109,
       "rawTitle" : "Waikiki Brothers (와이키키 브라더스)",
       "start" : "2026-11-09T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/waikiki-brothers-with-jealousy-is-my-middle-name-019fceaa-0d8c-29c6-78fd-3da5a274eff0",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/waikiki-brothers-019fceaa-0d8c-29c6-78fd-3da5a274eff0",
       "venueID" : "academy",
       "videoFormats" : [
 
