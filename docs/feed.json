@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-12T09:10:45.629Z",
+  "generatedAt" : "2026-10-12T18:00:40.858Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -91,6 +91,19 @@
           "runtimeMinutes" : 102,
           "year" : "2000"
         }
+      ]
+    },
+    {
+      "rawDescription" : "Horror master George A. Romero’s underseen, woozy feminist psychodrama of ’70s suburban discontent, witchcraft, and occult liberation.",
+      "rawTitle" : "George A. Romero's SEASON OF THE WITCH (1972)",
+      "start" : "2026-10-12T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/george-a-romeros-season-of-the-witch-1972-tickets-2002227699949",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -818,6 +831,43 @@
       ]
     },
     {
+      "rawDescription" : "El Cine presents Chilean filmmakers Cristóbal León & Joaquín Cociña's nightmarish, surrealist fairy tale evoking the nation's traumatic past",
+      "rawTitle" : "THE WOLF HOUSE (La Casa Lobo) presented by El Cine",
+      "start" : "2026-10-15T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/the-wolf-house-la-casa-lobo-presented-by-el-cine-tickets-2002317738256",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "feedRuntimeHint" : 85,
+      "rawDescription" : "*Special thanks to our community partners: [Los Angeles Silent Film Festival](https:\/\/www.losangelessilentfilmfestival.org\/), [NitrateVille](https:\/\/www.nitrateville.com\/)*\n\n*North American premiere of new restoration!*\n\n*Man Trouble* was based on the short story “A Very Practical Joke” by Ben Ames Williams, published in *The Saturday Evening Post* in 1925. A crestfallen woman, Joan (Dorothy Mackaill), decides to take her own life by jumping into a river. Fortunately, she is saved by notorious bootlegger Mac (Milton Sills), who is kind enough to offer a weary woman a job in his nightclub, where he becomes infatuated with her to a fault. Unfortunately for Mac, Joan has fallen for another, gentler man, newspaper columnist George (Kenneth MacKenna). This complex film is part hardboiled gangster film, part melodrama, but it offers so much more.\n\nDirector: Berthold Viertel. Screenwriter: Ben Ames Williams, Marion Orth, George Manker Watters. With: Milton Sills, Dorothy Mackaill, Kenneth MacKenna. \n\n*Restoration funding provided by Glenn & Eleanor Padnick and the National Endowment for the Arts. Restored by the UCLA Film & Television Archive from a 35mm nitrate print. Laboratory services by The PHI Stoa Film Lab, Film Technology Company, Inc., Audio Mechanics, Simon Daniel Sound.*\n\n*North American premiere of new restoration!*\n\n*Live musical accompaniment by Cliff Retallick**\n*\n\nBased on a 1916 play by Jules Eckert Goodman, *The Man Who Came Back* tells the story of inebriated philanderer Henry Potter (George O’Brien), whose father, Thomas Potter (Ralph Lewis), is weary of his son tarnishing the family name and wants him to be his own man. During his travels, Henry meets Marcelle (Dorothy Mackaill), an equally downtrodden lady and together they redeem each other through love. *The Man Who Came Back* is one of the few Fox Film Corporation silent films to survive. \n\nDirector: Emmett Flynn. Screenwriters: Jules Eckert Goodman, John Fleming Wilson, Edmund Goulding. With: George O’Brien, Dorothy Mackaill, Ralph Lewis.\n\n*Restoration funding provided by the National Film Preservation Foundation’s Roger Mayer Legacy Program. Digitally restored by the UCLA Film & Television Archive from a 35mm nitrate domestic print and a 35mm nitrate foreign print. Laboratory services by Roundabout Entertainment, Inc., FotoKem. Special thanks to Národní filmový archiv.*\n\nWe are thrilled to celebrate Silent Movie Day 2026 as part of this screening. \n\n*Notes written by Theater Manager Lauren Brown.**\n*",
+      "rawTitle" : "Man Trouble \/ The Man Who Came Back",
+      "start" : "2026-10-15T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/man-trouble-the-man-who-came-back-2026-10-14",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, B&W",
+        "35mm, B&W, Silent"
+      ],
+      "works" : [
+        {
+          "rawName" : "Man Trouble",
+          "runtimeMinutes" : 85,
+          "year" : "1930"
+        },
+        {
+          "rawName" : "The Man Who Came Back",
+          "runtimeMinutes" : 74,
+          "year" : "1924"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Joseph Cates",
       "feedRuntimeHint" : 94,
       "rawTitle" : "Who Killed Teddy Bear? \/ In the Cut",
@@ -1101,6 +1151,19 @@
       "start" : "2026-10-16T02:30:00.000Z",
       "ticketURL" : "https:\/\/www.eventbrite.com\/e\/movie-screeners-club-thu-1015-730pm-tickets-1654021004349",
       "venueID" : "gardena",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "rawDescription" : "Mia Farrow descends into a dreamlike maze of grief and ghostly dread in this quietly haunting, long-overlooked ’70s horror gem.",
+      "rawTitle" : "FULL CIRCLE (aka THE HAUNTING OF JULIA, 1977)",
+      "start" : "2026-10-16T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/full-circle-aka-the-haunting-of-julia-1977-tickets-2002228895525",
+      "venueID" : "prs",
       "videoFormats" : [
 
       ],
@@ -1394,6 +1457,19 @@
       "start" : "2026-10-17T02:30:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4092?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
       "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "rawDescription" : "Brian Butler returns to reveal the hidden mythic currents behind Inauguration of the Pleasure Dome.",
+      "rawTitle" : "Kenneth Anger’s INAUGURATION OF THE PLEASURE DOME w\/ Brian Butler",
+      "start" : "2026-10-17T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/kenneth-angers-inauguration-of-the-pleasure-dome-w-brian-butler-tickets-2002096032127",
+      "venueID" : "prs",
       "videoFormats" : [
 
       ],
@@ -1900,6 +1976,30 @@
       ]
     },
     {
+      "feedRuntimeHint" : 43,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nIt’s understandable if, at the end of *Like Nothing Happened*, one finds oneself in agreement with the title. Four college students, old friends and new acquaintances, spend an afternoon at a racetrack and then go their separate ways. Loose and grainy, it looks and feels like a sketch but shot at a time when writer-director-actor Ryusuke Hamaguchi says he was interested in “how to arrange the gazes of characters,” there’s a lot working under the surface. Structured around the kind of conversational set pieces that would become hallmarks of Hamaguchi’s later films, including an extended Dadaist recitation of dictionary definitions on a train, *Like Nothing Happened *feels very much like where it all began.—*Senior Public Programmer Paul Malcolm *\n\nDCP. Director\/Screenwriter: Ryusuke Hamaguchi. With: Ryusuke Hamaguchi, Tomo Matsui, Hideyuki Okamoto.\n\nRyusuke Hamaguchi's graduate thesis film at Tokyo University of the Arts, *Passion* prefigures the more complex and assured *Happy Hour* as a seemingly tight-knit group of friends and lovers falls apart as they navigate the transition to the next phases of their lives. Here, like Hamaguchi himself at the time, the carefully class-coded characters are younger, just entering careers, marriage and parenthood — or else grasping for ways to put them off. The capriciousness of desire emerges as a force and an excuse in a series of high-wire dialogue scenes as Hamaguchi explores the ethics of coupling and camerawork alike.—*Senior Public Programmer Paul Malcolm *\n\nDCP. Director\/Screenwriter: Ryusuke Hamaguchi. With: Aoba Kawai, Ryuta Okamoto, Kiyohiko Shibukawa.",
+      "rawTitle" : "Like Nothing Happened \/ Passion",
+      "start" : "2026-10-18T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/like-nothing-happened-passion-2026-10-17",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Like Nothing Happened",
+          "runtimeMinutes" : 43,
+          "year" : "2003"
+        },
+        {
+          "rawName" : "Passion",
+          "runtimeMinutes" : 117,
+          "year" : "2008"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Ken Russell",
       "feedRuntimeHint" : 114,
       "rawTitle" : "Ken Russell's The Devils 35mm",
@@ -2349,6 +2449,30 @@
           "rawName" : "Young Frankenstein",
           "runtimeMinutes" : 106,
           "year" : "1974"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 121,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nThe most unexpected work in Ryusuke Hamaguchi’s early oeuvre, *The Depths* is a queer thriller that circles around the tenuous relationship between an artist and his muse. Bae-hwan (Kim Min-jun) is a sought-after Korean fashion photographer in Japan for the wedding of a college friend, Gilsu (Soji Arai), reduced to shooting softcore porn. It’s in Gilsu’s studio that Bae-hwan becomes fascinated with Ryu (Hoshi Ishida), a cocky escort one step ahead of his pimp after a VIP client dies in his company. The film’s gritty urban scene contrasts sharply with the stable middle-class environs that are Hamaguchi’s usual milieu but he acquits himself well on unfamiliar territory in a film that feels like a possible path not chosen.—*Senior Public Programmer Paul Malcolm* \n\nDCP. Director: Ryusuke Hamaguchi. Screenwriters: Ryusuke Hamaguchi, Kota Oura. With: Kim Min-jun, Hoshi Ishida, Soji Arai.\n\nThe river coursing through the city where Chihiro (Shota Sometani) has come to live with his older brother after the death of their parents provides director Ryusuke Hamaguchi ample opportunity for ominous metaphors in this unnerving study of adolescent estrangement. “One day, everything down there will surge up,” says Chihiro’s brother (Kiyohiko Shibukawa). Sullen and withdrawn, Chihiro loses himself in a modern dance class (led by Japanese choreographer Osamu Jareo) in which he and Naoyo (Hoshi Ishida) rehearse intricate movements around one another but never touch. Expression without connection becomes the catalyst for the violent emotional surge that transforms this into Hamaguchi’s *River’s Edge*. That it ends with “To be continued” suggests the film was intended as a rehearsal itself for something more.—*Senior Public Programmer Paul Malcolm* \n\nDCP. Director: Ryusuke Hamaguchi. Screenwriter: Tomoyuki Takahashi. With: Shota Sometani, Kiyohiko Shibukawa**, **Hoshi Ishida**. **",
+      "rawTitle" : "The Depths \/ Touching the Skin of Eeriness",
+      "start" : "2026-10-19T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/the-depths-touching-the-skin-of-eeriness-2026-10-18",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "The Depths",
+          "runtimeMinutes" : 121,
+          "year" : "2010"
+        },
+        {
+          "rawName" : "Touching the Skin of Eeriness",
+          "runtimeMinutes" : 54,
+          "year" : "2013"
         }
       ]
     },
@@ -2926,6 +3050,19 @@
       ]
     },
     {
+      "rawDescription" : "Art cinema meets eerie horror in this hypnotic ’70s cult classic—a somnambulant fever dream of seaside desolation and gathering dread.",
+      "rawTitle" : "MESSIAH OF EVIL (1973) — A Hypnotic, Vibe-Drenched Cult Classic",
+      "start" : "2026-10-21T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/messiah-of-evil-1973-a-hypnotic-vibe-drenched-cult-classic-tickets-2002230367929",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "Robert Zemeckis",
       "feedRuntimeHint" : 104,
       "rawDescription" : "**Screenwriters**: Martin Donovan, David Koepp\n\n**Producers**: Robert Zemeckis, Steve Starkey\n\nBring your best frenemies and get ready for Vidiots epic annual Halloween Shindig! We&#8217;ll be kicking off the night with extra spooky tunes and vibes before diving into the everlasting classic dark comedy ***Death Becomes Her***, followed by more Halloweenie revelry and plenty of spooky Vidiots fun. So, put on your costumes, bring your besties, and come for one killer party!\n\nThe quest for eternal youth is a bitch! National treasures Meryl Streep and Goldie Hawn star as best frenemies who will stop at nothing to keep their youthful good looks and the love of Bruce Willis. When Isabella Rossellini offers up a magical immortality potion, the rivalry intensifies to deadly and devilishly funny heights. A marvelously twisted dark comedy that lives on forever!\n\n**Picks from the Video Store**\n\nWe would die for Goldie Hawn! Take home more ridiculous classics from one of America&#8217;s funniest ladies!\n\n*Private Benjamin, Housesitter, Overboard*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -3107,6 +3244,30 @@
       ]
     },
     {
+      "feedRuntimeHint" : 58,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nEver a student of film theory, Ryusuke Hamaguchi credits his graduate work with Kiyoshi Kurosawa for challenging him to grapple with the essential contradiction of cinema: using a recording device to create fiction. Understanding this paradox, Hamaguchi has said, “is what directing is all about.” Curiously there’s a touch of Hirokazu Koreeda in this short about a film student making a documentary about people who knew her deceased sister, only to discover one of her subjects, a detached young man, can speak with her ghost. In Hamaguchi’s script and framing, the nature of the afterlife becomes enmeshed with the nature of cinema.—*Senior Public Programmer Paul Malcolm* \n\nDCP. Director: Ryusuke Hamaguchi. Screenwriter: Ryusuke Hamaguchi. With: Nao Okabe, An Ogawa, Hyunri.\n\nOn the morning they’re supposed to get married, Seichi (Hikohiko Sugiyama) has woken up with a hangover from his bachelor party while Eiko (Aoba Kawa) wonders if now is the time to tell him about her affair. Meanwhile, across town, her ex-boyfriend, a nude model, decides he needs to stop the whole thing. As they each make their way to the event, Hamaguchi orchestrates an extended cross-cutting sequence that builds anticipation while building a multifaceted portrait of a generation at the crossroads between holding on to their ideals and surrendering to practicality.—*Senior Public Programmer Paul Malcolm* \n\nDCP. Director\/Screenwriter: Ryusuke Hamaguchi. With: Aoba Kawai. Hikohiko Sugiyama, Nao Okabe.",
+      "rawTitle" : "Heaven Is Still Far Away \/ I Love Thee for Good",
+      "start" : "2026-10-22T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/heaven-is-still-far-away-i-love-thee-for-good-2026-10-21",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "I Love Thee for Good",
+          "runtimeMinutes" : 58,
+          "year" : "2009"
+        },
+        {
+          "rawName" : "Heaven Is Still Far Away",
+          "runtimeMinutes" : 38,
+          "year" : "2016"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Jane Schoenbrun",
       "feedRuntimeHint" : 112,
       "rawTitle" : "Teenage Sex and Death at Camp Miasma",
@@ -3197,6 +3358,19 @@
           "runtimeMinutes" : 94,
           "year" : "1998"
         }
+      ]
+    },
+    {
+      "rawDescription" : "For ticket holders for preceding Henson event only! A free-with-RSVP screening of 3 eps of Henson's fairy & folk tale television series!",
+      "rawTitle" : "PRIVATE RSVP for TINKERDEE TICKET HOLDERS! Jim Henson's THE STORYTELLER",
+      "start" : "2026-10-22T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/private-rsvp-for-tinkerdee-ticket-holders-jim-hensons-the-storyteller-tickets-2000659754181",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -3720,6 +3894,37 @@
           "runtimeMinutes" : 123,
           "year" : "2026"
         }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 75,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive, the Hugh M. Hefner Classic American Film Program and the Art Deco Society of Los Angeles*\n\n“I’ve had enough trouble with men without marrying any!” declares Clara Bow (whose own hectic love life was this film's inspiration) as she flees wannabe Paris grooms for the French Riviera where comic mayhem ensues amidst Art Deco sets. Unseen for decades due to rights issues and still unavailable on any platform, this super-rare pre-Code romp is “a rush of great fun, high spirits, and good humor from a bright ensemble cast, and particularly vivacious Bow” (Derek Winnert).\n\n*Special thanks to David Stenn; and Margot Gerber, Art Deco Society of Los Angeles.*\n\nDirector: Frank Tuttle. Screenwriter: Henry Myers. With: Clara Bow, Ralph Forbes, Charles Ruggles.",
+      "rawTitle" : "Her Wedding Night",
+      "start" : "2026-10-24T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/her-wedding-night-2026-10-23",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, B&W"
+      ],
+      "works" : [
+        {
+          "rawName" : "Her Wedding Night",
+          "runtimeMinutes" : 75,
+          "year" : "1930"
+        }
+      ]
+    },
+    {
+      "rawDescription" : "Experience one of Australian horror’s great underknown classics —an eerie, dreamlike slow burn mystery that builds to an explosive finale!",
+      "rawTitle" : "NEXT OF KIN (1982)—A Slow Burn Pressure Cooker Ozploitation Horror Classic!",
+      "start" : "2026-10-24T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/next-of-kin-1982a-slow-burn-pressure-cooker-ozploitation-horror-classic-tickets-2002233384953",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -4305,6 +4510,19 @@
       ]
     },
     {
+      "rawDescription" : "Director Linus O’Brien in person, presenting the electrifying doc on his father’s delicious, definitive cult classic creation—ROCKY HORROR!",
+      "rawTitle" : "STRANGE JOURNEY: THE STORY OF ROCKY HORROR! + Q&A w\/ Dir. Linus O'Brien!",
+      "start" : "2026-10-25T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/strange-journey-the-story-of-rocky-horror-qa-w-dir-linus-obrien-tickets-2003241854312",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "Terence Fisher",
       "feedRuntimeHint" : 82,
       "rawTitle" : "Horror of Dracula in 4K",
@@ -4320,6 +4538,24 @@
           "rawName" : "Horror of Dracula in 4K",
           "runtimeMinutes" : 82,
           "year" : "1958"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 122,
+      "rawDescription" : "60 years after its first screening in Algiers, *The Battle of Algiers* has lost none of its political punch. Premiering internationally at the 1966 Venice Film Festival, where it won the Golden Lion, the film was celebrated for the audacity with which it confronted the still-raw history of French colonialism and the Algerian struggle for independence. In France, however, it remained effectively banned for years. Its extraordinary political afterlife has been equally paradoxical: a film embraced by anticolonial and revolutionary movements around the world has also been studied by military and counterinsurgency strategists, including at the Pentagon during the Iraq War.\n\nStarring almost exclusively nonprofessional actors and shot entirely on location in Algiers in a strikingly realist, quasi-documentary style, Gillo Pontecorvo’s film reconstructs the pivotal 1957 Battle of Algiers during the Algerian War of Independence (1954–62). Beginning with French paratroopers closing in on FLN militant Ali La Pointe, the film moves backward to trace his politicization and the escalating confrontation between the National Liberation Front and the French colonial state. Yet *The Battle of Algiers* is less the story of an individual revolutionary than of a people becoming a political subject.\n\nMade shortly before the manifestos that would theorize “Third Cinema,” the film became one of its enduring touchstones: cinema conceived not simply as representation but as intervention. Its unsettling treatment of colonialism, revolutionary violence, torture and collective resistance continues to raise urgent questions about political violence, national liberation and the unfinished work of decolonization.\n\n*Note written by UCLA Cinema and Media Studies Professor Kriss Ravetto-Biagioli and UCLA Comparative Literature Professor Nouri Gana.*\n\nDCP. Director: Gillo Pontecorvo. Screenwriters: Gillo Pontecorvo, Franco Solinas. With: Brahim Hadjadj, Mohamed Ben Kassen, Yacef Saâdi.",
+      "rawTitle" : "The Battle of Algiers — 60th Anniversary",
+      "start" : "2026-10-25T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/the-battle-of-algiers-60th-anniversary-2026-10-24",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, B&W"
+      ],
+      "works" : [
+        {
+          "rawName" : "The Battle of Algiers",
+          "runtimeMinutes" : 122,
+          "year" : "1966"
         }
       ]
     },
@@ -4818,6 +5054,24 @@
       ]
     },
     {
+      "feedRuntimeHint" : 255,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nBorn out of a workshop with acting students from the Tokyo film school ENBU, *Intimacies *itself follows a group of students rehearsing and then staging a play. At four hours, it’s Ryusuke Hamaguchi’s earliest exploration of duration as a cinematic device with the first half focused on the group’s preparations and the second, aside from a brief, poignant coda, a presentation of the complete play. Personal problems and current events threaten to derail the project with director Reiko (Rei Hirano) adjusting and revising to keep the play and her relationship with the playwright, Ryo (Ryo Sato), on track.—*Senior Public Programmer Paul Malcolm* \n\nDCP. Director\/Screenwriter: Ryusuke Hamaguchi. With: Rei Hirano, Ryo Sato, Mikio Tayama.",
+      "rawTitle" : "Intimacies",
+      "start" : "2026-10-26T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/intimacies-2026-10-25",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Intimacies",
+          "runtimeMinutes" : 255,
+          "year" : "2012"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Yeon Sang-ho",
       "feedRuntimeHint" : 123,
       "rawDescription" : "**Screenwriters**: Yeon Sang-ho,  Choe Gyu-seok\n\n**Producers**: Hailey Yoomin Yang,  Sung Joon-ho\n\nOur microcinema is going to the undead with horror master Yeon Sang-ho&#8217;s (*Train to Busan*) new Korean zombie thriller starring Gianna Jun and Koo Kyo-hwan. Professor Se-jeong (Jun) is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. With new and fascinating ideas that bring the zombie genre into brilliant new territory of collective consciousness and mold networks, and the kind of action and pathos Yeon Sang-ho is best at, this is a no brainer for any horrorphile!",
@@ -5282,6 +5536,19 @@
       ]
     },
     {
+      "rawDescription" : "One of the most singular horror films of the ’70s—a hypnotic, haunting descent into unstable reality, creeping dread, and the supernatural.",
+      "rawTitle" : "LET'S SCARE JESSICA TO DEATH (1971) — A Classic of Supernatural Madness!",
+      "start" : "2026-10-28T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/lets-scare-jessica-to-death-1971-a-classic-of-supernatural-madness-tickets-2002235375908",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "Nobuo Nakagawa",
       "feedRuntimeHint" : 101,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nShocking, outrageous and poetic, *JIGOKU* (HELL, a.k.a. *THE SINNERS OF HELL*) is the most innovative creation from Nobuo Nakagawa, the father of the Japanese horror film. After a young theology student flees a hit-and-run accident, he is plagued by both his own guilt-ridden conscience and a mysterious, diabolical doppelgänger. But all possible escape routes lead straight to hell—literally. In the gloriously gory final third of the film, Nakagawa offers up his vision of the underworld in a tour de force of torture and degradation. A striking departure from traditional Japanese ghost stories, JIGOKU, with its truly eye-popping (and -gouging) imagery, created aftershocks that are still reverberating in contemporary world horror cinema.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Janus Films\n\nCOUNTRY: Japan",
@@ -5378,6 +5645,19 @@
       "start" : "2026-10-29T02:00:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4172?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
       "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "rawDescription" : "Author Gary D. Rhodes in-person, exploring his compendium of 70s\/80s fact-or-fiction docs + a rare screening of EXP TV's epic film collage!",
+      "rawTitle" : "WEIRDUMENTARY Celebration + EXP TV's BIZARRE ENCOUNTERS... Screening!",
+      "start" : "2026-10-29T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/weirdumentary-celebration-exp-tvs-bizarre-encounters-screening-tickets-2002319749271",
+      "venueID" : "prs",
       "videoFormats" : [
 
       ],
@@ -6387,6 +6667,30 @@
       ]
     },
     {
+      "feedRuntimeHint" : 97,
+      "rawDescription" : "As legend has it, the malevolent ghost of La Llorona wanders along waterways searching for her two children who have drowned (either by her hand or by the hands of others) and seeks to avenge the man who has abused and abandoned her. She is an ominous figure whose apparition is preceded by the sound of her laments. Those who hear her cries are marked for death. In Jayro Bustamante’s film, these cries are intertwined with calls for social justice and solidarity within Indigenous communities.\n\nDCP. Director: Jayro Bustamante. Screenwriters: Jayro Bustamante, Gustavo Matheu. With: María Mercedes Coroy, Sabrina De La Hoz, Margarita Kénefic.\n\nIn Kiyoshi Kurosawa’s apocalyptic ghost fiction, *Kaïro*, the technologization of contemporary life leads to the collapse of human relations and communication, and the loss of a shared history. A classic of techno-horror cinema, exemplary of Japanese cinema’s reinvention of the *Kaidan* or spirit story genre, *Kaïro* remains one of the most memorable evocations of modern technologies of communication as spectral conduits. Feeding on the growing uncertainty between touch and vision, the film stands as a transitional cinematic experiment, between so-called digital dematerialization and the eventuality of spectral forms of corporeality.\n\nDCP. Director\/screenwriter: Kiyoshi Kurosawa. With: Kumiko Aso, Haruhiko Kato, Koyuki.",
+      "rawTitle" : "La Llorona \/ Pulse",
+      "start" : "2026-11-01T02:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/la-llorona-pulse-2026-10-31",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "La Llorona",
+          "runtimeMinutes" : 97,
+          "year" : "2019"
+        },
+        {
+          "rawName" : "Pulse (Kaïro)",
+          "runtimeMinutes" : 119,
+          "year" : "2001"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "George A. Romero",
       "feedRuntimeHint" : 96,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nA deceptively simple tale of a group of strangers trapped in a farmhouse who find themselves fending off a horde of flesh-eating ghouls newly arisen from their graves, Romero’s claustrophobic vision of a late-sixties America (literally) tearing itself apart rewrote the rules of the horror genre, combined gruesome gore with acute social commentary and quietly broke ground by casting a black actor (Duane Jones) in the lead role.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Janus Films\n\nCOUNTRY: USA",
@@ -6626,6 +6930,30 @@
           "rawName" : "Eungyo (은교) with Park Hae-il",
           "runtimeMinutes" : 129,
           "year" : "2012"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 103,
+      "rawDescription" : "While the white sheet has become an icon of the returning dead, it also stands in the place of projection. The sheet, stretched like a translucent canvas, is a reminder of the first public exhibitions where shadowy figures suddenly appeared on or behind its surface. The screen, like the sheet, becomes the membrane through and onto which the figure of the ghost takes shape, confounding our ability to distinguish the figure (the ghost-as-sheet) from the ground (the screen-as-sheet). But while the sheet may serve as the connective tissue between a living audience and the dead, the image or shadows that congregate on screen stir up trouble for the living. Tonight’s films explore the convergence of touch (or the inability to touch) with the ghostly and our changing relationship with the past and the dead.—*Kriss Ravetto-Biagioli, Martine Beugnet*\n\nOver a 12-year span (2004–2016), Marusya Syroechkovskaya documented her relationship with Kimi, the young man who became her friend, companion and husband. While documentary practice became the filmmaker’s lifeline, Kimi, like so many young Russians growing up under an increasingly autocratic regime, was caught in a spiral of self-destruction and drug addiction. The film’s subtitle, *a message from a silenced generation*, signals the refusal to provide any closure that would exorcise ghosts and free oneself from the past. Instead, the filmmaker creates a space where a dead friend returns to tell a story that is also the story of a lost generation.\n\nDCP. Director\/Screenwriter: Marusya Syroechkovskaya. With: Marusya Syroechkovskaya, Kirill Morev.\n\n*A Ghost Story* is unusual in its use of the now dated, shrouded ghost, featuring Casey Affleck donning a plain white sheet with two black holes in lieu of eyes. While a deceptively simple narrative — a man (known only as C) dies and returns to haunt the house he lived in with his wife (M, played by Rooney Mara) — the film’s poignancy stems from its account of loss and grief, the cohabitation of death and life epitomized by the sharing of a mundane household object, and the sheet that hides and reveals live, inanimate and absent bodies.\n\nDCP. Director\/Screenwriter: David Lowery. With: Casey Affleck, Rooney Mara.",
+      "rawTitle" : "How to Save a Dead Friend \/ A Ghost Story",
+      "start" : "2026-11-02T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/how-to-save-a-dead-friend-a-ghost-story-2026-11-01",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "How to Save a Dead Friend",
+          "runtimeMinutes" : 103,
+          "year" : "2022"
+        },
+        {
+          "rawName" : "A Ghost Story",
+          "runtimeMinutes" : 93,
+          "year" : "2017"
         }
       ]
     },
@@ -7085,6 +7413,24 @@
       ]
     },
     {
+      "feedRuntimeHint" : 104,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Hammer Museum*\n\nJust as every memorable dinner harmonizes textures and flavors to create something more than the sum of its parts — of the type that feels like “a kind of love affair” — so too does Danish director Gabriel Axel’s *Babette’s Feast*. A dash of piety, a splash of romance, a hint of heartache, a touch of splendor, and generous portions of human frailty and desire all come together in Axel’s framing, Henning Kristiansen’s cinematography and the delicate performances of its outstanding cast to make you fall in love with the movies and dining, all over again. We’re pleased to present this Academy Award-winning classic of the culinary screen to mark the fifth anniversary of Lulu at the Hammer Museum.\n\n*Programmed and note written by Senior Public Programmer Paul Malcolm.*\n\nDirector: Gabriel Axel. Screenwriter: Gabriel Axel, Annemarie Aaes. With: Stéphane Audran, Bodil Kjer, Birgitte Federspiel.",
+      "rawTitle" : "Babette’s Feast",
+      "start" : "2026-11-08T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/babettes-feast-2026-11-07",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Babette’s Feast",
+          "runtimeMinutes" : 104,
+          "year" : "1987"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Roberto Rossellini",
       "feedRuntimeHint" : 103,
       "rawTitle" : "Rome, Open City (Roma città aperta) in 35mm",
@@ -7204,6 +7550,24 @@
           "rawName" : "Waikiki Brothers (와이키키 브라더스)",
           "runtimeMinutes" : 109,
           "year" : "2001"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 317,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nRyusuke Hamaguchi’s first bona fide masterpiece and one of the best films of the 21st century, *Happy Hour* emerged from a workshop in 2013 with non-professional actors — some of whom ended up in the final film. Proof positive of the effectiveness of Hamaguchi’s improvisational, communal working method to this point in his career, there’s never a slack moment in its runtime of just over five hours as the group of women friends at its center navigate middle-age. Indeed, as Hamaguchi elevates his recurring themes of transition and change to sociological levels he seems to sharpen the drama’s intimacy and intensity.—*Senior Public Programmer Paul Malcolm* \n\nDCP. Director: Ryusuke Hamaguchi. Screenwriters: Ryusuke Hamaguchi, Tadashi Nohara, Tomoyuki Takahashi. With: Sachie Tanaka, Maiko Mihara, Hazuki Kikuchi.",
+      "rawTitle" : "Happy Hour",
+      "start" : "2026-11-09T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/happy-hour-2026-11-08",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Happy Hour",
+          "runtimeMinutes" : 317,
+          "year" : "2015"
         }
       ]
     },
@@ -7441,6 +7805,30 @@
       ]
     },
     {
+      "feedRuntimeHint" : 58,
+      "rawDescription" : "Every space hosts the accumulation of time and is thus a repository of memory, one that is active and dynamic.\n\nJean Khalil Chamoun’s *Women Beyond Borders* (2004) and Theo Panagopoulos’ *The Flowers Stand Silently, Witnessin*g (2024) were made two decades apart, but together they foster an ongoing conversation at the intersection of identity, memory and place across Lebanon and Palestine.\n\nThough distinct in form, the films consider the relationship between people’s lived environments and their individual and collective identities. The films navigate through spaces both historically and presently marked by displacement, violence and resilience. Both offer meditations and testimonies on how these spaces can inhabit a people’s memories, linger into their present realities and influence their futures.\n\nRather than attempting to unearth a singular tradition, this program amplifies an ongoing cinematic conversation across Lebanon and Palestine that is rooted in intertwined histories of occupation and resistance. This conversation is an urgent one to hold today in light of the ongoing aggression against southern Lebanon and historic Palestine that continues to target complete ecosystems. This systematic surge of destruction and harm affects far beyond the physical; it seeks to fracture memory, sever a people’s sense of being and belonging, and jeopardize social relations that places sustain. The moving image as a tool presents an opportunity to forge an alternative place of memory work, one capable of preserving spatial memory, making visible the forms of erasure, and imagining continuities that exceed the violence of occupation and its imposed restriction on bodies and space.\n\n*Programmed by UCLA Comparative Literature Ph.D. student Aciah Abdulsater and Archive Research and Public Access Coordinator Nicole Ucedo. Notes and concept by Aciah Abdulsater.*\n\nFilmmaker and researcher Theo Panagopoulos’ essay-style documentary assembles recently rediscovered archival footage of Palestinian wild flowers, filmed in the 1930s and ’40s by a Scottish missionary during the British Mandate. Panagopoulos decides to reclaim the footage. In reframing the images with new sound and captions he questions the role of image-making as both a tool of witnessing and a perpetrator of violence, when covering the relationships between people and land. \n\nDCP. Director\/Screenwriter: Theo Panagopoulos.\n\nIn a feature-length documentary, filmmaker Jean Khalil Chamoun follows the story of Kifah Afifi, a Palestinian refugee, Sabra and Shatila massacre survivor, and ex-abductee at the infamous Khiam detention center in then-occupied southern Lebanon. The film explores questions of womanhood and women’s relationship to community and space. By following Kifah’s recollection of her time in detainment, her struggles and what anchored her hope, the film sheds light onto women who defied societal, historical and political boundaries.\n\nDigital media. Director\/Screenwriter: Jean Khalil Chamoun.",
+      "rawTitle" : "Borders That Flower: The Flowers Stand Silently, Witnessing \/ Women Beyond Borders",
+      "start" : "2026-11-15T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/borders-that-flower-2026-11-14",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Women Beyond Borders",
+          "runtimeMinutes" : 58,
+          "year" : "2004"
+        },
+        {
+          "rawName" : "The Flowers Stand Silently, Witnessing",
+          "runtimeMinutes" : 17,
+          "year" : "2024"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Wes Anderson",
       "feedRuntimeHint" : 99,
       "rawTitle" : "The Grand Budapest Hotel in 35mm",
@@ -7499,6 +7887,19 @@
       ]
     },
     {
+      "rawDescription" : "Uma Sanasaryan traces the Goddess Kali's presence in Hollywood and uncanny historical parallels across cinema and pop culture.",
+      "rawTitle" : "HOLLYWOOD KALI: An Archival Exploration of Kali's Influence on Hollywood",
+      "start" : "2026-11-16T02:00:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/hollywood-kali-an-archival-exploration-of-kalis-influence-on-hollywood-tickets-2002758637999",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedRuntimeHint" : 50,
       "rawDescription" : "First Come, First Serve. RSVP does not guarantee entree to screening\n\nSynopsis:\n\nJaleesa Vincent and Luka Raubenheimer create Vampires Surf, a new fantasy surf film starring Frankie Harrer, Caity Simmers and Kobe Hughes, presented by Sun Bum.\n\nThree immortal vampire girls have spent centuries surfing beneath the moon. When fate changes, they leave the shadows behind and become legends amongst mortals. But the return of the Blood Moon summons them to Coffin Bay, where an ancient prophecy and a powerful evil will decide their future. Spooky, funny and heartfelt, Vampires Surf is a timeless tale of surfing, friendship and following your destiny—even if it takes an eternity.",
       "rawTitle" : "Vampires Surf presented by Sun Bum",
@@ -7532,6 +7933,78 @@
           "rawName" : "Germany Year Zero (Germania anno zero) in 35mm",
           "runtimeMinutes" : 78,
           "year" : "1948"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 18,
+      "rawDescription" : "*Archive Talks* pairs leading historians and scholars with screenings of the moving image media that is the focus of their writing and research. Each program will begin with a special talk by the invited scholar that will introduce audiences to new insights, interpretations and contexts for the films and media being screened.\n\nThe Archive first worked with archivist and scholar Laura Horak in 2022 when we presented a series of films unearthed by Horak and her collaborators, Maggie Hennefeld and Elif Rongen-Kaynakçi. Their archival project *Cinema’s First Nasty Women *celebrated the work of silent comedians who brought an anarchic brand of gender non-conformity to slapstick. Alongside that work, Horak is also the director of the Transgender Media Lab at Carleton University, which created the [Transgender Media Portal](https:\/\/www.transgendermediaportal.org\/), a database of trans creators, including links to where their work can be seen. Suffice it to say, increasing the visibility and access to the media she studies is an essential element of Horak’s ongoing research project. With her latest book, *Trans Cinema: Making Communities, Identities, and Worlds*, Horak dives deep into the history, practice and aesthetics of trans artists in the United States and Canada in the 21st century while positioning them within the larger history of trans media production and representation. The Archive is pleased to welcome Horak back to the Billy Wilder Theater for a brief talk about her work followed by a selection of works by trans artists and an on-stage conversation, with more special guests to be announced soon!\n\nPart of the Archive’s *[Legacy Project Screening Series](\/series\/outfest-ucla-legacy-project-screening-series\/)*. \n\n*Support for the screening is provided by the Robert Gore Rifkind Foundation Queer Screening Endowment and The Andrew J. Kuehn Jr. Foundation.*\n\n*Total running time: 84 min.*\n\nDirector B. G-Osborne’s three-channel experimental film juxtaposes scenes of trans representation from popular film and television, exposing the emotions of popular trans representation — fascination, fear, sexualization, disgust.\n\nDCP. Director: B. G-Osborne.\n\nA Black trans woman talks about what she wants from life as she shops, flirts and gets ready for a date in this groundbreaking UCLA student film. \n\nDirector: Nikolai Ursin.\n\n*Preservation funding provided by the National Film Preservation Foundation. Preserved by the UCLA Film & Television Archive as part of the Outfest UCLA Legacy Project. Laboratory services by Audio Mechanics, Film Technology, Inc. Special thanks to Stephen Parr, Norman Yonemoto.*\n\nDirector Luis De Filippis explores the quiet relationship between a Canadian Italian trans girl in her early 20s and her Italian grandmother.\n\nDCP. Director: Luis De Filippis.\n\nIn this Emmy-nominated web series, the classic romantic comedy structure meets a trans version of *The L Word.*\n\nDCP. Director: Sydney Freeland.\n\nTheo Jean Cuthand (Plains Cree) wrestles honestly with the contradictions of desire and the conundrum of wanting someone you know is bad for you in a colonial context.\n\nDCP. Director: Theo Jean Cuthand.\n\nStop-motion animation that explores the joy of first love and grief of breaking up in this short film by Raven Davis (Anishinaabe).\n\nDCP. Director: Raven Davis.\n\nThis experimental documentary presents Black trans women and their communities fighting back against the violence they face.\n\nDCP. Director: Seyi Adebanjo.\n\nDirected by Jess MacCormack and Alexus Young (Métis), this short experimental animated video documentary illuminates Young’s experience of a “starlight tour” in Saskatoon.\n\nDCP. Directors: Jess MacCormack, Alexus Young.\n\nDirector Rhys Ernst’s documentary tells the story of a Black trans caterer and madame from the early 20th century.\n\nDCP. Director: Rhys Ernst.\n\nDirector Tourmaline summons a haunting visitation with the spirits of Black trans ancestors via music, light, dancing and mystical scenarios.\n\nDCP. Director: Tourmaline.",
+      "rawTitle" : "Archive Talks: Trans Cinema: Making Communities, Identities, and Worlds",
+      "start" : "2026-11-16T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/archive-talks-trans-cinema-making-communities-identities-and-worlds-2026-11-15",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "16mm, B&W",
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "A Thousand Cuts",
+          "runtimeMinutes" : 18,
+          "year" : "2018"
+        },
+        {
+          "rawName" : "Behind Every Good Man",
+          "runtimeMinutes" : 9,
+          "year" : "1967"
+        },
+        {
+          "rawName" : "For Nonna Anna",
+          "runtimeMinutes" : 13,
+          "year" : "2017"
+        },
+        {
+          "rawName" : "Her Story, season 1, episode 3",
+          "runtimeMinutes" : 8,
+          "year" : "2015"
+        },
+        {
+          "rawName" : "Just Dandy",
+          "runtimeMinutes" : 8,
+          "year" : "2013"
+        },
+        {
+          "rawName" : "I Still Believe",
+          "runtimeMinutes" : 3,
+          "year" : "2015"
+        },
+        {
+          "rawName" : "Honor Black Trans Womxn!",
+          "runtimeMinutes" : 6,
+          "year" : "2019"
+        },
+        {
+          "rawName" : "Feeling Reserved: Alexus’ Story",
+          "runtimeMinutes" : 6,
+          "year" : "2011"
+        },
+        {
+          "rawName" : "We’ve Been Around: Lucy",
+          "runtimeMinutes" : 6,
+          "year" : "2016"
+        },
+        {
+          "rawName" : "Atlantic Is a Sea of Bones",
+          "runtimeMinutes" : 7,
+          "year" : "2017"
         }
       ]
     },
@@ -7609,6 +8082,24 @@
           "rawName" : "The Getaway in 35mm",
           "runtimeMinutes" : 122,
           "year" : "1972"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 81,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive in partnership with the David C. Copley Center for Costume Design at UCLA.*\n\n*Archive Talks* pairs leading historians and scholars with screenings of the moving image media that is the focus of their writing and research. Each program will begin with a special talk by the invited scholar that will introduce audiences to new insights, interpretations and contexts for the films and media being screened.\n\nThis screening will be preceded by a book signing of *Banton of Paramount: Haute Couture in Hollywood’s Golden Age* with author Howard Gutner beginning at 6:30 p.m. in the lobby.\n\nThe playboy and thief Gaston (Herbert Marshall) meets the expert pickpocket Lily (Miriam Hopkins) on the Riviera, and they, of course, fall in love. In Paris, Gaston gets a job as the personal secretary to a wealthy heiress to a perfume company, Mariette (Kay Francis), hiring Lily as the maid, so they can rob her blind. Unfortunately, while cleaning up the corruption on her company’s board, he also falls in love with her. No director was better at exposing the false morality of the bourgeoisie when pursuing sexual desire. Here, Ernst Lubitsch sets up a faux marriage, then turns the relationship into a ménage à trois, which he provocatively suggests may be the best way to keep a sexual relationship interesting and stable. Lubitsch’s direction of actors is almost Pirandellian, with the actors speaking their emotional lines in a virtual monotone, thus creating parodies of romantic love.\n\nOn display in this luscious pre-code comedic romance is the creative genius of Travis Banton, one of Hollywood’s most important costume designers, whose collaborators included Lubitsch, Marlene Dietrich and Josef von Sternberg. A conversation on Banton’s influence and evocative style, with author Howard Gutner and Professor Deborah Nadoolman Landis, will precede the screening.\n\nDirector: Ernst Lubitsch. Screenwriter: Samson Raphaelson. With: Miriam Hopkins, Kay Francis, Herbert Marshall, Charles Ruggles.\n\n*Restoration funding provided by the Hobson\/Lucas Family Foundation. Restored by the UCLA Film & Television Archive and The Film Foundation from the 35mm nitrate studio print and a 35mm acetate dupe negative. Laboratory services by Fotokem, Audio Mechanics, DJ Audio, Inc., Simon Daniel Sound. Special thanks to Library of Congress, George Willeman, British Film Institute, Universal Pictures.*",
+      "rawTitle" : "Archive Talks: Trouble in Paradise",
+      "start" : "2026-11-19T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/archive-talks-trouble-in-paradise-2026-11-18",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, B&W"
+      ],
+      "works" : [
+        {
+          "rawName" : "Trouble in Paradise",
+          "runtimeMinutes" : 81,
+          "year" : "1932"
         }
       ]
     },
@@ -7891,6 +8382,35 @@
           "rawName" : "The Hustler",
           "runtimeMinutes" : 134,
           "year" : "1961"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 30,
+      "rawDescription" : "*Made possible by the John H. Mitchell Television Programming Endowment*\n\nPremiering on NBC on October 17, 1966, *Hollywood Squares* became one of the most popular game shows in television history, with over 4,000 episodes of the original network incarnation produced through 1981. The longevity of the simple tic-tac-toe game was driven in large part by the show’s charismatic, quick-witted host, Peter Marshall. A talented actor and nightclub comedian, Marshall breezily tackled the daunting task of corralling the series’ boisterous, rotating stable of nine celebrities, setting up punchlines and volleying retorts with equal aplomb. \n\nWhile high-wattage superstars such as Vincent Price and Sammy Davis Jr. often guested, the literal center of *Hollywood Squares’ *towering, neon-lit set featured an icon like no other — actor and comedian Paul Lynde. Beloved by audiences of all stripes, Lynde routinely brought down the house with bawdy ad-libs and double entendres — delivered impeccably with a knowing wink. Painfully closeted in his personal life to protect his showbiz career, Lynde turned conventional wisdom of the day upside down, boldly introducing the masses to an undeniably empowered, queer-coded persona previously unseen on television. \n\nJoin us as we celebrate the 60th anniversary of the premiere of *Hollywood Squares* and the birth centennials of Peter Marshall and Paul Lynde. Two preserved episodes will be screened, complete with original commercials, as well as an extended clip reel showcasing a galaxy of guest stars, risque retorts and the genius of Paul Lynde.\n\n*Programmed and notes written by John H. Mitchell Television Curator Mark Quigley.*\n\n*With original commercials! *\n\nCelebrity guests include Cliff Arquette (a.k.a. Charlie Weaver), Kaye Ballard, Wally Cox, Gypsy Rose Lee, Paul Lynde, Rose Marie, Greg Morris, Jan Murray, Gig Young. \n\nDCP. NBC. Production: A Merrill Heater\/Bob Quigley production. Director: Jerome Shaw. Host: Peter Marshall. \n\n*Preserved by the UCLA Film & Television Archive from an original 2 in. videoreel. Engineering services by CBS Media Exchange. **\n*\n\n*With original commercials! *\n\nCelebrity guests include Pearl Bailey, Ernest Borgnine, Dick Enberg, Paul Lynde, Ricardo Montalbán, Karen Valentine and more. \n\nDCP. NBC. Production: A Merrill Heater\/Bob Quigley production. Producer: Jay Redack. Editorial staff: Harry Friedman, Gary Johnson, Harold Schneider, Rick Kellard. Director: Jerome Shaw. Host: Peter Marshall. \n\n*Preserved by the UCLA Film & Television Archive from a 1\/2 in. open reel videotape off-air recording. Engineering services by DC Video. *\n\nCurated from a range of archival resources, this extended clip reel features a tribute to Peter Marshall, a compilation of Paul Lynde zingers, a roll call of celebrity guests, including stars Ruta Lee, Rich Little and Jo Anne Worley, guest spots ranging from soul star Chaka Khan to ’70s icon Burt Reynolds, bloopers, promos and more. \n\nDCP. *Special thanks to Laurie Marshall, Jim Pierson, Randy Yantek.*",
+      "rawTitle" : "60th Anniversary Screening: Hollywood Squares",
+      "start" : "2026-11-22T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/60th-anniversary-screening-hollywood-squares-2026-11-21",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "Digital, Color",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Hollywood Squares",
+          "runtimeMinutes" : 30,
+          "year" : "1968"
+        },
+        {
+          "rawName" : "Hollywood Squares",
+          "runtimeMinutes" : 30,
+          "year" : "1973"
+        },
+        {
+          "rawName" : "Hollywood Squares — Mega Mix Clip Reel",
+          "runtimeMinutes" : 35
         }
       ]
     },
@@ -8446,6 +8966,36 @@
       ]
     },
     {
+      "feedRuntimeHint" : 3,
+      "rawDescription" : "Director: Josef Berne. With: Dorothy Dandridge, Dudley Dickerson.\n\nDirector: Dudley Murphy. With: Hoagy Carmichael, Dorothy Dandridge, Peter Ray.\n\nProduced and starring Halle Berry, directed by Martha Coolidge and written by Shonda Rhimes, this exciting HBO biopic about Dandridge reintroduced Dandridge to audiences at the turn of the century, cementing her legendary status. Based on an unauthorized biography by Earl Mills, Dandridge’s former manager, the story centers on Dandridge in the 1960s reminiscing on the phone about her career peaks and valleys. When Berry became the first (and still only) Black woman to win the Best Actress Oscar a few years later for *Monster’s Ball *in 2002, she said in her acceptance speech, “This is for Dorothy Dandridge.”—*guest programmer Miriam Bale* \n\nDCP. Director: Martha Coolidge. Screenwriters: Shonda Rhimes, Scott Abbott. With: Halle Berry, Brent Spiner.",
+      "rawTitle" : "Introducing Dorothy Dandridge",
+      "start" : "2026-12-03T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/introducing-dorothy-dandridge-2026-12-02",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "16mm, B&W",
+        "16mm, B&W",
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Cow-Cow Boogie",
+          "runtimeMinutes" : 3,
+          "year" : "1942"
+        },
+        {
+          "rawName" : "Lazybones",
+          "runtimeMinutes" : 3,
+          "year" : "1941"
+        },
+        {
+          "rawName" : "Introducing Dorothy Dandridge",
+          "runtimeMinutes" : 120,
+          "year" : "1999"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Mitchell Leisen",
       "feedRuntimeHint" : 94,
       "rawDescription" : "1940 • Introduction by Film Historian Randy Haberkamp • This is a perfect “cozy Christmas” movie, the kind you watch and then wonder why it isn’t better known. Barbara Stanwyck can break your heart and make you laugh in the same scene, Fred MacMurray is wonderfully grounded, and Beulah Bondi gives it that home-and-hearth feeling you want this time of year. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
@@ -8486,6 +9036,36 @@
       ]
     },
     {
+      "feedRuntimeHint" : 14,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nAn old man lost in the woods stumbles onto a band of boisterous *tengu*, bird-like goblins of Japanese folklore, who demand to be entertained in this wonderfully detailed Japanese animated fairytale. \n\nDirector: Yasuji Murata. \n\n*Print courtesy of the National Film Archive of Japan.*\n\nJapanese animation pioneer Noburō Ofuji’s first film, *The Thief of Baguda Castle *premiered on the same bill with Teinosuke Kinugasa’s *A Page of Madness* in 1926. While Kinugasa was advancing live-action cinema, Ofuji introduced his own new stop-motion technique using cut outs of colorfully patterned paper called *chiyogami*. The film’s main character, Dangobei, a roustabout who nevertheless wins the favor and hand of a princess with help from some obliging spirits, became a recurring character in Noburo’s later work. \n\nDirector: Noburō Ofuji.\n\n*Print courtesy of the National Film Archive of Japan.*\n\n*North American premiere of new restoration!*\n\nJapanese novelist (and later Nobel Prize winner) Yasunari Kawabata devised the scenario (with contributions from other members of the radical literary movement known as Shinkankakuha) for director Teinosuke Kinugasa’s visionary masterpiece. Believing his wanton cruelty drove his wife insane, a guilt-wracked husband devotes himself to her care as a janitor at the asylum where she’s incarcerated. When it appears her illness may prevent their daughter from getting married, he gradually loses his own grip on reality. Kinugasa’s fantastical images, disorienting super impositions and rapid montage confirmed the expressive power of Japanese silent film. The Archive is honored to premiere this new restoration from the National Film Archive of Japan on the film’s centennial. \n\nDCP. Director: Teinosuke Kinugasa. Screenwriters: Yasunari Kawabata, Teinosuke Kinugasa, Minoru Inuzaka, Bankō Sawada. With: Masao Inoue, Yoshie Nakagawa, Ayako Iijima.\n\n*Restored by the National Film Archive of Japan*",
+      "rawTitle" : "A Page of Madness",
+      "start" : "2026-12-06T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/page-of-madness-2026-12-05",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, B&W, Silent",
+        "35mm, B&W, Silent",
+        "Digital, B&W, Silent"
+      ],
+      "works" : [
+        {
+          "rawName" : "The Lump",
+          "runtimeMinutes" : 14,
+          "year" : "1929"
+        },
+        {
+          "rawName" : "The Thief of Baguda Castle",
+          "runtimeMinutes" : 14,
+          "year" : "1926"
+        },
+        {
+          "rawName" : "A Page of Madness (Kurutta ichipeiji)",
+          "runtimeMinutes" : 70,
+          "year" : "1926"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Roy Del Ruth",
       "feedRuntimeHint" : 116,
       "rawDescription" : "1947 • Introduction by Film Archivist Stan Taffel • This is a warm holiday comedy with a big heart and a New York setting that feels like a postcard from another era. A great pick for the season!  • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
@@ -8506,6 +9086,30 @@
       ]
     },
     {
+      "feedRuntimeHint" : 60,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Yanai Initiative*\n\nOne of Reginald Denny’s last silent comedies before he successfully transitioned to sound, *That’s My Daddy* may also be one of his most charming. Denny stars as a wealthy playboy who invents an injured daughter to get out of a speeding ticket only to find a real little girl (Jane La Verne) waiting to play the role after the obliging cop escorts him to the hospital. And on his wedding day, no less. Denny, one of Universal’s biggest stars at the time, told Kevin Brownlow that he took over from Harold Lloyd’s regular director Fred C. Newmeyer after a disagreement about comedic approach although Denny is only officially credited with the story.\n\nDCP, silent with live musical accompaniment. Director: Fred Newmeyer. Screenwriters: Pierre Couderc, Albert DeMond, Earle Snell, Faith Thomas. With: Reginald Denny, Barbara Kent, Lillian Rich. \n\n*Digitally restored version courtesy of the Packard Humanities Institute*.\n\nA landmark film almost lost to history, *Different from the Others* is widely considered the first feature-length film aimed at a specifically gay audience made all the more significant for its humanistic depiction of gay men and its explicit plea for the end of their social and legal persecution. Soon-to-be screen legend Conrad Veidt plays Paul Koerner, a celebrated concert violinist who lives under constant fear of blackmail and imprisonment because of Germany’s antigay law, Article 175. When his relationship with a new protégé raises suspicions, all of Koerner’s fears become real. Though the film still only exists as a fragment, *Different From the Others* remains a compelling artifact from a fleeting progressive moment in German and cinema history.\n\nDirector: Richard Oswald. Screenwriters: Magnus Hirschfeld, Richard Oswald. With: Conrad Veidt, Leo Connard, Ilse von Tasso-Lind, Alexandra Willegh, Ernst Pittschau. \n\n*Restoration funding provided **by The Andrew J. Kuehn Jr. Foundation and the members of Outfest.* *Restored by the UCLA Film & Television Archive. *",
+      "rawTitle" : "That's My Daddy \/ Different From the Others",
+      "start" : "2026-12-07T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/thats-my-daddy-different-from-the-others-2026-12-06",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, B&W, Silent",
+        "35mm, B&W, Silent"
+      ],
+      "works" : [
+        {
+          "rawName" : "That’s My Daddy",
+          "runtimeMinutes" : 60,
+          "year" : "1928"
+        },
+        {
+          "rawName" : "Different From the Others (Anders als die andern)",
+          "runtimeMinutes" : 48,
+          "year" : "1919"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Jon Favreau",
       "feedRuntimeHint" : 97,
       "rawDescription" : "2003 • A Christmas comedy that became an instant classic, filled with heart, humor, and holiday magic. It's a festive must-watch every year!  • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
@@ -8522,6 +9126,30 @@
           "rawName" : "Elf",
           "runtimeMinutes" : 97,
           "year" : "2003"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 78,
+      "rawDescription" : "A promising chemistry student (played by professional basketball player Billy Brown) drops out of college to play on the Harlem Globetrotters. After an injury received while secretly marrying his girlfriend (Dorothy Dandridge) plus an arrogant attitude lose him a place on the Globetrotters, he takes a teaching job and considers playing for another team. His wife reminds him, though, how important the Globetrotters are to Black sports fans. This fun and uplifting sports film came out at a fascinating time between the “race movies” (made for Black audiences) of the 1940s and the “problem pictures” (issue films about race) of the 1950s.—*guest programmer Miriam Bale*\n\nDirectors: Phil Brown, Will Jason. Screenwriter: Alfred Palca. With: Harlem Globetrotters, Thomas Gomez, Dorothy Dandridge.\n\nA new fourth-grade teacher at an all-Black school tries to understand the internal and external struggles of a failing young student who shows promise. Harry Belafonte plays the school principal in the first of three collaborations between himself and Dandridge. The film was radical for its subtlety and internal focus, with Dandridge giving one of her most sensitive and nuanced performances.—*guest programmer Miriam Bale*\n\nDirector: Gerald Mayer. Screenwriter: Emmet Lavery. With: Dorothy Dandridge, Philip Hepburn, Harry Belafonte.",
+      "rawTitle" : "The Harlem Globetrotters \/ Bright Road",
+      "start" : "2026-12-10T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/harlem-globetrotters-bright-road-2026-12-09",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, B&W",
+        "16mm, B&W"
+      ],
+      "works" : [
+        {
+          "rawName" : "The Harlem Globetrotters",
+          "runtimeMinutes" : 78,
+          "year" : "1951"
+        },
+        {
+          "rawName" : "Bright Road",
+          "runtimeMinutes" : 68,
+          "year" : "1953"
         }
       ]
     },
@@ -8566,6 +9194,24 @@
       ]
     },
     {
+      "feedRuntimeHint" : 96,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and the Directors Guild of America. Made possible by the John H. Mitchell Television Programming Endowment.*\n\nIn a trailblazing entertainment industry career spanning over half a century, producer-director Stan Lathan continues to leave an indelible creative mark. His groundbreaking work in television began with directing the PBS public affairs and documentary series *Say Brother* and *Black Journal*, which were produced to give voice to Black communities following the assassination of Dr. Martin Luther King, Jr. Later summoned by Redd Foxx to work on *Sanford and Son* as one of the few Black directors in primetime television, Lathan went on to helm episodes for a wide range of hit series, from *Hill Street Blues* to *Roc*. A formidable talent, he also directed numerous pilots that launched highly successful series, including *Amen* and *Moesha*.\n\nIn a career of milestones, following his theatrical feature *Beat Street* (1984), Lathan partnered with Russell Simmons to create *Def Comedy Jam* and *Def Poetry Jam* for HBO, the latter garnering the duo a Peabody Award. Among multiple Emmy, Grammy and Tony Awards and too many other major awards to mention, Lathan was recognized with a CINE Golden Eagle and an American Film Festival Blue Ribbon for directing the *American Playhouse* telefilm *Go Tell It on the Mountain* (1985). In perhaps the highest accolade possible, cultural titan James Baldwin publicly pronounced his love of the TV adaptation of his seminal work.\n\nJoin us as we celebrate Stan Lathan with a screening of *Go Tell It on the Mountain*, introduced by NYU Associate Professor Josslyn Luckett.\n\n*Programmed and notes written by John H. Mitchell Television Curator Mark Quigley.*\n\nAdapted from James Baldwin’s semi-autobiographical novel, this acclaimed television production won the approval of the author himself, with the literary and cultural giant telling the *New York Times* that he was “very, very happy about [the film] ... it did not betray the book.” Through flashbacks, award-winning director Stan Lathan powerfully interweaves painful family histories that inform the life of sensitive, burgeoning author John Grimes (James Bond III). Against the forces of religion, racism and poverty during the Great Depression, the 14-year-old Grimes begins a path of profound self-discovery and possibilities, impeded by his emotionally abusive, preacher step-father (Paul Winfield).\n\nDCP. PBS. Production: Learning in Focus. Executive Producer: Robert Geller. Director: Stan Lathan. Adapted from the novel by James Baldwin. Writers: Gus Wallace, Leslie Lee. With: James Bond III, Paul Winfield, Alfre Woodward, Ving Rhames, Giancarlo Esposito, Olivia Cole, Rosiland Cash, CCH Pounder.\n\n*Special thanks to Mark Balsam, Jordan Fields, Radial Entertainment, Breannah Oppenhuizen, Directors Guild of America.*",
+      "rawTitle" : "Tribute to Director Stan Lathan: Go Tell It on the Mountain",
+      "start" : "2026-12-13T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/tribute-to-director-stan-lathan-go-tell-it-on-the-mountain-2026-12-12",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "American Playhouse: “Go Tell It on the Mountain”",
+          "runtimeMinutes" : 96,
+          "year" : "1985"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Charlie Chaplin",
       "feedRuntimeHint" : 95,
       "rawDescription" : "1925 - Silent • Live Accompaniment by Robert York on the Mighty Wurlitzer • Introduction by Film Archivist Stan Taffel • This is one of the great silent comedies from the master, Charlie Chaplin. Even after all these years, it's still hilarious. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
@@ -8582,6 +9228,30 @@
           "rawName" : "The Gold Rush",
           "runtimeMinutes" : 95,
           "year" : "1925"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 97,
+      "rawDescription" : "A double-crossing thief (Edmund Purdom) abandons both his partner (Trevor Howard) and his girlfriend Gianna (Dorothy Dandridge) after a robbery. The abandoned duo trail him from London to Spain, and fall for each other along the journey. The race and background of Dandridge’s character is never explicitly stated, which was a frustration to Dandridge, but led to her creating a role of great depth, sadness and mystery.*—guest programmer Miriam Bale* \n\nDirector: Laslo Benedek. Screenwriter: David D. Osborn, Donald Ogden Stewart. With: Trevor Howard, Dorothy Dandridge, Edmund Purdom.\n\nThis low-budget MGM movie by the interesting director Andrew L. Stone (who usually made independent films with his wife, Virginia L. Stone) is about a mutiny plot on a ship headed by a new captain (James Mason). The cook’s wife (Dorothy Dandridge) is the only woman on board, and is dangerously lusted after by many of the men. Dandridge and Mason became close friends while working on the film.—*guest programmer Miriam Bale* \n\nDirector: Andrew L. Stone. Screenwriter: Andrew L. Stone. With: James Mason, Dorothy Dandridge, Broderick Crawford.",
+      "rawTitle" : "Malaga \/ The Decks Ran Red",
+      "start" : "2026-12-14T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/malaga-the-decks-ran-red-2026-12-13",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "35mm, B&W",
+        "35mm, B&W"
+      ],
+      "works" : [
+        {
+          "rawName" : "Malaga (a.k.a. Moment of Danger)",
+          "runtimeMinutes" : 97,
+          "year" : "1960"
+        },
+        {
+          "rawName" : "The Decks Ran Red",
+          "runtimeMinutes" : 97,
+          "year" : "1958"
         }
       ]
     },
@@ -8606,6 +9276,24 @@
       ]
     },
     {
+      "feedRuntimeHint" : 110,
+      "rawDescription" : "*Presented by the UCLA Film & Television Archive and Farhang Foundation*\n\nIn this powerful documentary, director Raha Shirazi tells of the generational struggle of Iranian women to achieve basic human rights, from the suffrage movement under the Shah in the 1960s to the Women, Life, Freedom Movement sparked by the death of Mahsa Amini in 2022. While a group of high profile activists speak on camera, including Mahnaz Afkhami, Asieh Amini, Masih Alinejad and Shaparak Shajarzadeh, it’s the anonymous girls and women demonstrating in classrooms, homes, offices and on the streets, as seen in archival news footage and more recent TikTok videos, that are the film’s real focus. As each generation has evolved new strategies to advance the cause, their unwavering commitment to freedom remains an inspiring constant. \n\n*Programmed and note written by Senior Public Programmer Paul Malcolm.*\n\n*Program generously funded by the Farhang Foundation.*\n\nDCP. Director: Raha Shirazi. Screenwriters: Samira Mohyeddin, Raha Shirazi.",
+      "rawTitle" : "A War on Women",
+      "start" : "2026-12-17T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/war-on-women-2026-12-16",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "A War on Women",
+          "runtimeMinutes" : 110,
+          "year" : "2026"
+        }
+      ]
+    },
+    {
       "rawDescription" : "Monthly short film festival. Watch and vote. Audience award to the best short film each month. Annual championship in DECEMBER.",
       "rawTitle" : "MOVIE SCREENERS CLUB (Thu. 10\/15) 7:30pm",
       "start" : "2026-12-18T03:30:00.000Z",
@@ -8616,6 +9304,30 @@
       ],
       "works" : [
 
+      ]
+    },
+    {
+      "feedRuntimeHint" : 1958,
+      "rawDescription" : "Dutch sea captain Reiker (Curd Jürgens) embarks on what he intends to be his last slave-ship voyage along with his enslaved mistress Aiché (Dorothy Dandridge). One captured man, Tamango (Alex Cressan), plans a revolt. He tries to persuade Aiché to join him and the other rebels. Dandridge had refused many roles portraying enslaved people, but was attracted to this story of a shipboard rebellion. This French co-production filmed on the Côte d’Azur with star Dandridge staying at the glamorous Hotel du Cap-Eden-Roc for the majority of the shoot.—*guest programmer Miriam Bale*\n\nDCP. Director: John Berry. Screenwriters: John Berry, Lee Gold, Tamara Hovey, Georges Neveux. With: Dorothy Dandridge, Curd Jürgens, Jean Servais.\n\nDorothy Dandridge is the clear highlight here as Queen Melmendi of the Ashuba. She is luminescent, chic and sensual, and began to become a popular sex symbol a few years before *Carmen Jones *(1954). The plot involves Tarzan (Lex Barker) thwarting the plan of escaped criminal Radijeck (George Macready) to run guns in Africa on behalf of an unnamed power. But like all Tarzan films, it is a glimpse at Hollywood’s ever-shifting fascination with Africa.—*guest programmer Miriam Bale*\n\nDirector: Byron Haskin. Screenwriters: Samuel Newman, Francis Swann, John Cousins. With: Lex Barker, Virginia Huston, Dorothy Dandridge.",
+      "rawTitle" : "Tamango \/ Tarzan's Peril",
+      "start" : "2026-12-20T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/tamango-tarzans-peril-2026-12-19",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color",
+        "35mm, B&W"
+      ],
+      "works" : [
+        {
+          "rawName" : "Tamango",
+          "runtimeMinutes" : 1958,
+          "year" : "1958"
+        },
+        {
+          "rawName" : "Tarzan’s Peril",
+          "runtimeMinutes" : 78,
+          "year" : "1951"
+        }
       ]
     },
     {
@@ -8635,6 +9347,24 @@
           "rawName" : "It's a Wonderful Life",
           "runtimeMinutes" : 131,
           "year" : "1946"
+        }
+      ]
+    },
+    {
+      "feedRuntimeHint" : 105,
+      "rawDescription" : "Roles for this dynamic “all Black” version of Georges Bizet’s opera and Oscar Hammerstein’s musical were sought after by most Black actors in Hollywood. Director Otto Preminger thought Dandridge was right for the role of good girl Cindy Lou. With the help of her sister and mother, Dandridge put on new clothes, earrings, a walk and a demeanor to convince Preminger that she could play the seductive, red-hot Carmen Jones. “My God, it’s Carmen!” Preminger is said to have declared when he saw her transformation.—*guest programmer Miriam Bale* \n\nDCP. Director: Otto Preminger. Screenwriter: Harry Kleiner. With: Harry Belafonte, Dorothy Dandridge, Pearl Bailey.",
+      "rawTitle" : "Carmen Jones",
+      "start" : "2026-12-21T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.cinema.ucla.edu\/events\/carmen-jones-2026-12-20",
+      "venueID" : "hammer",
+      "videoFormats" : [
+        "Digital, Color"
+      ],
+      "works" : [
+        {
+          "rawName" : "Carmen Jones",
+          "runtimeMinutes" : 105,
+          "year" : "1954"
         }
       ]
     },
@@ -8861,6 +9591,30 @@
       "name" : "Old Town Music Hall",
       "neighborhood" : "El Segundo",
       "ticketingURL" : "https:\/\/www.oldtownmusichall.org"
+    },
+    {
+      "address" : "10899 Wilshire Blvd, Los Angeles",
+      "bio" : "UCLA's art museum in Westwood, where the UCLA Film & Television Archive screens its repertory film series.",
+      "city" : "Los Angeles",
+      "feedPlaceID" : "https:\/\/zeitgeists.org\/place\/cc95bffd-0aa4-4837-95d7-d5c98f60f621",
+      "id" : "hammer",
+      "latitude" : 34.0591217,
+      "longitude" : -118.4436674,
+      "name" : "Hammer Museum",
+      "neighborhood" : "Westwood",
+      "ticketingURL" : "https:\/\/cinema.ucla.edu"
+    },
+    {
+      "address" : "3910 Los Feliz Blvd, Los Angeles",
+      "bio" : "A Los Feliz nonprofit library and research center that hosts horror and cult film nights.",
+      "city" : "Los Angeles",
+      "feedPlaceID" : "https:\/\/zeitgeists.org\/place\/7e755874-5418-4200-b6d3-e430b5166748",
+      "id" : "prs",
+      "latitude" : 34.1131218,
+      "longitude" : -118.2776499,
+      "name" : "Philosophical Research Society",
+      "neighborhood" : "Los Feliz",
+      "ticketingURL" : "https:\/\/www.prs.org"
     }
   ]
 }
