@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-11-02T19:00:49.633Z",
+  "generatedAt" : "2026-11-03T16:45:43.297Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -7013,6 +7013,8 @@
       ]
     },
     {
+      "feedDirectorHint" : "Robert Rodriguez, Eli Roth, Quentin Tarantino",
+      "feedRuntimeHint" : 191,
       "rawTitle" : "Grindhouse",
       "start" : "2026-11-28T06:30:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4254?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
@@ -7311,6 +7313,8 @@
       ]
     },
     {
+      "feedDirectorHint" : "Robert Rodriguez, Eli Roth, Quentin Tarantino",
+      "feedRuntimeHint" : 191,
       "rawTitle" : "Grindhouse",
       "start" : "2026-11-29T06:30:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4255?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
