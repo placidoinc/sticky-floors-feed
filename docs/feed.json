@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-11-05T17:00:18.248Z",
+  "generatedAt" : "2026-11-06T16:32:00.085Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -442,8 +442,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Casper Kelly",
-      "feedRuntimeHint" : 96,
       "rawTitle" : "Buddy",
       "start" : "2026-11-06T03:30:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4287?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
