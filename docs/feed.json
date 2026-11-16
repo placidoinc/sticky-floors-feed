@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-11-15T15:59:59.058Z",
+  "generatedAt" : "2026-11-16T19:08:03.202Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -399,8 +399,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "William Wyler",
-      "feedRuntimeHint" : 100,
       "rawTitle" : "The Westerner",
       "start" : "2026-11-15T18:00:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4261?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
