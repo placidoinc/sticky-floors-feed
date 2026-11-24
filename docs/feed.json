@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-11-23T20:46:23.930Z",
+  "generatedAt" : "2026-11-24T20:03:27.817Z",
   "organizers" : [
     {
       "id" : "americancinematheque",
@@ -7,306 +7,6 @@
     }
   ],
   "screenings" : [
-    {
-      "feedDirectorHint" : "Jim Venturi",
-      "feedRuntimeHint" : 82,
-      "rawDescription" : "It was one of the great, untold love stories of the 20th century. For fifty years, Robert Venturi and Denise Scott Brown shared a life of profound tenderness, sharp wit, and creative joy. They also sparked a revolution in architecture, challenging the rigid modernism of the era with their embrace of complexity, symbolism, and the lessons of the everyday landscape.\n\nFilmed with astonishing intimacy by their son, Stardust invites you to see the world through their eyes. It’s a road-movie journey to the places that meant the most to them—including Rome, Venice, Paris, London, Philadelphia, and Las Vegas. Along the way, you’ll witness their witty, subversive shorthand, quiet battles against a male-dominated establishment (including the infamous Pritzker Prize snub), and the enduring partnership that redefined architectural collaboration.\n\nPraised by The New York Times and The Guardian, Stardust is a funny, moving, and deeply human portrait—a film to fall in love with.\n\nThe film makers: \n\nJim Venturi (director & producer) and Anita Naughton (writer & editor) are the filmmakers of Stardust. Jim’s debut documentary offers a rare and personal look at his parents’ lives, informed by over a decade of filming and dozens of interviews with architects, artists and collaborators from all over the world. In addition to directing and producing Stardust, he also leads ReThink Studio, a think-tank based in New York City.\n\nAnita is the writer and editor of Stardust and has been credited with creating an engaging and moving portrait of these two brilliant and subversive figures. Her book Tea & Sympathy is about her waitressing days in Greenwich Village. Naughton has just finished a rom-com set in Italy and is working on their next film, Denise Scott Brown: No Apologies.",
-      "rawTitle" : "Stardust: A Story of Love and Architecture",
-      "start" : "2026-11-23T02:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1459911",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Jim Venturi",
-          "rawName" : "Stardust: A Story of Love and Architecture",
-          "runtimeMinutes" : 82,
-          "year" : "2025"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "S. S. Rajamouli",
-      "feedRuntimeHint" : 186,
-      "rawDescription" : "**Screenwriters**: S.S. Rajamouli, Sai Madhav Burra\n\n**Producers**: D.V.V. Danayya\n\nCan&#8217;t stop! Won&#8217;t Stop! The biggest film of the decade has become a Vidiots tradition! *RRR* is an exhilarating, action-packed spectacular, starring two of India&#8217;s biggest superstars, N.T Rama Rao Jr., aka Jr NTR and Ram Charan. Set in the 1920s before their fight for India’s independence began, *RRR* imagines a fictional meeting between two real-life freedom fighters who helped lead India’s fight for independence from the British Raj.\n\nWith staggeringly choreographed action sequences, an all-timer of a musical number, and a powerful story, *RRR* is pure cinematic joy from start to finish. Audiences across the world have been won over, and trust us — If you haven&#8217;t seen this on a big screen, you haven&#8217;t really seen it, and if you have, you know why we sell out every single screening!\n\n**Accessibility Options**: Open Captions, Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "RRR",
-      "start" : "2026-11-23T02:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4848951",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "S. S. Rajamouli",
-          "rawName" : "RRR",
-          "runtimeMinutes" : 186,
-          "year" : "2022"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Sam Taylor and Fred Newmeyer",
-      "feedRuntimeHint" : 53,
-      "rawTitle" : "Hot Water",
-      "start" : "2026-11-23T02:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/november-22-hot-water",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Sam Taylor and Fred Newmeyer",
-          "rawName" : "Hot Water",
-          "runtimeMinutes" : 53,
-          "year" : "1924"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Roberto Rossellini",
-      "feedRuntimeHint" : 87,
-      "rawTitle" : "The Flowers of St. Francis (Francesco, giullare di Dio) in 35mm",
-      "start" : "2026-11-23T02:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/the-flowers-of-st-francis-019fceb9-32b4-32a5-5370-e7362e42607c",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Roberto Rossellini",
-          "rawName" : "The Flowers of St. Francis (Francesco, giullare di Dio) in 35mm",
-          "runtimeMinutes" : 87,
-          "year" : "1950"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "David Greaves & William Greaves",
-      "feedRuntimeHint" : 100,
-      "rawDescription" : "**Producers**: Liani Greaves,  Anne De Mare\n\nA decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraordinary group – many of whom had not seen each other in fifty years – reminisced, critiqued, argued, laughed and drank while wrestling with their place in a rapidly shifting cultural landscape. \n\nShot on 16mm film, newly restored and now directed by Greaves’ son David, this landmark film is at once a self-exploration and an inquiry into the heart of the critical mass of energy called the Harlem Renaissance. William Greaves’ intent was not only to document these artists and intellectuals as they spoke about their lives and work but also to plumb the meaning of the extraordinary creative period in which they lived to help us better understand how culture has been passed on from one generation to another and the role that the artist plays in keeping it alive.",
-      "rawTitle" : "Once Upon a Time in Harlem",
-      "start" : "2026-11-23T03:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4883325",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "David Greaves & William Greaves",
-          "rawName" : "Once Upon a Time in Harlem",
-          "runtimeMinutes" : 100,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Peter Berg",
-      "feedRuntimeHint" : 122,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nFour Navy SEALs on a covert mission to neutralize a high-level al-Qaeda operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Universal\n\nCOUNTRY: USA",
-      "rawTitle" : "LONE SURVIVOR",
-      "start" : "2026-11-23T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/lone-survivor-11-22-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Peter Berg",
-          "rawName" : "LONE SURVIVOR",
-          "runtimeMinutes" : 122,
-          "year" : "2013"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Paul Thomas Anderson",
-      "feedRuntimeHint" : 72,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nCameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at Carnegie Hall. This is the movie.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Janus Films\n\nCOUNTRY: USA",
-      "rawTitle" : "CAMERON WINTER AT CARNEGIE HALL",
-      "start" : "2026-11-23T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cameron-winter-at-carnegie-hall-11-22-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Paul Thomas Anderson",
-          "rawName" : "CAMERON WINTER AT CARNEGIE HALL",
-          "runtimeMinutes" : 72,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "James Gray",
-      "feedRuntimeHint" : 114,
-      "rawTitle" : "Paper Tiger 35mm",
-      "start" : "2026-11-23T03:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4382?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
-      "feedDirectorHint" : "Markus Zizenbacher",
-      "feedRuntimeHint" : 82,
-      "rawDescription" : "Director Markus Zizenbacher in person and a video introduction by Brontez Purnell!\n\nA sexually liberated black and queer song of Simi Valley to Silver Lake with a personal history of LA punk in between, *The Life of Sean DeLear* is a moving, exciting, touching, funny, sweet, and deeply affectionate tribute to the iconic Sean D. Featuring glimpses of his band Glue, his time living with Susan Tyrrell, hanging with John Sex, encountering-- and creating-- celebrity myths and mysteries, the film also includes interviews with Ann Magnuson, Redd Kross, Rick Owens, and more.\n\n\"This portrait-documentary tells the story of musician, performance artist and scenster Sean DeLear. From his early childhood in Simi Valley to the posthumous publication of his teenage diaries. It is a vibrant trip through the underground scene of LA, New York and Vienna using his video, foto, and diary archive... Sean documented his whole life from 8mm to Hi8 to digital, in fotos and writing since the late 70s. It is an inspiring collection of flashlights through the last decades that show a vivid testimonial of the music and art scene, the changing of media included. - Zizenbacher\n\n\"Like a young Diana Ross, Sean DeLear was all ferocity and vulnerability...\"—Rick Owens\n\nThank you to our presenting partners Semiotext(e) who will have copies of *I Could Not Believe It: The 1979 Teenage Diaries of Sean DeLear* available for sale.\n\n**dir. Markus Zizenbacher, 2024**\n*Austria, digital projection*\n82 min\n\n**SUNDAY, 11\/22 · 7:30P DOORS · 8:00P SCREENING**\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
-      "rawTitle" : "The Life of Sean DeLear (2024), pres. by Hollywood Entertainment",
-      "start" : "2026-11-23T04:00:00.000Z",
-      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/the-life-of-sean-delear-2024-pres-by-hollywood-entertainment",
-      "venueID" : "whammy",
-      "videoFormats" : [
-        "digital projection"
-      ],
-      "works" : [
-        {
-          "director" : "Markus Zizenbacher",
-          "rawName" : "The Life of Sean DeLear",
-          "runtimeMinutes" : 82,
-          "year" : "2024"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Jim Venturi",
-      "feedRuntimeHint" : 82,
-      "rawDescription" : "It was one of the great, untold love stories of the 20th century. For fifty years, Robert Venturi and Denise Scott Brown shared a life of profound tenderness, sharp wit, and creative joy. They also sparked a revolution in architecture, challenging the rigid modernism of the era with their embrace of complexity, symbolism, and the lessons of the everyday landscape.\n\nFilmed with astonishing intimacy by their son, Stardust invites you to see the world through their eyes. It’s a road-movie journey to the places that meant the most to them—including Rome, Venice, Paris, London, Philadelphia, and Las Vegas. Along the way, you’ll witness their witty, subversive shorthand, quiet battles against a male-dominated establishment (including the infamous Pritzker Prize snub), and the enduring partnership that redefined architectural collaboration.\n\nPraised by The New York Times and The Guardian, Stardust is a funny, moving, and deeply human portrait—a film to fall in love with.\n\nThe film makers: \n\nJim Venturi (director & producer) and Anita Naughton (writer & editor) are the filmmakers of Stardust. Jim’s debut documentary offers a rare and personal look at his parents’ lives, informed by over a decade of filming and dozens of interviews with architects, artists and collaborators from all over the world. In addition to directing and producing Stardust, he also leads ReThink Studio, a think-tank based in New York City.\n\nAnita is the writer and editor of Stardust and has been credited with creating an engaging and moving portrait of these two brilliant and subversive figures. Her book Tea & Sympathy is about her waitressing days in Greenwich Village. Naughton has just finished a rom-com set in Italy and is working on their next film, Denise Scott Brown: No Apologies.",
-      "rawTitle" : "Stardust: A Story of Love and Architecture",
-      "start" : "2026-11-23T04:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1478546",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Jim Venturi",
-          "rawName" : "Stardust: A Story of Love and Architecture",
-          "runtimeMinutes" : 82,
-          "year" : "2025"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Peter Medak",
-      "feedRuntimeHint" : 106,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nJohn Russell, a classical music composer, is consumed by grief after his wife and daughter are killed in a shocking accident. When John moves to a secluded Victorian mansion, he finds himself haunted by a paranormal entity that unleashes an even more disturbing secret. Based on actual events, THE CHANGELING is a winter-set haunting that influenced everything from THE RING to THE CONJURING. This 1980 gem made Martin Scorsese’s “11 Scariest Horror Movies Of All Time” list! 4K Restoration by Severin Films.\n\nFORMAT: DCP\n\nDISTRIBUTOR: AFGA\n\nCOUNTRY: Canada",
-      "rawTitle" : "THE CHANGELING",
-      "start" : "2026-11-23T06:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/the-changeling-11-22-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Peter Medak",
-          "rawName" : "THE CHANGELING",
-          "runtimeMinutes" : 106,
-          "year" : "1980"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "James Gray",
-      "feedRuntimeHint" : 114,
-      "rawTitle" : "Paper Tiger 35mm",
-      "start" : "2026-11-23T20:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4368?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
-      "feedDirectorHint" : "Paul Thomas Anderson",
-      "feedRuntimeHint" : 72,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nCameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at Carnegie Hall. This is the movie.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Janus Films\n\nCOUNTRY: USA",
-      "rawTitle" : "CAMERON WINTER AT CARNEGIE HALL",
-      "start" : "2026-11-23T21:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cameron-winter-at-carnegie-hall-11-23-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Paul Thomas Anderson",
-          "rawName" : "CAMERON WINTER AT CARNEGIE HALL",
-          "runtimeMinutes" : 72,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "James L. Brooks",
-      "feedRuntimeHint" : 133,
-      "rawDescription" : "Since the 1970s, the name James L. Brooks has been synonymous with intelligent television comedy—his shows are insightful about work and love and always plugged in to the zeitgeist. He is also a master storyteller of the big screen, and none of his films was more quintessentially Brooks than Broadcast News. This caustic look inside the Washington news media stars Holly Hunter, in her breakout role, as a feisty television producer torn between an ambitious yet dim anchorman (William Hurt) and her closest confidant, a cynical veteran reporter (Albert Brooks). Brooks’s witty, gently prophetic film is a captivating transmission from an era in which ideas on relationships and the media were rapidly changing.",
-      "rawTitle" : "Broadcast News",
-      "start" : "2026-11-23T21:00:00.000Z",
-      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2632\/seats",
-      "venueID" : "egyptian",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "James L. Brooks",
-          "rawName" : "Broadcast News",
-          "runtimeMinutes" : 133,
-          "year" : "1987"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Paul Thomas Anderson",
-      "feedRuntimeHint" : 72,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nCameron Winter, in December 2025, after a months-long sold-out tour with his band Geese, returned to New York to play a single show at Carnegie Hall. This is the movie.\n\nDirected and shot on 35mm and 16mm by Oscar-winning filmmaker Paul Thomas Anderson (ONE BATTLE AFTER ANOTHER), the crew includes filmmaker and actor Benny Safdie (THE SMASHING MACHINE) and music producer Ariel Rechtshaid (Grammy winner for albums with Vampire Weekend and Adele).\n\nGQ praised Cameron Winter’s show at Carnegie Hall as “staggeringly good,” and Nick Cave said he has a “a glorious, emotive voice with brilliant, blistering words, a racked and wondrous thing.” Winter’s solo album *Heavy Metal* was named one of the best of the year by Pitchfork, Rolling Stone, Paste and Mojo and Geese’s last record *Getting Killed* was named the best album of 2025 by The New Yorker, NME and Stereogum.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Janus Films and Criterion\n\nCOUNTRY: USA",
-      "rawTitle" : "CAMERON WINTER AT CARNEGIE HALL",
-      "start" : "2026-11-23T23:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cameron-winter-at-carnegie-hall-11-23-2026-3pm",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Paul Thomas Anderson",
-          "rawName" : "CAMERON WINTER AT CARNEGIE HALL",
-          "runtimeMinutes" : 72,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "James Gray",
-      "feedRuntimeHint" : 114,
-      "rawTitle" : "Paper Tiger 35mm",
-      "start" : "2026-11-23T23:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4375?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
     {
       "feedDirectorHint" : "Gus Van Sant",
       "feedRuntimeHint" : 106,
@@ -422,6 +122,25 @@
       ]
     },
     {
+      "feedDirectorHint" : "Roberto Rossellini",
+      "feedRuntimeHint" : 83,
+      "rawTitle" : "The Machine That Kills Bad People (La macchina ammazzacattivi) in 35mm",
+      "start" : "2026-11-24T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/the-machine-that-kills-bad-people-019fceb9-ef3b-238d-3db7-1f2c9aee90e9",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Roberto Rossellini",
+          "rawName" : "The Machine That Kills Bad People (La macchina ammazzacattivi) in 35mm",
+          "runtimeMinutes" : 83,
+          "year" : "1952"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Peter Bogdanovich",
       "feedRuntimeHint" : 102,
       "rawTitle" : "Paper Moon \/ Nickelodeon",
@@ -444,25 +163,6 @@
           "rawName" : "Nickelodeon",
           "runtimeMinutes" : 121,
           "year" : "1976"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Roberto Rossellini",
-      "feedRuntimeHint" : 83,
-      "rawTitle" : "The Machine That Kills Bad People (La macchina ammazzacattivi) in 35mm",
-      "start" : "2026-11-24T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/the-machine-that-kills-bad-people-019fceb9-ef3b-238d-3db7-1f2c9aee90e9",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Roberto Rossellini",
-          "rawName" : "The Machine That Kills Bad People (La macchina ammazzacattivi) in 35mm",
-          "runtimeMinutes" : 83,
-          "year" : "1952"
         }
       ]
     },
@@ -696,19 +396,6 @@
       ]
     },
     {
-      "rawDescription" : "A whimsical, heartwarming, colorfully kaleidoscopic Czech New Wave gem — presented with gratitude to our members and volunteers!",
-      "rawTitle" : "Vojtěch Jasný's THE CASSANDRA CAT (1963) — Exclusive Members Screening!",
-      "start" : "2026-11-25T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/vojtech-jasnys-the-cassandra-cat-1963-exclusive-members-screening-tickets-2004801412994",
-      "venueID" : "prs",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "James Gray",
       "feedRuntimeHint" : 114,
       "rawTitle" : "Paper Tiger 35mm",
@@ -723,23 +410,16 @@
       ]
     },
     {
-      "feedDirectorHint" : "Juzo Itami",
-      "feedRuntimeHint" : 115,
-      "rawDescription" : "FOOD IS LIFE in this mouthwatering “ramen western” about a misfit gang of ramen ronin who guide a noodle-shop owner in her quest for the perfect recipe. Comedy master Jûzô Itami whips kung fu, noir, tearjerkers, Chaplinesque silent antics, and, of course, the spaghetti western into a rich, full-bodied broth and serves it up hot as the wacky, surreal adventures of Tampopo (Itami’s wife Nobuko Miyamoto) are seasoned with the sexy exploits of a gastronome gangster (PERFECT DAYS star Kōji Yakusho). A tasty meditation on human hunger; savory and sweet; nourishing for the body and soul. Umami cinema.",
-      "rawTitle" : "Tampopo",
+      "rawDescription" : "A whimsical, heartwarming, colorfully kaleidoscopic Czech New Wave gem — presented with gratitude to our members and volunteers!",
+      "rawTitle" : "Vojtěch Jasný's THE CASSANDRA CAT (1963) — Exclusive Members Screening!",
       "start" : "2026-11-25T03:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1452505",
-      "venueID" : "braindead",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/vojtech-jasnys-the-cassandra-cat-1963-exclusive-members-screening-tickets-2004801412994",
+      "venueID" : "prs",
       "videoFormats" : [
-        "DCP"
+
       ],
       "works" : [
-        {
-          "director" : "Juzo Itami",
-          "rawName" : "Tampopo",
-          "runtimeMinutes" : 115,
-          "year" : "1985"
-        }
+
       ]
     },
     {
@@ -765,6 +445,26 @@
           "rawName" : "Nickelodeon",
           "runtimeMinutes" : 121,
           "year" : "1976"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Juzo Itami",
+      "feedRuntimeHint" : 115,
+      "rawDescription" : "FOOD IS LIFE in this mouthwatering “ramen western” about a misfit gang of ramen ronin who guide a noodle-shop owner in her quest for the perfect recipe. Comedy master Jûzô Itami whips kung fu, noir, tearjerkers, Chaplinesque silent antics, and, of course, the spaghetti western into a rich, full-bodied broth and serves it up hot as the wacky, surreal adventures of Tampopo (Itami’s wife Nobuko Miyamoto) are seasoned with the sexy exploits of a gastronome gangster (PERFECT DAYS star Kōji Yakusho). A tasty meditation on human hunger; savory and sweet; nourishing for the body and soul. Umami cinema.",
+      "rawTitle" : "Tampopo",
+      "start" : "2026-11-25T03:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1452505",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Juzo Itami",
+          "rawName" : "Tampopo",
+          "runtimeMinutes" : 115,
+          "year" : "1985"
         }
       ]
     },
@@ -1291,6 +991,20 @@
     {
       "feedDirectorHint" : "David Fincher",
       "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "start" : "2026-11-27T03:30:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4291?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
       "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
       "start" : "2026-11-27T03:30:00.000Z",
       "ticketURL" : "https:\/\/thenewbev.com\/program\/november-26-the-further-mis-adventures-of-cliff-booth",
@@ -1304,20 +1018,6 @@
           "rawName" : "The Further Mis-Adventures of Cliff Booth",
           "runtimeMinutes" : 141
         }
-      ]
-    },
-    {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
-      "start" : "2026-11-27T03:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4291?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -1542,24 +1242,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
-      "start" : "2026-11-28T03:00:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/november-27-the-further-mis-adventures-of-cliff-booth",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "David Fincher",
-          "rawName" : "The Further Mis-Adventures of Cliff Booth",
-          "runtimeMinutes" : 141
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Susan Seidelman",
       "feedRuntimeHint" : 104,
       "rawDescription" : "**Screenwriters**: Leora Barish\n\n**Producers**: Sarah Pillsbury, Midge Sanford\n\nSusan Seidelman&#8217;s stylish New York fairy tale features an effervescent young Madonna in her first film role. Rosanna Arquette stars as Roberta, a bored suburban housewife who is fascinated with a mystery woman, Susan, played by Madonna. When she spots an ad meant for Susan in the personals, Roberta goes to the rendezvous too, and in a series of events involving amnesia and mistaken identity, she steps out of her own sterile existence and into the danger and romance of Susan&#8217;s life. With incredible 80s style, two iconic leads, and laughs, intrigue, and tons of fun to boot, we&#8217;ve got your Black Friday covered!\n\n**Picks from the Video Store**\n\nVisit the Susan Seidelman section for more stylish feminist fun!\n\n*Smithereens, Making Mr. Right, She-Devil* (no really, it&#8217;s GREAT!)\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -1576,6 +1258,24 @@
           "rawName" : "Desperately Seeking Susan",
           "runtimeMinutes" : 104,
           "year" : "1985"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
+      "start" : "2026-11-28T03:00:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/november-27-the-further-mis-adventures-of-cliff-booth",
+      "venueID" : "newbev",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "David Fincher",
+          "rawName" : "The Further Mis-Adventures of Cliff Booth",
+          "runtimeMinutes" : 141
         }
       ]
     },
@@ -1597,19 +1297,6 @@
           "runtimeMinutes" : 106,
           "year" : "1995"
         }
-      ]
-    },
-    {
-      "rawDescription" : "A truly rare screening of one of the most hilariously absurd Taiwanese films ever: an endearingly whimsical, animal-costumed fairy tale!",
-      "rawTitle" : "THE FANTASY OF DEER WARRIOR (大俠梅花鹿, 1961) — co-presented by Kuo Hwa Theater",
-      "start" : "2026-11-28T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/the-fantasy-of-deer-warrior-1961-co-presented-by-kuo-hwa-theater-tickets-2004504961299",
-      "venueID" : "prs",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -1637,6 +1324,19 @@
           "runtimeMinutes" : 94,
           "year" : "1964"
         }
+      ]
+    },
+    {
+      "rawDescription" : "A truly rare screening of one of the most hilariously absurd Taiwanese films ever: an endearingly whimsical, animal-costumed fairy tale!",
+      "rawTitle" : "THE FANTASY OF DEER WARRIOR (大俠梅花鹿, 1961) — co-presented by Kuo Hwa Theater",
+      "start" : "2026-11-28T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/the-fantasy-of-deer-warrior-1961-co-presented-by-kuo-hwa-theater-tickets-2004504961299",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -1732,11 +1432,11 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "feedDirectorHint" : "Robert Rodriguez, Eli Roth, Quentin Tarantino",
+      "feedRuntimeHint" : 191,
+      "rawTitle" : "Grindhouse",
       "start" : "2026-11-28T06:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4330?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4254?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
       "venueID" : "vista",
       "videoFormats" : [
 
@@ -1746,11 +1446,11 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Rodriguez, Eli Roth, Quentin Tarantino",
-      "feedRuntimeHint" : 191,
-      "rawTitle" : "Grindhouse",
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
       "start" : "2026-11-28T06:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4254?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4330?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
       "venueID" : "vista",
       "videoFormats" : [
 
@@ -1870,26 +1570,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Jonathan Frakes",
-      "feedRuntimeHint" : 110,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nAfter an epic battle against the Borg, Captain Picard and the crew of the Enterprise follow the Borg Sphere back into the 21st century to prevent the Borg from contaminating Earth’s timeline and preventing Earth’s first contact. Picard and the crew must work together to battle the Borg Queen before she assimilates all of mankind and changes history forever. Resistance is futile.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Paramount\n\nCOUNTRY: USA",
-      "rawTitle" : "STAR TREK: FIRST CONTACT",
-      "start" : "2026-11-28T21:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/star-trek-first-contact-11-28-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Jonathan Frakes",
-          "rawName" : "STAR TREK: FIRST CONTACT",
-          "runtimeMinutes" : 110,
-          "year" : "1996"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Wes Anderson",
       "feedRuntimeHint" : 87,
       "rawDescription" : "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
@@ -1906,6 +1586,26 @@
           "rawName" : "Fantastic Mr. Fox",
           "runtimeMinutes" : 87,
           "year" : "2009"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Jonathan Frakes",
+      "feedRuntimeHint" : 110,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nAfter an epic battle against the Borg, Captain Picard and the crew of the Enterprise follow the Borg Sphere back into the 21st century to prevent the Borg from contaminating Earth’s timeline and preventing Earth’s first contact. Picard and the crew must work together to battle the Borg Queen before she assimilates all of mankind and changes history forever. Resistance is futile.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Paramount\n\nCOUNTRY: USA",
+      "rawTitle" : "STAR TREK: FIRST CONTACT",
+      "start" : "2026-11-28T21:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/star-trek-first-contact-11-28-2026",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Jonathan Frakes",
+          "rawName" : "STAR TREK: FIRST CONTACT",
+          "runtimeMinutes" : 110,
+          "year" : "1996"
         }
       ]
     },
@@ -2003,6 +1703,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Patrice Chéreau",
+      "feedRuntimeHint" : 110,
+      "rawDescription" : "Henri is a frustrated teenager living with his parents in a provincial French coastal town. When they drag him to the train station to bid adieu to his sister, Henri sneaks off to a secluded bathroom and interrupts a hustler named Jean satisfying the masochistic desires of an older male client. Henri falls desperately in love with the sexy criminal, but Jean evades Henri’s affections. Undeterred, Henri shadows Jean as he traverses the dark and dangerous underbelly of their sleepy village. But as he descends deeper and deeper into Jean’s world, there may not be an easy way out. Patrice Chéreau’s 1983 drama is a revelation: an amazingly accomplished work that genuinely channels the transgressive, unsanitized sensibility of Jean Genet, boasting a breakout lead performance by young Jean-Hugues Anglade and a script that took co-writers Chéreau and legendary gay French author and activist Hervé Guibert six years to perfect. The result is a rich, strange, and sumptuous film leading us to exhilaratingly mysterious and unfamiliar spaces both physical and psychological.\n\n**dir. Patrice Chéreau, 1983**\n*France, digital projection*\n110 min\n\n**SATURDAY, 11\/28 · 3:30P DOORS · 4:00P SCREENING**\n\n## Special \"matinee\" price: $8 pre-sale, or $10 at the door.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\nCourtesy of [Altered Innocence](https:\/\/www.alteredinnocence.net\/). Founded in 2015 & dedicated to releasing LGBTQ & Coming-of-Age films with an artistic edge.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
+      "rawTitle" : "The Wounded Man (1983)",
+      "start" : "2026-11-29T00:00:00.000Z",
+      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/the-wounded-man-1983",
+      "venueID" : "whammy",
+      "videoFormats" : [
+        "digital projection"
+      ],
+      "works" : [
+        {
+          "director" : "Patrice Chéreau",
+          "rawName" : "The Wounded Man",
+          "runtimeMinutes" : 110,
+          "year" : "1983"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Carl Franklin",
       "feedRuntimeHint" : 102,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nDenzel Washington stars as Ezekiel “Easy” Rawlins, a decorated war hero who returns home to the segregation of post-war America. Forced to accept an under-the-table job finding a missing socialite, Easy is caught between the white power elite and the vibrant black community of Central Avenue. And as soon as Easy and his trigger-happy friend Mouse (Don Cheadle) find the mysterious Daphne Monet (Jennifer Beals), trouble follows.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Sony\n\nCOUNTRY: USA",
@@ -2039,26 +1759,6 @@
           "rawName" : "SINGIN' IN THE RAIN",
           "runtimeMinutes" : 103,
           "year" : "1952"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Patrice Chéreau",
-      "feedRuntimeHint" : 110,
-      "rawDescription" : "Henri is a frustrated teenager living with his parents in a provincial French coastal town. When they drag him to the train station to bid adieu to his sister, Henri sneaks off to a secluded bathroom and interrupts a hustler named Jean satisfying the masochistic desires of an older male client. Henri falls desperately in love with the sexy criminal, but Jean evades Henri’s affections. Undeterred, Henri shadows Jean as he traverses the dark and dangerous underbelly of their sleepy village. But as he descends deeper and deeper into Jean’s world, there may not be an easy way out. Patrice Chéreau’s 1983 drama is a revelation: an amazingly accomplished work that genuinely channels the transgressive, unsanitized sensibility of Jean Genet, boasting a breakout lead performance by young Jean-Hugues Anglade and a script that took co-writers Chéreau and legendary gay French author and activist Hervé Guibert six years to perfect. The result is a rich, strange, and sumptuous film leading us to exhilaratingly mysterious and unfamiliar spaces both physical and psychological.\n\n**dir. Patrice Chéreau, 1983**\n*France, digital projection*\n110 min\n\n**SATURDAY, 11\/28 · 3:30P DOORS · 4:00P SCREENING**\n\n## Special \"matinee\" price: $8 pre-sale, or $10 at the door.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\nCourtesy of [Altered Innocence](https:\/\/www.alteredinnocence.net\/). Founded in 2015 & dedicated to releasing LGBTQ & Coming-of-Age films with an artistic edge.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
-      "rawTitle" : "The Wounded Man (1983)",
-      "start" : "2026-11-29T00:00:00.000Z",
-      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/the-wounded-man-1983",
-      "venueID" : "whammy",
-      "videoFormats" : [
-        "digital projection"
-      ],
-      "works" : [
-        {
-          "director" : "Patrice Chéreau",
-          "rawName" : "The Wounded Man",
-          "runtimeMinutes" : 110,
-          "year" : "1983"
         }
       ]
     },
@@ -2130,22 +1830,22 @@
       ]
     },
     {
-      "feedDirectorHint" : "Stanley Kubrick",
-      "feedRuntimeHint" : 136,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nBeing the adventures of a young man…who loved a bit of the old ultra-violence…went to jail, was brain washed…and came out cured…or was he? In a futuristic welfare state, Alex (Malcolm McDowell), a vicious young hoodlum, sleeps all day and spends his nights roaming the city with his droogs, assaulting innocent people in the streets and in their homes. Finally captured by the police, Alex undergoes rehabilitation in the form of aversion therapy as brutal and horrifying as any of his offenses.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: UK\/USA",
-      "rawTitle" : "A CLOCKWORK ORANGE",
+      "feedDirectorHint" : "Jan de Bont",
+      "feedRuntimeHint" : 113,
+      "rawDescription" : "**Screenwriters**: Michael Crichton, Anne-Marie Martin\n\n**Producers**: Kathleen Kennedy, Michael Crichton, Ian Bryce\n\nLet&#8217;s go storm-chasing, Vidiots! Helen Hunt and Bill Paxton are a bitterly divorced couple and a pair of determined climatologists out for the adventure of a lifetime in storm country as a record-breaking number of tornados threatens the lives and livelihoods of the Oklahomans in their wake. This unprecedented storm season is the perfect time to risk their lives and attempt to release &#8220;Dorothy,&#8221; a groundbreaking instrument for storm tracking, and maybe even the perfect setting to rekindle their relationship. More fun than an airborne cow, with the perfect delirious blend of thrills and schmaltz, this is one high-flying adventure that really gets off the ground — and stays there!\n\n**Picks from the Video Store**\n\nWe&#8217;ve got a whole disaster section to take home your favorite calamities on glorious physical media!\n\n*The Poseidon Adventure, Towering Inferno, Dante&#8217;s Peak*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Twister",
       "start" : "2026-11-29T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/a-clockwork-orange-11-28-2026",
-      "venueID" : "losfeliz",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4815432",
+      "venueID" : "vidiots",
       "videoFormats" : [
-        "35mm"
+        "Digital"
       ],
       "works" : [
         {
-          "director" : "Stanley Kubrick",
-          "rawName" : "A CLOCKWORK ORANGE",
-          "runtimeMinutes" : 136,
-          "year" : "1971"
+          "director" : "Jan de Bont",
+          "rawName" : "Twister",
+          "runtimeMinutes" : 113,
+          "year" : "1996"
         }
       ]
     },
@@ -2188,22 +1888,41 @@
       ]
     },
     {
-      "feedDirectorHint" : "Jan de Bont",
-      "feedRuntimeHint" : 113,
-      "rawDescription" : "**Screenwriters**: Michael Crichton, Anne-Marie Martin\n\n**Producers**: Kathleen Kennedy, Michael Crichton, Ian Bryce\n\nLet&#8217;s go storm-chasing, Vidiots! Helen Hunt and Bill Paxton are a bitterly divorced couple and a pair of determined climatologists out for the adventure of a lifetime in storm country as a record-breaking number of tornados threatens the lives and livelihoods of the Oklahomans in their wake. This unprecedented storm season is the perfect time to risk their lives and attempt to release &#8220;Dorothy,&#8221; a groundbreaking instrument for storm tracking, and maybe even the perfect setting to rekindle their relationship. More fun than an airborne cow, with the perfect delirious blend of thrills and schmaltz, this is one high-flying adventure that really gets off the ground — and stays there!\n\n**Picks from the Video Store**\n\nWe&#8217;ve got a whole disaster section to take home your favorite calamities on glorious physical media!\n\n*The Poseidon Adventure, Towering Inferno, Dante&#8217;s Peak*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Twister",
+      "feedDirectorHint" : "Stanley Kubrick",
+      "feedRuntimeHint" : 136,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nBeing the adventures of a young man…who loved a bit of the old ultra-violence…went to jail, was brain washed…and came out cured…or was he? In a futuristic welfare state, Alex (Malcolm McDowell), a vicious young hoodlum, sleeps all day and spends his nights roaming the city with his droogs, assaulting innocent people in the streets and in their homes. Finally captured by the police, Alex undergoes rehabilitation in the form of aversion therapy as brutal and horrifying as any of his offenses.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: UK\/USA",
+      "rawTitle" : "A CLOCKWORK ORANGE",
       "start" : "2026-11-29T03:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4815432",
-      "venueID" : "vidiots",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/a-clockwork-orange-11-28-2026",
+      "venueID" : "losfeliz",
       "videoFormats" : [
-        "Digital"
+        "35mm"
       ],
       "works" : [
         {
-          "director" : "Jan de Bont",
-          "rawName" : "Twister",
-          "runtimeMinutes" : 113,
-          "year" : "1996"
+          "director" : "Stanley Kubrick",
+          "rawName" : "A CLOCKWORK ORANGE",
+          "runtimeMinutes" : 136,
+          "year" : "1971"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Roberto Rossellini",
+      "feedRuntimeHint" : 118,
+      "rawTitle" : "Europe ’51",
+      "start" : "2026-11-29T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/europe-51-019fcebb-d046-d251-bb9d-d238cf827fbb",
+      "venueID" : "academy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Roberto Rossellini",
+          "rawName" : "Europe ’51",
+          "runtimeMinutes" : 118,
+          "year" : "1952"
         }
       ]
     },
@@ -2224,25 +1943,6 @@
           "rawName" : "STOP MAKING SENSE",
           "runtimeMinutes" : 88,
           "year" : "1984"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Roberto Rossellini",
-      "feedRuntimeHint" : 118,
-      "rawTitle" : "Europe ’51",
-      "start" : "2026-11-29T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.academymuseum.org\/en\/programs\/detail\/europe-51-019fcebb-d046-d251-bb9d-d238cf827fbb",
-      "venueID" : "academy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Roberto Rossellini",
-          "rawName" : "Europe ’51",
-          "runtimeMinutes" : 118,
-          "year" : "1952"
         }
       ]
     },
@@ -2319,11 +2019,11 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Rodriguez, Eli Roth, Quentin Tarantino",
-      "feedRuntimeHint" : 191,
-      "rawTitle" : "Grindhouse",
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
       "start" : "2026-11-29T06:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4255?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4331?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
       "venueID" : "vista",
       "videoFormats" : [
 
@@ -2333,11 +2033,11 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "feedDirectorHint" : "Robert Rodriguez, Eli Roth, Quentin Tarantino",
+      "feedRuntimeHint" : 191,
+      "rawTitle" : "Grindhouse",
       "start" : "2026-11-29T06:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4331?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4255?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
       "venueID" : "vista",
       "videoFormats" : [
 
@@ -2512,26 +2212,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Altman",
-      "feedRuntimeHint" : 112,
-      "rawDescription" : "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
-      "rawTitle" : "The Long Goodbye",
-      "start" : "2026-11-29T22:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1453405",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Robert Altman",
-          "rawName" : "The Long Goodbye",
-          "runtimeMinutes" : 112,
-          "year" : "1973"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "George Seaton",
       "feedRuntimeHint" : 96,
       "rawDescription" : "1947 • Introduction by Author\/Historian Jeremy Arnold • One of the most beloved holiday films of all time, this enchanting story follows a department store Santa Claus who just might be the real thing. • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
@@ -2548,6 +2228,26 @@
           "rawName" : "Miracle on 34th Street",
           "runtimeMinutes" : 96,
           "year" : "1947"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Robert Altman",
+      "feedRuntimeHint" : 112,
+      "rawDescription" : "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+      "rawTitle" : "The Long Goodbye",
+      "start" : "2026-11-29T22:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1453405",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Altman",
+          "rawName" : "The Long Goodbye",
+          "runtimeMinutes" : 112,
+          "year" : "1973"
         }
       ]
     },
@@ -2572,26 +2272,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Benjamin Christensen",
-      "feedRuntimeHint" : 78,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nGrave robbing, torture, possessed nuns and a satanic Sabbath: Benjamin Christensen’s legendary HÄXAN uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-twentieth-century psychiatric patients. But the film itself is far from serious—instead, it’s a witches’ brew of the scary, gross and darkly humorous.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Janus Films\n\nCOUNTRY: Denmark",
-      "rawTitle" : "HÄXAN",
-      "start" : "2026-11-30T00:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/haxan-11-29-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Benjamin Christensen",
-          "rawName" : "HÄXAN",
-          "runtimeMinutes" : 78,
-          "year" : "1922"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "John Huston",
       "feedRuntimeHint" : 113,
       "rawDescription" : "**Screenwriters**: Ben Maddow, John Huston from the novel by W.R. Burnett\n\n**Producer**: Arthur Hornblow Jr.\n\nJohn Huston practically invented the heist film with this expertly constructed crime classic with Marilyn Monroe in one of her first roles. A taut and satisfying thriller with equal measure paid to the characters as well as the crime, Huston paved the way for a new kind of crime cinema that&#8217;s still as entertaining and influential as ever. Recently released from prison, Dix Handley concocts a plan to steal $1 million in jewels. Dix gathers a team of small-time crooks, including a safecracker and a lawyer, and the heist is a success until a stray bullet kills one of the men. As they scramble to pick up the pieces after the theft, the men let their greed get the best of them while entangling themselves in webs of deceit, treachery and murder. Nominated for four Academy Awards, this classic crime caper is ready to steal you away, don&#8217;t miss it on our big screen on glorious celluloid!\n\n**Picks from the Video Store**\n\nWant more vintage heist films? You can take home dozens tonight from our vast collection!\n\n*Rififi, Gambit, The Ladykillers*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -2608,6 +2288,26 @@
           "rawName" : "The Asphalt Jungle on 35mm",
           "runtimeMinutes" : 113,
           "year" : "1950"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Benjamin Christensen",
+      "feedRuntimeHint" : 78,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nGrave robbing, torture, possessed nuns and a satanic Sabbath: Benjamin Christensen’s legendary HÄXAN uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-twentieth-century psychiatric patients. But the film itself is far from serious—instead, it’s a witches’ brew of the scary, gross and darkly humorous.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Janus Films\n\nCOUNTRY: Denmark",
+      "rawTitle" : "HÄXAN",
+      "start" : "2026-11-30T00:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/haxan-11-29-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Benjamin Christensen",
+          "rawName" : "HÄXAN",
+          "runtimeMinutes" : 78,
+          "year" : "1922"
         }
       ]
     },
@@ -2651,24 +2351,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
-      "start" : "2026-11-30T02:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/november-29-the-further-mis-adventures-of-cliff-booth",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "David Fincher",
-          "rawName" : "The Further Mis-Adventures of Cliff Booth",
-          "runtimeMinutes" : 141
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Lance Oppenheim & Nathan Fielder",
       "feedRuntimeHint" : 174,
       "rawDescription" : "**Producers**: Nathan Fielder,  Lance Oppenheim,  Tatiana Bears,  Maggie Ambrose,  Jack Davis\n\nJoin us in the microcinema for the documentary event of the year &#8211; Nathan Fielder and Lance Oppenheim&#8217;s mind-blowing portrait of disgraced tech CEO Elizabeth Holmes, and a post-modern look at what money and the pursuit of entertainment can do to the truth. Thirty-four days before she&#8217;s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss. A riveting and hilarious watch &#8211; it&#8217;s a film that will leave you thinking about it for weeks. Whether it&#8217;s your first watch, or you just need to see it again to wrap your brain around it, we&#8217;ve got you covered!",
@@ -2691,6 +2373,24 @@
     {
       "feedDirectorHint" : "David Fincher",
       "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
+      "start" : "2026-11-30T02:30:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/november-29-the-further-mis-adventures-of-cliff-booth",
+      "venueID" : "newbev",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "David Fincher",
+          "rawName" : "The Further Mis-Adventures of Cliff Booth",
+          "runtimeMinutes" : 141
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
       "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
       "start" : "2026-11-30T02:45:00.000Z",
       "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4298?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
@@ -2700,6 +2400,21 @@
       ],
       "works" : [
 
+      ]
+    },
+    {
+      "rawDescription" : "Hollywood Entertainment responsibly presents The Guardian's first-ever live show! With guest Gillian Jacobs selecting the film and recording a podcast episode.\n\nIn each episode, high schoolers Maxwell Weidenfeld and James Pudi have an adult \"guardian\" take them to an R-Rated movie, followed by an interview. Past guests have included Diablo Cody, Donald Glover, Eric Rahill, Paul Scheer, Ivy Wolk, and Pauline Chalamet. Join us for the first live episode of the podcast. The evening will feature a screening followed by special guest Gillian Jacobs in person!\n\nThe film will be Rated R. Film details to be announced.\n\n\"An R-rated motion picture, in the view of the Rating Board, contains some adult material... so that parents are counseled to take this rating very seriously. Children under 17 are not allowed to attend R-rated motion pictures unaccompanied by a parent or adult guardian... Generally, it is not appropriate for parents to bring their young children with them to R-rated motion pictures.\" - the Motion Picture Association\n\n**SUNDAY, 11\/29 · note earlier than usual start time · 6:30P DOORS · 7:00P SCREENING**\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
+      "rawTitle" : "The Guardian Podcast - Live! with guest Gillian Jacobs, pres. by Hollywood Entertainment",
+      "start" : "2026-11-30T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/the-guardian-podcast---live-pres-by-hollywood-entertainment",
+      "venueID" : "whammy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "rawName" : "The Guardian Podcast - Live! with guest Gillian Jacobs"
+        }
       ]
     },
     {
@@ -2739,21 +2454,6 @@
           "rawName" : "The Twilight Saga: New Moon",
           "runtimeMinutes" : 131,
           "year" : "2009"
-        }
-      ]
-    },
-    {
-      "rawDescription" : "Hollywood Entertainment responsibly presents The Guardian's first-ever live show! With guest Gillian Jacobs selecting the film and recording a podcast episode.\n\nIn each episode, high schoolers Maxwell Weidenfeld and James Pudi have an adult \"guardian\" take them to an R-Rated movie, followed by an interview. Past guests have included Diablo Cody, Donald Glover, Eric Rahill, Paul Scheer, Ivy Wolk, and Pauline Chalamet. Join us for the first live episode of the podcast. The evening will feature a screening followed by special guest Gillian Jacobs in person!\n\nThe film will be Rated R. Film details to be announced.\n\n\"An R-rated motion picture, in the view of the Rating Board, contains some adult material... so that parents are counseled to take this rating very seriously. Children under 17 are not allowed to attend R-rated motion pictures unaccompanied by a parent or adult guardian... Generally, it is not appropriate for parents to bring their young children with them to R-rated motion pictures.\" - the Motion Picture Association\n\n**SUNDAY, 11\/29 · note earlier than usual start time · 6:30P DOORS · 7:00P SCREENING**\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
-      "rawTitle" : "The Guardian Podcast - Live! with guest Gillian Jacobs, pres. by Hollywood Entertainment",
-      "start" : "2026-11-30T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/the-guardian-podcast---live-pres-by-hollywood-entertainment",
-      "venueID" : "whammy",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "rawName" : "The Guardian Podcast - Live! with guest Gillian Jacobs"
         }
       ]
     },
@@ -2846,26 +2546,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Altman",
-      "feedRuntimeHint" : 124,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nIn a dusty, underpopulated California resort town, a naive southern waif, Pinky Rose (Sissy Spacek), idolizes and befriends her fellow nurse, the would-be sophisticate and “thoroughly modern” Millie Lammoreaux (Shelley Duvall). When Millie takes Pinky in as her roommate, Pinky’s hero worship evolves into something far stranger and more sinister than either could have anticipated. Featuring brilliant performances from Spacek and Duvall, this dreamlike masterpiece from Robert Altman careens from the humorous to the chilling to the surreal, resulting in one of the most unusual and compelling films of the 1970s.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: USA",
-      "rawTitle" : "Cinematic Void Presents 3 WOMEN",
-      "start" : "2026-12-01T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cinematic-void-presents-3-women-11-30-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Robert Altman",
-          "rawName" : "Cinematic Void Presents 3 WOMEN",
-          "runtimeMinutes" : 124,
-          "year" : "1977"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Sidney Lumet",
       "feedRuntimeHint" : 121,
       "rawDescription" : "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
@@ -2886,6 +2566,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Robert Altman",
+      "feedRuntimeHint" : 124,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nIn a dusty, underpopulated California resort town, a naive southern waif, Pinky Rose (Sissy Spacek), idolizes and befriends her fellow nurse, the would-be sophisticate and “thoroughly modern” Millie Lammoreaux (Shelley Duvall). When Millie takes Pinky in as her roommate, Pinky’s hero worship evolves into something far stranger and more sinister than either could have anticipated. Featuring brilliant performances from Spacek and Duvall, this dreamlike masterpiece from Robert Altman careens from the humorous to the chilling to the surreal, resulting in one of the most unusual and compelling films of the 1970s.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Disney\n\nCOUNTRY: USA",
+      "rawTitle" : "Cinematic Void Presents 3 WOMEN",
+      "start" : "2026-12-01T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cinematic-void-presents-3-women-11-30-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Altman",
+          "rawName" : "Cinematic Void Presents 3 WOMEN",
+          "runtimeMinutes" : 124,
+          "year" : "1977"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "David Fincher",
       "feedRuntimeHint" : 141,
       "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
@@ -2900,60 +2600,6 @@
           "director" : "David Fincher",
           "rawName" : "The Further Mis-Adventures of Cliff Booth",
           "runtimeMinutes" : 141
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
-      "start" : "2026-12-01T03:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4304?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
-      "feedDirectorHint" : "Richard Kwietniowski",
-      "feedRuntimeHint" : 104,
-      "rawDescription" : "Hollywood Entertainment invites you to experience a rare 35mm screening of Richard Kwietniowski’s Owning Mahowny on “Brian Molony Day” &#8211; the unofficial holiday whose namesake inspired the film’s events.\n\nIn one of his most unforgettable yet under-seen performances, Philip Seymour Hoffman immerses you in the double life of Dan Mahowny, a bank employee stealing money from wealthy client accounts to gamble with in Atlantic City and Las Vegas. Casino manager Victor Foss (John Hurt) notices his high rolling and goes out of his way to enable Mahowny’s addiction, flying him and his stolen cash directly to the casinos. Dan’s compulsions cause turmoil with his girlfriend (played by Minnie Driver) and bookie (Maury Chaykin).\n\nThe real story: Brian Molony; a CIBC manager who gambled over $10 million (over $34 million today) in stolen funds via mostly sports betting and at Caesars Palace Atlantic City. Because Caesars violated reporting regulations, the state of New Jersey ordered the casino be shut down for a full day. Casino employees deemed that day (November 30, 1985) “Brian Molony Day.”\n\nWhen Gary Stephen Ross, the author of *Stung: The Incredible Obsession of Brian Molony*, was asked if Hoffman’s portrayal was anything like the real Brian Molony, Ross said, “Philip somehow managed to assimilate the psychic essence of Molony – a yawning emptiness that nothing except gambling was able to fill.”\n\n“Mr. Mahowny would like barbecue ribs- no sauce, and a coke.”",
-      "rawTitle" : "Owning Mahowny",
-      "start" : "2026-12-01T03:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1459926",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Richard Kwietniowski",
-          "rawName" : "Owning Mahowny",
-          "runtimeMinutes" : 104,
-          "year" : "2003"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "David Lynch",
-      "feedRuntimeHint" : 137,
-      "rawDescription" : "**Screenwriter**: David Lynch\n\n**Producer**: Raffaella De Laurentis\n\nVidiots remembers everyone&#8217;s interstellar Captain, the great **Sir** **Patrick Stewart** with a special screening of David Lynch&#8217;s epic space opera *Dune*!\n\nSpice up your future with David Lynch&#8217;s infamous adaptation of Frank Herbert&#8217;s Science Fiction epic. In the year 10,191, the most precious substance in the universe is the spice Melange. The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune. Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom. With Lynchian surreality and a cast of Lynchian regulars like Jack Nance, Everett McGill, and an apple-cheeked Kyle MacLachlan, as well as Patrick Stewart and Sting, this is one futuristic adventure that only Lynch could have directed &#8211; even though he disavowed the film for years!\n\n**Picks from the Video Store**\n\nTake home more Sir Patrick Stewart classics and deep cuts on glorious physical media!\n\n*The Devil&#8217;s Disciple, A Christmas Carol, Lady Jane*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Dune",
-      "start" : "2026-12-01T03:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4933638",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "David Lynch",
-          "rawName" : "Dune",
-          "runtimeMinutes" : 137,
-          "year" : "1984"
         }
       ]
     },
@@ -2978,6 +2624,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Richard Kwietniowski",
+      "feedRuntimeHint" : 104,
+      "rawDescription" : "Hollywood Entertainment invites you to experience a rare 35mm screening of Richard Kwietniowski’s Owning Mahowny on “Brian Molony Day” &#8211; the unofficial holiday whose namesake inspired the film’s events.\n\nIn one of his most unforgettable yet under-seen performances, Philip Seymour Hoffman immerses you in the double life of Dan Mahowny, a bank employee stealing money from wealthy client accounts to gamble with in Atlantic City and Las Vegas. Casino manager Victor Foss (John Hurt) notices his high rolling and goes out of his way to enable Mahowny’s addiction, flying him and his stolen cash directly to the casinos. Dan’s compulsions cause turmoil with his girlfriend (played by Minnie Driver) and bookie (Maury Chaykin).\n\nThe real story: Brian Molony; a CIBC manager who gambled over $10 million (over $34 million today) in stolen funds via mostly sports betting and at Caesars Palace Atlantic City. Because Caesars violated reporting regulations, the state of New Jersey ordered the casino be shut down for a full day. Casino employees deemed that day (November 30, 1985) “Brian Molony Day.”\n\nWhen Gary Stephen Ross, the author of *Stung: The Incredible Obsession of Brian Molony*, was asked if Hoffman’s portrayal was anything like the real Brian Molony, Ross said, “Philip somehow managed to assimilate the psychic essence of Molony – a yawning emptiness that nothing except gambling was able to fill.”\n\n“Mr. Mahowny would like barbecue ribs- no sauce, and a coke.”",
+      "rawTitle" : "Owning Mahowny",
+      "start" : "2026-12-01T03:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1459926",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Richard Kwietniowski",
+          "rawName" : "Owning Mahowny",
+          "runtimeMinutes" : 104,
+          "year" : "2003"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Roberto Rossellini",
       "feedRuntimeHint" : 80,
       "rawTitle" : "Joan of Arc at the Stake in 35mm",
@@ -2994,6 +2660,40 @@
           "runtimeMinutes" : 80,
           "year" : "1954"
         }
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Lynch",
+      "feedRuntimeHint" : 137,
+      "rawDescription" : "**Screenwriter**: David Lynch\n\n**Producer**: Raffaella De Laurentis\n\nVidiots remembers everyone&#8217;s interstellar Captain, the great **Sir** **Patrick Stewart** with a special screening of David Lynch&#8217;s epic space opera *Dune*!\n\nSpice up your future with David Lynch&#8217;s infamous adaptation of Frank Herbert&#8217;s Science Fiction epic. In the year 10,191, the most precious substance in the universe is the spice Melange. The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune. Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom. With Lynchian surreality and a cast of Lynchian regulars like Jack Nance, Everett McGill, and an apple-cheeked Kyle MacLachlan, as well as Patrick Stewart and Sting, this is one futuristic adventure that only Lynch could have directed &#8211; even though he disavowed the film for years!\n\n**Picks from the Video Store**\n\nTake home more Sir Patrick Stewart classics and deep cuts on glorious physical media!\n\n*The Devil&#8217;s Disciple, A Christmas Carol, Lady Jane*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Dune",
+      "start" : "2026-12-01T03:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4933638",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "David Lynch",
+          "rawName" : "Dune",
+          "runtimeMinutes" : 137,
+          "year" : "1984"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "start" : "2026-12-01T03:30:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4304?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -3125,17 +2825,23 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "feedDirectorHint" : "Věra Chytilová",
+      "feedRuntimeHint" : 76,
+      "rawDescription" : "**Screenwriters**: Ester Krumbachová, Věra Chytilová\n\n**Producer**: Rudolf Hájek\n\nAn audacious and gleeful shock to the system, Věra Chytilová&#8217;s Czech New Wave masterpiece is punk as f*&k, but also as sweet, goofy, and girly as the name would imply. A truly absurd and kaleidoscopic endeavor, this film is a raw and riotous middle finger to authoritarianism, the patriarchy, and especially to reason.  Two young women embrace spitting in the face of convention and fall down a rabbit hole of gluttony, destruction, rebellion, and an unabashed pursuit of pleasure. With a visual style as anarchic as the subjects, this visual smorgasbord of varying film stocks, sporadic animation, and hallucinatory editing is essential big screen viewing.\n\n**Picks from the Video Store**\n\nLooking for more obscure Czech cinema? Czech out our video collection with these gems and more!\n\n*Valerie and her Week of Wonders, Labyrinth of Darkness: The Films of Jiri Barta, Marketa Lazarova, *our Jan Švankmajer section\n\n**Accessibility Options**: Closed Captions, Descriptive Audio, Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Daisies",
       "start" : "2026-12-02T03:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4306?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4914018",
+      "venueID" : "vidiots",
       "videoFormats" : [
-
+        "Digital"
       ],
       "works" : [
-
+        {
+          "director" : "Věra Chytilová",
+          "rawName" : "Daisies",
+          "runtimeMinutes" : 76,
+          "year" : "1966"
+        }
       ]
     },
     {
@@ -3153,26 +2859,6 @@
           "director" : "David Fincher",
           "rawName" : "The Further Mis-Adventures of Cliff Booth",
           "runtimeMinutes" : 141
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Věra Chytilová",
-      "feedRuntimeHint" : 76,
-      "rawDescription" : "**Screenwriters**: Ester Krumbachová, Věra Chytilová\n\n**Producer**: Rudolf Hájek\n\nAn audacious and gleeful shock to the system, Věra Chytilová&#8217;s Czech New Wave masterpiece is punk as f*&k, but also as sweet, goofy, and girly as the name would imply. A truly absurd and kaleidoscopic endeavor, this film is a raw and riotous middle finger to authoritarianism, the patriarchy, and especially to reason.  Two young women embrace spitting in the face of convention and fall down a rabbit hole of gluttony, destruction, rebellion, and an unabashed pursuit of pleasure. With a visual style as anarchic as the subjects, this visual smorgasbord of varying film stocks, sporadic animation, and hallucinatory editing is essential big screen viewing.\n\n**Picks from the Video Store**\n\nLooking for more obscure Czech cinema? Czech out our video collection with these gems and more!\n\n*Valerie and her Week of Wonders, Labyrinth of Darkness: The Films of Jiri Barta, Marketa Lazarova, *our Jan Švankmajer section\n\n**Accessibility Options**: Closed Captions, Descriptive Audio, Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Daisies",
-      "start" : "2026-12-02T03:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4914018",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Věra Chytilová",
-          "rawName" : "Daisies",
-          "runtimeMinutes" : 76,
-          "year" : "1966"
         }
       ]
     },
@@ -3212,6 +2898,20 @@
           "runtimeMinutes" : 110,
           "year" : "2026"
         }
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "start" : "2026-12-02T03:30:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4306?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -3415,26 +3115,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Cristian Mungiu",
-      "feedRuntimeHint" : 113,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Romanian with English subtitles.*\n\nRomanian filmmaker Cristian Mungiu shot to international prominence with this rigorously realistic Palme d’Or–winning second feature. In 1987, during the dictatorship of Nicolae Ceaușescu, college roommates Otilia (Anamaria Marinca) and Găbița (Laura Vasiliu) seek an illegal abortion for Găbița. In unflinching but empathetic detail, the film recounts the events of twenty-four perilous hours in their lives, culminating in their encounter with a manipulative and menacing abortionist (Vlad Ivanov). With powerful performances that accentuate the characters’ flawed humanity, 4 MONTHS, 3 WEEKS AND 2 DAYS is a gutting account of the impossible choices women face when taking control of their bodies means breaking the law.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Janus Film\n\nCOUNTRY: Romania",
-      "rawTitle" : "4 MONTHS, 3 WEEKS AND 2 DAYS",
-      "start" : "2026-12-04T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/4-months-3-weeks-and-2-days-12-03-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Cristian Mungiu",
-          "rawName" : "4 MONTHS, 3 WEEKS AND 2 DAYS",
-          "runtimeMinutes" : 113,
-          "year" : "2007"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Liz Sargent",
       "feedRuntimeHint" : 91,
       "rawDescription" : "**Screenwriter**: Liz Sargent\n\n**Producer**: Apoorva Guru Charan,  Minos Papas\n\nWith Writer\/Director **Liz Sargent** in person at the December 3rd screening!\n\nAnna (Anna Sargent making her acting debut), a middle-aged Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another’s needs. Alongside her sister Emily (Ali Ahn) and her father (Victor Slezak), they must confront challenging questions about the future, but she remains determined to build a life where all of them can thrive.\n\nLiz Sargent’s intimate debut drama examines the shifting demands placed on a unique — and uniquely challenged — family in a Florida suburb. Expanded from Sargent’s acclaimed short (2023 Sundance Film Festival), *Take Me Home* exposes the indignities of the American health care system and the structural challenges faced by disabled people. The film also gently and imaginatively traces a path for Anna’s independence and connection to a community of chosen family. By turns quietly devastating and bracingly optimistic, *Take Me Home* confronts us with an impossible situation, while holding out hope for Anna’s future.",
@@ -3455,6 +3135,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Cristian Mungiu",
+      "feedRuntimeHint" : 113,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Romanian with English subtitles.*\n\nRomanian filmmaker Cristian Mungiu shot to international prominence with this rigorously realistic Palme d’Or–winning second feature. In 1987, during the dictatorship of Nicolae Ceaușescu, college roommates Otilia (Anamaria Marinca) and Găbița (Laura Vasiliu) seek an illegal abortion for Găbița. In unflinching but empathetic detail, the film recounts the events of twenty-four perilous hours in their lives, culminating in their encounter with a manipulative and menacing abortionist (Vlad Ivanov). With powerful performances that accentuate the characters’ flawed humanity, 4 MONTHS, 3 WEEKS AND 2 DAYS is a gutting account of the impossible choices women face when taking control of their bodies means breaking the law.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Janus Film\n\nCOUNTRY: Romania",
+      "rawTitle" : "4 MONTHS, 3 WEEKS AND 2 DAYS",
+      "start" : "2026-12-04T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/4-months-3-weeks-and-2-days-12-03-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Cristian Mungiu",
+          "rawName" : "4 MONTHS, 3 WEEKS AND 2 DAYS",
+          "runtimeMinutes" : 113,
+          "year" : "2007"
+        }
+      ]
+    },
+    {
       "feedRuntimeHint" : 116,
       "rawDescription" : "The film is an explosive cinematic rollercoaster about a group of visionaries and misfits who had an idea for a new kind of news — one that would give the people what they want and would change the face of the world we live in today.",
       "rawTitle" : "Ink",
@@ -3470,37 +3170,6 @@
           "runtimeMinutes" : 116,
           "year" : "2026"
         }
-      ]
-    },
-    {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
-      "start" : "2026-12-04T03:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/december-3-the-further-mis-adventures-of-cliff-booth",
-      "venueID" : "newbev",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "David Fincher",
-          "rawName" : "The Further Mis-Adventures of Cliff Booth",
-          "runtimeMinutes" : 141
-        }
-      ]
-    },
-    {
-      "rawDescription" : "Known as “Los Javis,” Javier Calvo and Javier Ambrossi have written, produced, and directed together some of the most sarcastic and provocative works in recent Spanish comedy, including *Holy Camp* (2017) and the hilarious TV series *Paquita Salas* (2016–2019). With *La bola negra*, they ambitiously deliver a cinematic epic inspired by Federico García Lorca’s homonymous unfinished work and Alberto Conejero’s play on the tragic destiny of Republican resistance fighter, actor, and footballer Rafael Rodríguez Rapún, a former lover of Lorca. With special appearances by Penélope Cruz and Glenn Close, and starring singer-songwriter Guitarricadelafuente, *La bola negra* audaciously looks at the past and present of Spanish history, the traumatic period of the Spanish Civil War, and its consequences for the sentimental lives of families and secret lovers shaped by tales of resistance and oppression.\n\n2026. Spain\/France. Directed Javier Calvo, Javier Ambrossi. Screenplay by Calvo, Ambrossi, Alberto Conejero. With Guitarricadelafuente, Miguel Bernardeau, Carlos González. In Spanish; English subtitles. 160 min. \n\n**$10 Hammer members | $20 general admission **\nCurrent members, check your email for your link to buy tickets, or contact [membership@hammer.ucla.edu](mailto:membership@hammer.ucla.edu).\n\n**Enhance your movie experience as a member!** Hammer Members receive priority seating and half-off Contenders tickets—plus discounts at the museum store and Lulu restaurant. [Become a member today.](\/support\/membership)\n\n[Buy tickets](https:\/\/www.eventbrite.com\/e\/2003647783457?aff=oddtdtcreator)\n\n*MoMA Contenders 2026* is organized by The Museum of Modern Art, New York. This film program is organized by Rajendra Roy, the Celeste Bartos Chief Curator of Film, Sean Egan, Senior Producer, Film Exhibitions and Projects, and Olivia Priedite, Film Program Coordinator, The Museum of Modern Art, New York.\n \nThe Hammer Museum's presentation is made possible by The Billy and Audrey L. Wilder Foundation.",
-      "rawTitle" : "La bola negra",
-      "start" : "2026-12-04T03:30:00.000Z",
-      "ticketURL" : "https:\/\/hammer.ucla.edu\/programs-events\/2026\/la-bola-negra",
-      "venueID" : "hammer",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -3538,18 +3207,34 @@
       ]
     },
     {
-      "rawDescription" : "The renowned and endlessly resourceful Nathan Truesdell (Academy Award, Independent Spirit Award, and PGA nominated producer of *Ascension*; camera department head of *How To With John Wilson*) joins Hollywood Entertainment for a retrospective of his work, including the LA premiere of his new film A Derailment (executive produced by John Wilson and scored by Longmont Potion Castle). Plus unlisted surprises and rarities!\n\nTruesdell's masterful assemblies of news footage and testimony are incisive, funny, and frightening, considering a global tapestry of fanfare and tragic spectacle. These portraits include looks at dangerous waterslides, balloon launches gone wrong, the East Palestine toxic waste spill, and more.\n\n**WHEN THE LAPD BLOWS UP YOUR NEIGHBORHOOD**\nProduced by Kat Nguyen, Will Lennon\n2022, 19 min\n*Tensions rise on a busy street as news organizations and local residents witness an extremely volatile situation turn into a literal powder keg.*\n\n**BALLOONFEST**\nProduced by Jamie Gonçalves, Charlotte Cook\n2017, 6 min\n*Cleveland attempts to overcome its nickname, 'The Mistake by the Lake' by launching a bunch of balloons.*\n\n**MYSTERY SEEDS**\nProduced by Kat Nguyen, Sue Ding, Maggie Li\n2025, 9 min\n*After thousands of mysterious packages sow the seeds of a xenophobic conspiracy, we track its growth through local news, internet detectives, and your online shopping history.*\n\n**IT'S COMING!**\nDirected by Nathan Truesdell and Jessica Kingdon\nProduced by Nathan Truesdell, Willy Berliner, Jessica Kingdon\n2020, 9 min\n*The future is here! Well, almost.*\n**THE WATER SLIDE**\nProduced by Charlotte Cook, Jamie Gonçalves, Jessica Kingdon\n2018, 9 min\n*Tragedy strikes the World's Tallest Water Slide.*\n**A DERAILMENT**\nProduced by Kat Nguyen, Will Lennon; Executive produced by John Wilson\n2026, 26 min\n*At 8:55 PM on February 3, 2023, a freight train carrying hazardous materials derailed in East Palestine, Ohio.*\n\n**THURSDAY, 12\/3 · 7:30P DOORS · 8:00P SCREENING**\n\n## $12 general admission.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
-      "rawTitle" : "Nathan Truesdell: BAD NEWS, pres. by Hollywood Entertainment",
-      "start" : "2026-12-04T04:00:00.000Z",
-      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/nathan-truesdell-bad-news-pres-by-hollywood-entertainment",
-      "venueID" : "whammy",
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
+      "start" : "2026-12-04T03:30:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/december-3-the-further-mis-adventures-of-cliff-booth",
+      "venueID" : "newbev",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "David Fincher",
+          "rawName" : "The Further Mis-Adventures of Cliff Booth",
+          "runtimeMinutes" : 141
+        }
+      ]
+    },
+    {
+      "rawDescription" : "Known as “Los Javis,” Javier Calvo and Javier Ambrossi have written, produced, and directed together some of the most sarcastic and provocative works in recent Spanish comedy, including *Holy Camp* (2017) and the hilarious TV series *Paquita Salas* (2016–2019). With *La bola negra*, they ambitiously deliver a cinematic epic inspired by Federico García Lorca’s homonymous unfinished work and Alberto Conejero’s play on the tragic destiny of Republican resistance fighter, actor, and footballer Rafael Rodríguez Rapún, a former lover of Lorca. With special appearances by Penélope Cruz and Glenn Close, and starring singer-songwriter Guitarricadelafuente, *La bola negra* audaciously looks at the past and present of Spanish history, the traumatic period of the Spanish Civil War, and its consequences for the sentimental lives of families and secret lovers shaped by tales of resistance and oppression.\n\n2026. Spain\/France. Directed Javier Calvo, Javier Ambrossi. Screenplay by Calvo, Ambrossi, Alberto Conejero. With Guitarricadelafuente, Miguel Bernardeau, Carlos González. In Spanish; English subtitles. 160 min. \n\n**$10 Hammer members | $20 general admission **\nCurrent members, check your email for your link to buy tickets, or contact [membership@hammer.ucla.edu](mailto:membership@hammer.ucla.edu).\n\n**Enhance your movie experience as a member!** Hammer Members receive priority seating and half-off Contenders tickets—plus discounts at the museum store and Lulu restaurant. [Become a member today.](\/support\/membership)\n\n[Buy tickets](https:\/\/www.eventbrite.com\/e\/2003647783457?aff=oddtdtcreator)\n\n*MoMA Contenders 2026* is organized by The Museum of Modern Art, New York. This film program is organized by Rajendra Roy, the Celeste Bartos Chief Curator of Film, Sean Egan, Senior Producer, Film Exhibitions and Projects, and Olivia Priedite, Film Program Coordinator, The Museum of Modern Art, New York.\n \nThe Hammer Museum's presentation is made possible by The Billy and Audrey L. Wilder Foundation.",
+      "rawTitle" : "La bola negra",
+      "start" : "2026-12-04T03:30:00.000Z",
+      "ticketURL" : "https:\/\/hammer.ucla.edu\/programs-events\/2026\/la-bola-negra",
+      "venueID" : "hammer",
       "videoFormats" : [
 
       ],
       "works" : [
-        {
-          "rawName" : "Nathan Truesdell: BAD NEWS"
-        }
+
       ]
     },
     {
@@ -3563,6 +3248,21 @@
       "works" : [
         {
           "rawName" : "Diego Gaeta + Friends: The Less We Planned (screening + concert)"
+        }
+      ]
+    },
+    {
+      "rawDescription" : "The renowned and endlessly resourceful Nathan Truesdell (Academy Award, Independent Spirit Award, and PGA nominated producer of *Ascension*; camera department head of *How To With John Wilson*) joins Hollywood Entertainment for a retrospective of his work, including the LA premiere of his new film A Derailment (executive produced by John Wilson and scored by Longmont Potion Castle). Plus unlisted surprises and rarities!\n\nTruesdell's masterful assemblies of news footage and testimony are incisive, funny, and frightening, considering a global tapestry of fanfare and tragic spectacle. These portraits include looks at dangerous waterslides, balloon launches gone wrong, the East Palestine toxic waste spill, and more.\n\n**WHEN THE LAPD BLOWS UP YOUR NEIGHBORHOOD**\nProduced by Kat Nguyen, Will Lennon\n2022, 19 min\n*Tensions rise on a busy street as news organizations and local residents witness an extremely volatile situation turn into a literal powder keg.*\n\n**BALLOONFEST**\nProduced by Jamie Gonçalves, Charlotte Cook\n2017, 6 min\n*Cleveland attempts to overcome its nickname, 'The Mistake by the Lake' by launching a bunch of balloons.*\n\n**MYSTERY SEEDS**\nProduced by Kat Nguyen, Sue Ding, Maggie Li\n2025, 9 min\n*After thousands of mysterious packages sow the seeds of a xenophobic conspiracy, we track its growth through local news, internet detectives, and your online shopping history.*\n\n**IT'S COMING!**\nDirected by Nathan Truesdell and Jessica Kingdon\nProduced by Nathan Truesdell, Willy Berliner, Jessica Kingdon\n2020, 9 min\n*The future is here! Well, almost.*\n**THE WATER SLIDE**\nProduced by Charlotte Cook, Jamie Gonçalves, Jessica Kingdon\n2018, 9 min\n*Tragedy strikes the World's Tallest Water Slide.*\n**A DERAILMENT**\nProduced by Kat Nguyen, Will Lennon; Executive produced by John Wilson\n2026, 26 min\n*At 8:55 PM on February 3, 2023, a freight train carrying hazardous materials derailed in East Palestine, Ohio.*\n\n**THURSDAY, 12\/3 · 7:30P DOORS · 8:00P SCREENING**\n\n## $12 general admission.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
+      "rawTitle" : "Nathan Truesdell: BAD NEWS, pres. by Hollywood Entertainment",
+      "start" : "2026-12-04T04:00:00.000Z",
+      "ticketURL" : "https:\/\/www.whammyanalog.com\/events\/nathan-truesdell-bad-news-pres-by-hollywood-entertainment",
+      "venueID" : "whammy",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "rawName" : "Nathan Truesdell: BAD NEWS"
         }
       ]
     },
@@ -3720,12 +3420,11 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "rawDescription" : "Don't miss this rare chance to experience one of the most far-out, peculiar, delicious stop-motion confections of all time on gorgeous 16mm!",
+      "rawTitle" : "NUTCRACKER FANTASY (1979) on 16mm! A Beautiful, Bizarre Stop-Motion Rarity!",
       "start" : "2026-12-05T03:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4317?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/nutcracker-fantasy-1979-on-16mm-a-beautiful-bizarre-stop-motion-rarity-tickets-2004537598919",
+      "venueID" : "prs",
       "videoFormats" : [
 
       ],
@@ -3734,11 +3433,12 @@
       ]
     },
     {
-      "rawDescription" : "Don't miss this rare chance to experience one of the most far-out, peculiar, delicious stop-motion confections of all time on gorgeous 16mm!",
-      "rawTitle" : "NUTCRACKER FANTASY (1979) on 16mm! A Beautiful, Bizarre Stop-Motion Rarity!",
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
       "start" : "2026-12-05T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/nutcracker-fantasy-1979-on-16mm-a-beautiful-bizarre-stop-motion-rarity-tickets-2004537598919",
-      "venueID" : "prs",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4317?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
       "videoFormats" : [
 
       ],
@@ -3841,26 +3541,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "William Greaves and David Greaves",
-      "feedRuntimeHint" : 100,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nA decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraordinary group – many of whom had not seen each other in fifty years – reminisced, critiqued, argued, laughed and drank while wrestling with their place in a rapidly shifting cultural landscape. Shot on 16mm film, newly restored and now directed by Greaves’ son David, this landmark film is at once a self-exploration and an inquiry into the heart of the critical mass of energy called the Harlem Renaissance. \n\nONCE UPON A TIME IN HARLEM is the only film this year to screen at the Sundance, Cannes, Telluride, Toronto and New York Film Festivals. The film also won 3 Critics Choice Documentary Awards including Best First Documentary Feature for director David Greaves, as well as the 2026 Library of Congress Lavine \/ Ken Burns Film Prize and the Maysles Film Center Albie Award in Harlem.\n\nFORMAT: DCP\n\nDISTRIBUTOR: NEON\n\nCOUNTRY: USA",
-      "rawTitle" : "ONCE UPON A TIME IN HARLEM",
-      "start" : "2026-12-05T21:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/once-upon-a-time-in-harlem-12-05-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "16mm"
-      ],
-      "works" : [
-        {
-          "director" : "William Greaves and David Greaves",
-          "rawName" : "ONCE UPON A TIME IN HARLEM",
-          "runtimeMinutes" : 100,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Paul King",
       "feedRuntimeHint" : 104,
       "rawDescription" : "*Paddington 2* has gained something of a cult following, winning over moviegoers of all ages with its charm, impeccable comedy, and genuinely big heart. \n\nPaddington has happily settled in London with the Brown family, where he sets out to find the perfect gift for his Aunt Lucy&#8217;s 100th birthday: a rare pop-up book from an antique shop. When the book is stolen, Paddington is wrongly accused of the crime and finds himself behind bars while the Browns set out to clear his name.\n\n&#8220;The Godfather Part II of Peruvian bear movies.&#8221;  &#8211; David Sims",
@@ -3877,6 +3557,26 @@
           "rawName" : "Paddington 2",
           "runtimeMinutes" : 104,
           "year" : "2017"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "William Greaves and David Greaves",
+      "feedRuntimeHint" : 100,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nA decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living luminaries of the Harlem Renaissance. For four hours, this extraordinary group – many of whom had not seen each other in fifty years – reminisced, critiqued, argued, laughed and drank while wrestling with their place in a rapidly shifting cultural landscape. Shot on 16mm film, newly restored and now directed by Greaves’ son David, this landmark film is at once a self-exploration and an inquiry into the heart of the critical mass of energy called the Harlem Renaissance. \n\nONCE UPON A TIME IN HARLEM is the only film this year to screen at the Sundance, Cannes, Telluride, Toronto and New York Film Festivals. The film also won 3 Critics Choice Documentary Awards including Best First Documentary Feature for director David Greaves, as well as the 2026 Library of Congress Lavine \/ Ken Burns Film Prize and the Maysles Film Center Albie Award in Harlem.\n\nFORMAT: DCP\n\nDISTRIBUTOR: NEON\n\nCOUNTRY: USA",
+      "rawTitle" : "ONCE UPON A TIME IN HARLEM",
+      "start" : "2026-12-05T21:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/once-upon-a-time-in-harlem-12-05-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "16mm"
+      ],
+      "works" : [
+        {
+          "director" : "William Greaves and David Greaves",
+          "rawName" : "ONCE UPON A TIME IN HARLEM",
+          "runtimeMinutes" : 100,
+          "year" : "2026"
         }
       ]
     },
@@ -3901,33 +3601,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
-      "start" : "2026-12-05T22:00:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4326?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
-      "rawDescription" : "Join us for the opening reception of the PRS Salon featuring works by PRS staff, contributing artists, volunteers, and more!",
-      "rawTitle" : "DIVINE OR ABSOLUTE ANIMAL (4TH ANNUAL PRS SALON) - Opening Reception",
-      "start" : "2026-12-05T22:00:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/divine-or-absolute-animal-4th-annual-prs-salon-opening-reception-tickets-2005153594378",
-      "venueID" : "prs",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
-      ]
-    },
-    {
       "feedDirectorHint" : "Travis Knight",
       "feedRuntimeHint" : 130,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nAfter her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate rescue mission into the Impassable Wilderness—an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Jacob Tremblay), Prue navigates a world of talking animals, bandits and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwood’s fragile future, she will have to risk everything. From Oscar-nominated and BAFTA-winning LAIKA, WILDWOOD is a sweeping adventure about love, sacrifice and the magic that reveals itself when we dare to look beyond the familiar.\n\nFORMAT: DCP\n\nDISTRIBUTOR: LAIKA\n\nCOUNTRY: USA",
@@ -3945,6 +3618,33 @@
           "runtimeMinutes" : 130,
           "year" : "2026"
         }
+      ]
+    },
+    {
+      "rawDescription" : "Join us for the opening reception of the PRS Salon featuring works by PRS staff, contributing artists, volunteers, and more!",
+      "rawTitle" : "DIVINE OR ABSOLUTE ANIMAL (4TH ANNUAL PRS SALON) - Opening Reception",
+      "start" : "2026-12-05T22:00:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/divine-or-absolute-animal-4th-annual-prs-salon-opening-reception-tickets-2005153594378",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
+      "start" : "2026-12-05T22:00:00.000Z",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4326?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
       ]
     },
     {
@@ -4008,26 +3708,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Louis Malle",
-      "feedRuntimeHint" : 111,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In English, French, German and Italian with English subtitles.*\n\nStephen Fleming, a conservative MP, is married to Ingrid, with whom he has two children: Martyn, a brilliant political reporter, and Sally, a bright, curious teenager. However, his political career crumbles when he becomes obsessed with his son’s lover, Anna, with whom he begins a passionate affair.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Entente Distribution Limited\n\nCOUNTRY: UK\/France",
-      "rawTitle" : "DAMAGE",
-      "start" : "2026-12-06T00:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/damage-12-05-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Louis Malle",
-          "rawName" : "DAMAGE",
-          "runtimeMinutes" : 111,
-          "year" : "1992"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Ray Dennis Steckler",
       "feedRuntimeHint" : 72,
       "rawDescription" : "RAT PFINK A BOO BOO is a testament to working with what you got. What do you do when you get halfway through filming a home invasion thriller and decide you don't want to anymore? You turn the second half into a superhero comedy, or at least that's what Ray Dennis Steckler did. Even the title, originally meant to be RAT FINK AND BOO BOO, was a mistake in animating the title sequence and instead of re-doing it was decided to just change the title to the mistake instead.\n\nPart rough home invasion thriller, part beach blanket musical, part superhero comedy, with a dancing gorilla cherry on top - it's hard not to love RAT PFINK A BOO BOO!\n\n**dir. Ray Dennis Steckler, 1966**\n*United States, VHS projection*\n72 min\n\n**SATURDAY, 12\/5 · 3:30P DOORS · 4:00P SCREENING**\n\n## Special \"matinee\" price: $5 pre-sale, or $8 at the door.\n\n***Basic*** *&* ***Microcinephile*** *members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one* *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
@@ -4044,6 +3724,26 @@
           "rawName" : "Rat Pfink a Boo Boo",
           "runtimeMinutes" : 72,
           "year" : "1966"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Louis Malle",
+      "feedRuntimeHint" : 111,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In English, French, German and Italian with English subtitles.*\n\nStephen Fleming, a conservative MP, is married to Ingrid, with whom he has two children: Martyn, a brilliant political reporter, and Sally, a bright, curious teenager. However, his political career crumbles when he becomes obsessed with his son’s lover, Anna, with whom he begins a passionate affair.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Entente Distribution Limited\n\nCOUNTRY: UK\/France",
+      "rawTitle" : "DAMAGE",
+      "start" : "2026-12-06T00:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/damage-12-05-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Louis Malle",
+          "rawName" : "DAMAGE",
+          "runtimeMinutes" : 111,
+          "year" : "1992"
         }
       ]
     },
@@ -4140,26 +3840,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Paweł Pawlikowski",
-      "feedRuntimeHint" : 80,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nFrom acclaimed director Paweł Pawlikowski comes Ida, a moving and intimate drama about a young novitiate nun in 1960s Poland who, on the verge of taking her vows, makes a shocking discovery about her past. 18-year old Anna (stunning newcomer Agata Trzebuchowska), a sheltered orphan raised in a convent, is preparing to become a nun when the Mother Superior insists she first visit her sole living relative. Naïve, innocent Anna soon finds herself in the presence of her aunt Wanda (Agata Kulesza), a worldly and cynical Communist Party insider, who shocks her with the declaration that her real name is Ida and her Jewish parents were murdered during the Nazi occupation. This revelation triggers a heart-wrenching journey into the countryside, to the family house and into the secrets of the repressed past, evoking the haunting legacy of the Holocaust and the realities of postwar Communism. In this beautifully directed film, Pawlikowski returns to his native Poland for the first time in his career to confront some of the more contentious issues in the history of his birthplace. Powerfully written and eloquently shot, a masterly evocation of a time, a dilemma and a defining historical moment; IDA is also personal, intimate and human. The weight of history is everywhere, but the scale falls within the scope of a young woman learning about the secrets of her own past. This intersection of the personal with momentous historic events makes for what is surely one of the most powerful and affecting films of the year.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Music Box Films\n\nCOUNTRY: Poland",
-      "rawTitle" : "IDA",
-      "start" : "2026-12-06T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/ida-12-05-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Paweł Pawlikowski",
-          "rawName" : "IDA",
-          "runtimeMinutes" : 80,
-          "year" : "2013"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "John McTiernan",
       "feedRuntimeHint" : 132,
       "rawDescription" : "1988 • Is this a holiday film? You be the judge. It’s an action-packed adventure thriller that blends high-stakes thrills with sharp humor. Bruce Willis became an action icon, making this explosive classic a must-watch every holiday season. • Show begins with music on the Mighty Wurlitzer and an old fashioned sing-along.",
@@ -4176,6 +3856,26 @@
           "rawName" : "Die Hard",
           "runtimeMinutes" : 132,
           "year" : "1988"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Paweł Pawlikowski",
+      "feedRuntimeHint" : 80,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nFrom acclaimed director Paweł Pawlikowski comes Ida, a moving and intimate drama about a young novitiate nun in 1960s Poland who, on the verge of taking her vows, makes a shocking discovery about her past. 18-year old Anna (stunning newcomer Agata Trzebuchowska), a sheltered orphan raised in a convent, is preparing to become a nun when the Mother Superior insists she first visit her sole living relative. Naïve, innocent Anna soon finds herself in the presence of her aunt Wanda (Agata Kulesza), a worldly and cynical Communist Party insider, who shocks her with the declaration that her real name is Ida and her Jewish parents were murdered during the Nazi occupation. This revelation triggers a heart-wrenching journey into the countryside, to the family house and into the secrets of the repressed past, evoking the haunting legacy of the Holocaust and the realities of postwar Communism. In this beautifully directed film, Pawlikowski returns to his native Poland for the first time in his career to confront some of the more contentious issues in the history of his birthplace. Powerfully written and eloquently shot, a masterly evocation of a time, a dilemma and a defining historical moment; IDA is also personal, intimate and human. The weight of history is everywhere, but the scale falls within the scope of a young woman learning about the secrets of her own past. This intersection of the personal with momentous historic events makes for what is surely one of the most powerful and affecting films of the year.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Music Box Films\n\nCOUNTRY: Poland",
+      "rawTitle" : "IDA",
+      "start" : "2026-12-06T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/ida-12-05-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Paweł Pawlikowski",
+          "rawName" : "IDA",
+          "runtimeMinutes" : 80,
+          "year" : "2013"
         }
       ]
     },
@@ -4369,6 +4069,19 @@
       ]
     },
     {
+      "rawDescription" : "An incredibly rare chance to catch the original Japanese version of a bizarre and beautiful stop-motion animated confection!",
+      "rawTitle" : "NUTCRACKER FANTASY ('79)—Original Japanese Version of a Stop-Motion Marvel!",
+      "start" : "2026-12-06T23:00:00.000Z",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/nutcracker-fantasy-79original-japanese-version-of-a-stop-motion-marvel-tickets-2004738116673",
+      "venueID" : "prs",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+
+      ]
+    },
+    {
       "feedDirectorHint" : "Paweł Pawlikowski",
       "feedRuntimeHint" : 42,
       "rawDescription" : "### **ABOUT THE FILMS:**\n\n**“From Moscow to Pietushki,” 1990, Dir. Paweł Pawlikowski, 42 Mins, BBC, UK**\n\n*Director’s Cut. In English and Russian with English subtitles.*\n\nThe film revists Vyenedikt Yerfoeyev’s underground novel ‘Moscow-Petushki’, retracing the narrator’s alcohol-fuelled epic journey from Moscow to the town of Pietushki, 99km away.\n\nFORMAT: DCP\n\n**“Dostoevsky’s Travels,” 1991, Dir. Paweł Pawlikowski, 51 Mins, BBC, UK**\n\n*In English and Russian with English subtitles.*\n\nDmitri Dostoevsky is a Leningrad tram driver and the only living descendant of the great author Fyodor Dostoevsky. As the Berlin Wall comes down, he travels to western Europe on the invitation of the high-minded Dostoevsky Appreciation Society. Retracing his great-grandfather Fyodor’s own European journey in 1862, Dmitri also follows his dream of owning a white E class Mercedes.\n\nFORMAT: DCP\n\n**“Serbian Epics,” 1992, Dir. Paweł Pawlikowski, 41 Mins, BBC, UK**\n\n*Director’s Cut. In English and Serbo-Croatian with English subtitles.*\n\nShot during the Bosnian war in 1992. Relying on the power of images and steering clear of war reporting, the film aims to be a universal enquiry into the idea of the nation state, myth-making and ethnocentric view of the world.\n\nFORMAT: DCP\n\n**“Tripping with Zhirinovsky,” 1995, Dir. Paweł Pawlikowski, 41 Mins, BBC, UK**\n\n*In English and Russian with English subtitles.*\n\nA candid, fly-on-the-wall BBC television documentary portrait of Russian Nationalist politician, Vladimir Zhirinovsky. The film shows the leader on a cruise surrounded by two hundred supporters getting plenty of media attention in New York. We are left with the nagging question: to what extent is Zhirinovsky really dangerous? To take that further, to what extent are populist politicians truly dangerous?\n\nFORMAT: DCP",
@@ -4407,19 +4120,6 @@
           "runtimeMinutes" : 41,
           "year" : "1995"
         }
-      ]
-    },
-    {
-      "rawDescription" : "An incredibly rare chance to catch the original Japanese version of a bizarre and beautiful stop-motion animated confection!",
-      "rawTitle" : "NUTCRACKER FANTASY ('79)—Original Japanese Version of a Stop-Motion Marvel!",
-      "start" : "2026-12-06T23:00:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/nutcracker-fantasy-79original-japanese-version-of-a-stop-motion-marvel-tickets-2004738116673",
-      "venueID" : "prs",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-
       ]
     },
     {
@@ -4495,42 +4195,22 @@
       ]
     },
     {
-      "feedDirectorHint" : "Jon Favreau",
-      "feedRuntimeHint" : 97,
-      "rawDescription" : "2003 • A Christmas comedy that became an instant classic, filled with heart, humor, and holiday magic. It's a festive must-watch every year!  • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
-      "rawTitle" : "Elf",
+      "feedDirectorHint" : "Paweł Pawlikowski",
+      "feedRuntimeHint" : 88,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Polish, French, Croatian, German, Russian, Serbian and Italian with English subtitles.*\n\nNominated for 3 Academy Awards including Best Director, comes a passionate love story between two people of different backgrounds, who are fatefully mismatched and yet condemned to each other. Set against the background of the Cold War in the 1950s, the film depicts an impossible love story in impossible times.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Amazon Studios\n\nCOUNTRY: Poland\/UK\/France\/Belgium\/India\/Croatia",
+      "rawTitle" : "COLD WAR",
       "start" : "2026-12-07T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
-      "venueID" : "oldtown",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cold-war-12-06-2026",
+      "venueID" : "losfeliz",
       "videoFormats" : [
-
+        "DCP"
       ],
       "works" : [
         {
-          "director" : "Jon Favreau",
-          "rawName" : "Elf",
-          "runtimeMinutes" : 97,
-          "year" : "2003"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Herbert Ross",
-      "feedRuntimeHint" : 117,
-      "rawDescription" : "**Screenwriter**: Robert Harling\n\n**Producer**: Ray Stark\n\nVidiots remembers the extraordinary life, talent, style, and humanism of one of the greatest American icons of all time &#8211; the eternal Goddess **Dolly Parton** with a tearjerking screening of ***Steel Magnolias***.\n\n*Shelby, Drink your Juice!* Some movies are meant to be watched with super fans, and this one is no exception. Please join Vidiots for the cathartic experience you know you need. Afterall, pink IS our signature color&#8230; A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.  One of the best ensemble casts of all time, endless quotable lines, and every single emotion, you haven&#8217;t watch *Steel Magnolias* until you&#8217;ve watched it with us. And don&#8217;t worry, we&#8217;ll have plenty of tissues on hand!",
-      "rawTitle" : "Steel Magnolias",
-      "start" : "2026-12-07T03:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4918268",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Herbert Ross",
-          "rawName" : "Steel Magnolias",
-          "runtimeMinutes" : 117,
-          "year" : "1989"
+          "director" : "Paweł Pawlikowski",
+          "rawName" : "COLD WAR",
+          "runtimeMinutes" : 88,
+          "year" : "2018"
         }
       ]
     },
@@ -4559,22 +4239,42 @@
       ]
     },
     {
-      "feedDirectorHint" : "Paweł Pawlikowski",
-      "feedRuntimeHint" : 88,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Polish, French, Croatian, German, Russian, Serbian and Italian with English subtitles.*\n\nNominated for 3 Academy Awards including Best Director, comes a passionate love story between two people of different backgrounds, who are fatefully mismatched and yet condemned to each other. Set against the background of the Cold War in the 1950s, the film depicts an impossible love story in impossible times.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Amazon Studios\n\nCOUNTRY: Poland\/UK\/France\/Belgium\/India\/Croatia",
-      "rawTitle" : "COLD WAR",
+      "feedDirectorHint" : "Herbert Ross",
+      "feedRuntimeHint" : 117,
+      "rawDescription" : "**Screenwriter**: Robert Harling\n\n**Producer**: Ray Stark\n\nVidiots remembers the extraordinary life, talent, style, and humanism of one of the greatest American icons of all time &#8211; the eternal Goddess **Dolly Parton** with a tearjerking screening of ***Steel Magnolias***.\n\n*Shelby, Drink your Juice!* Some movies are meant to be watched with super fans, and this one is no exception. Please join Vidiots for the cathartic experience you know you need. Afterall, pink IS our signature color&#8230; A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.  One of the best ensemble casts of all time, endless quotable lines, and every single emotion, you haven&#8217;t watch *Steel Magnolias* until you&#8217;ve watched it with us. And don&#8217;t worry, we&#8217;ll have plenty of tissues on hand!",
+      "rawTitle" : "Steel Magnolias",
       "start" : "2026-12-07T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/cold-war-12-06-2026",
-      "venueID" : "losfeliz",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4918268",
+      "venueID" : "vidiots",
       "videoFormats" : [
-        "DCP"
+        "Digital"
       ],
       "works" : [
         {
-          "director" : "Paweł Pawlikowski",
-          "rawName" : "COLD WAR",
-          "runtimeMinutes" : 88,
-          "year" : "2018"
+          "director" : "Herbert Ross",
+          "rawName" : "Steel Magnolias",
+          "runtimeMinutes" : 117,
+          "year" : "1989"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Jon Favreau",
+      "feedRuntimeHint" : 97,
+      "rawDescription" : "2003 • A Christmas comedy that became an instant classic, filled with heart, humor, and holiday magic. It's a festive must-watch every year!  • Show begins with holiday music on the Mighty Wurlitzer and an old fashioned sing-along.",
+      "rawTitle" : "Elf",
+      "start" : "2026-12-07T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.oldtownmusichall.org\/all-programs",
+      "venueID" : "oldtown",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Jon Favreau",
+          "rawName" : "Elf",
+          "runtimeMinutes" : 97,
+          "year" : "2003"
         }
       ]
     },
@@ -4707,39 +4407,11 @@
       ]
     },
     {
-      "feedDirectorHint" : "Paweł Pawlikowski",
-      "feedRuntimeHint" : 82,
-      "rawDescription" : "### **ABOUT THE FILMS:**\n\n**FATHERLAND, 2026, Dir. Paweł Pawlikowski, 82 Mins, MUBI, Poland\/Germany\/Italy\/France**\n\n*In German, English, French and Russian with English subtitles.*\n\nAt the height of the Cold War, FATHERLAND centers on the relationship between the writer Thomas Mann and his daughter Erika—actress, writer and rally driver—as they embark on a road trip in a black Buick cruiser across a Germany in ruins, from U.S. dominated Frankfurt to Soviet controlled Weimar.\n\nFORMAT: DCP\n\n**LAST RESORT, 2000, Dir. Paweł Pawlikowski, 73 Mins, BBC Films, UK**\n\n*In English and Russian with English subtitles.*\n\nWhen a young Russian woman and her son leave Moscow to meet her fiancé, who fails to show up, she declares political asylum.\n\nFORMAT: DCP",
-      "rawTitle" : "FATHERLAND \/ LAST RESORT",
+      "rawDescription" : "Followed by a conversation with director **David Greaves** and editor-producer **Anne de Mare**\n\nThe great American filmmaker William Greaves, who in his illustrious career of more than 50 years documented the civil rights movement and historical figures like Muhammad Ali, Paul Robeson, Ida B. Wells, and Raphe Bunche, who executive produced the groundbreaking PBS news program *Black Journal*, and who wrote and directed the radically experimental fiction hybrid *Symbiopsychotaxiplasm*, had one last trick up his sleeve before his death in 2014: He left behind an extraordinary archive of unedited footage from a cocktail party he staged and hosted in 1972 at the home of Duke Ellington, an astonishingly vital and poignant gathering of luminaries from the Harlem Renaissance, many of whom had not seen each other for nearly a half century. Among those assembled were the artists Aaron Douglas and Romare Bearden, the composers Eubie Blake and Noble Sissle, the photographer James Van Der Zee, the poet Arna Bontemps, and the actor Leigh Whipper. Now, some 50 years later, Greaves’ son David, one of three cameramen filming that day, has shaped this never-before-seen material into the beautiful and indelible *Once Upon a Time in Harlem*, carrying on the work of Greaves’ wife and longtime partner Louise Archambault Greaves and collaborating with Greaves’ granddaughter Liani and Anne de Mare as producers. \n\n2026. USA. Directed by William and David Greaves. DCP courtesy NEON. 100 min. \n\n**$10 Hammer members | $20 general admission **\nCurrent members, check your email for your link to buy tickets, or contact [membership@hammer.ucla.edu](mailto:membership@hammer.ucla.edu).\n\n**Enhance your movie experience as a member!** Hammer Members receive priority seating and half-off Contenders tickets—plus discounts at the museum store and Lulu restaurant. [Become a member today.](\/support\/membership)\n\n[Buy tickets](https:\/\/www.eventbrite.com\/e\/2003648387263?aff=oddtdtcreator)\n\n*MoMA Contenders 2026* is organized by The Museum of Modern Art, New York. This film program is organized by Rajendra Roy, the Celeste Bartos Chief Curator of Film, Sean Egan, Senior Producer, Film Exhibitions and Projects, and Olivia Priedite, Film Program Coordinator, The Museum of Modern Art, New York.\n \nThe Hammer Museum's presentation is made possible by The Billy and Audrey L. Wilder Foundation.",
+      "rawTitle" : "Once Upon a Time in Harlem",
       "start" : "2026-12-08T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/fatherland-last-resort-12-07-2026",
-      "venueID" : "aero",
-      "videoFormats" : [
-        "DCP",
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Paweł Pawlikowski",
-          "rawName" : "FATHERLAND,",
-          "runtimeMinutes" : 82,
-          "year" : "2026"
-        },
-        {
-          "director" : "Paweł Pawlikowski",
-          "rawName" : "LAST RESORT,",
-          "runtimeMinutes" : 73,
-          "year" : "2000"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
-      "start" : "2026-12-08T03:30:00.000Z",
-      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4319?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-      "venueID" : "vista",
+      "ticketURL" : "https:\/\/hammer.ucla.edu\/programs-events\/2026\/once-upon-time-harlem",
+      "venueID" : "hammer",
       "videoFormats" : [
 
       ],
@@ -4766,16 +4438,44 @@
       ]
     },
     {
-      "rawDescription" : "Followed by a conversation with director **David Greaves** and editor-producer **Anne de Mare**\n\nThe great American filmmaker William Greaves, who in his illustrious career of more than 50 years documented the civil rights movement and historical figures like Muhammad Ali, Paul Robeson, Ida B. Wells, and Raphe Bunche, who executive produced the groundbreaking PBS news program *Black Journal*, and who wrote and directed the radically experimental fiction hybrid *Symbiopsychotaxiplasm*, had one last trick up his sleeve before his death in 2014: He left behind an extraordinary archive of unedited footage from a cocktail party he staged and hosted in 1972 at the home of Duke Ellington, an astonishingly vital and poignant gathering of luminaries from the Harlem Renaissance, many of whom had not seen each other for nearly a half century. Among those assembled were the artists Aaron Douglas and Romare Bearden, the composers Eubie Blake and Noble Sissle, the photographer James Van Der Zee, the poet Arna Bontemps, and the actor Leigh Whipper. Now, some 50 years later, Greaves’ son David, one of three cameramen filming that day, has shaped this never-before-seen material into the beautiful and indelible *Once Upon a Time in Harlem*, carrying on the work of Greaves’ wife and longtime partner Louise Archambault Greaves and collaborating with Greaves’ granddaughter Liani and Anne de Mare as producers. \n\n2026. USA. Directed by William and David Greaves. DCP courtesy NEON. 100 min. \n\n**$10 Hammer members | $20 general admission **\nCurrent members, check your email for your link to buy tickets, or contact [membership@hammer.ucla.edu](mailto:membership@hammer.ucla.edu).\n\n**Enhance your movie experience as a member!** Hammer Members receive priority seating and half-off Contenders tickets—plus discounts at the museum store and Lulu restaurant. [Become a member today.](\/support\/membership)\n\n[Buy tickets](https:\/\/www.eventbrite.com\/e\/2003648387263?aff=oddtdtcreator)\n\n*MoMA Contenders 2026* is organized by The Museum of Modern Art, New York. This film program is organized by Rajendra Roy, the Celeste Bartos Chief Curator of Film, Sean Egan, Senior Producer, Film Exhibitions and Projects, and Olivia Priedite, Film Program Coordinator, The Museum of Modern Art, New York.\n \nThe Hammer Museum's presentation is made possible by The Billy and Audrey L. Wilder Foundation.",
-      "rawTitle" : "Once Upon a Time in Harlem",
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth 35mm",
       "start" : "2026-12-08T03:30:00.000Z",
-      "ticketURL" : "https:\/\/hammer.ucla.edu\/programs-events\/2026\/once-upon-time-harlem",
-      "venueID" : "hammer",
+      "ticketURL" : "https:\/\/ticketing.uswest.veezi.com\/purchase\/4319?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+      "venueID" : "vista",
       "videoFormats" : [
 
       ],
       "works" : [
 
+      ]
+    },
+    {
+      "feedDirectorHint" : "Paweł Pawlikowski",
+      "feedRuntimeHint" : 82,
+      "rawDescription" : "### **ABOUT THE FILMS:**\n\n**FATHERLAND, 2026, Dir. Paweł Pawlikowski, 82 Mins, MUBI, Poland\/Germany\/Italy\/France**\n\n*In German, English, French and Russian with English subtitles.*\n\nAt the height of the Cold War, FATHERLAND centers on the relationship between the writer Thomas Mann and his daughter Erika—actress, writer and rally driver—as they embark on a road trip in a black Buick cruiser across a Germany in ruins, from U.S. dominated Frankfurt to Soviet controlled Weimar.\n\nFORMAT: DCP\n\n**LAST RESORT, 2000, Dir. Paweł Pawlikowski, 73 Mins, BBC Films, UK**\n\n*In English and Russian with English subtitles.*\n\nWhen a young Russian woman and her son leave Moscow to meet her fiancé, who fails to show up, she declares political asylum.\n\nFORMAT: DCP",
+      "rawTitle" : "FATHERLAND \/ LAST RESORT",
+      "start" : "2026-12-08T03:30:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/fatherland-last-resort-12-07-2026",
+      "venueID" : "aero",
+      "videoFormats" : [
+        "DCP",
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Paweł Pawlikowski",
+          "rawName" : "FATHERLAND,",
+          "runtimeMinutes" : 82,
+          "year" : "2026"
+        },
+        {
+          "director" : "Paweł Pawlikowski",
+          "rawName" : "LAST RESORT,",
+          "runtimeMinutes" : 73,
+          "year" : "2000"
+        }
       ]
     },
     {
@@ -4887,26 +4587,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Brad Bird",
-      "feedRuntimeHint" : 119,
-      "rawDescription" : "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder, and a multimedia star named Venus Nova.",
-      "rawTitle" : "Ray Gunn",
-      "start" : "2026-12-09T03:00:00.000Z",
-      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2706\/seats",
-      "venueID" : "egyptian",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Brad Bird",
-          "rawName" : "Ray Gunn",
-          "runtimeMinutes" : 119,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedRuntimeHint" : 200,
       "rawDescription" : "Nirvanna the Band the Show Season 1 follows fictionalized best friends Matt Johnson and Jay McCarrol as they hatch a series of absurd, real-world public stunts in Toronto to book a gig at the iconic Rivoli music venue, despite having no actual music or conventional plans.\n\nThe eight-episode season blends scripted mockumentary sequences with candid-camera interactions featuring unsuspecting members of the public.",
       "rawTitle" : "Nirvanna The Band The Show Season 1",
@@ -4944,20 +4624,22 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 141,
-      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
-      "start" : "2026-12-09T03:30:00.000Z",
-      "ticketURL" : "https:\/\/thenewbev.com\/program\/december-8-the-further-mis-adventures-of-cliff-booth",
-      "venueID" : "newbev",
+      "feedDirectorHint" : "Brad Bird",
+      "feedRuntimeHint" : 119,
+      "rawDescription" : "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder, and a multimedia star named Venus Nova.",
+      "rawTitle" : "Ray Gunn",
+      "start" : "2026-12-09T03:00:00.000Z",
+      "ticketURL" : "https:\/\/tickets.egyptiantheatre.com\/order\/showtimes\/1001-2706\/seats",
+      "venueID" : "egyptian",
       "videoFormats" : [
-        "35mm"
+
       ],
       "works" : [
         {
-          "director" : "David Fincher",
-          "rawName" : "The Further Mis-Adventures of Cliff Booth",
-          "runtimeMinutes" : 141
+          "director" : "Brad Bird",
+          "rawName" : "Ray Gunn",
+          "runtimeMinutes" : 119,
+          "year" : "2026"
         }
       ]
     },
@@ -4989,22 +4671,20 @@
       ]
     },
     {
-      "feedDirectorHint" : "Gerald Kargl",
-      "feedRuntimeHint" : 87,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In German with English subtitles.*\n\nANGST is based on the true story of mass murderer Werner Kniesek. Lauded as one of the best serial killer films ever made, ANGST is an exercise in fear and disturbance.\n\nFeaturing innovative camera work for its time and incredible performances, ANGST puts you in the mind of a compulsive killer in the moments of the act, making it both a chilling and compelling experience.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Umbrella Entertainment\n\nCOUNTRY: Austria",
-      "rawTitle" : "ANGST",
-      "start" : "2026-12-09T06:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/angst-12-08-2026",
-      "venueID" : "losfeliz",
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 141,
+      "rawTitle" : "The Further Mis-Adventures of Cliff Booth",
+      "start" : "2026-12-09T03:30:00.000Z",
+      "ticketURL" : "https:\/\/thenewbev.com\/program\/december-8-the-further-mis-adventures-of-cliff-booth",
+      "venueID" : "newbev",
       "videoFormats" : [
-        "DCP"
+        "35mm"
       ],
       "works" : [
         {
-          "director" : "Gerald Kargl",
-          "rawName" : "ANGST",
-          "runtimeMinutes" : 87,
-          "year" : "1983"
+          "director" : "David Fincher",
+          "rawName" : "The Further Mis-Adventures of Cliff Booth",
+          "runtimeMinutes" : 141
         }
       ]
     },
@@ -5025,6 +4705,26 @@
           "rawName" : "Ray Gunn",
           "runtimeMinutes" : 119,
           "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Gerald Kargl",
+      "feedRuntimeHint" : 87,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\n*In German with English subtitles.*\n\nANGST is based on the true story of mass murderer Werner Kniesek. Lauded as one of the best serial killer films ever made, ANGST is an exercise in fear and disturbance.\n\nFeaturing innovative camera work for its time and incredible performances, ANGST puts you in the mind of a compulsive killer in the moments of the act, making it both a chilling and compelling experience.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Umbrella Entertainment\n\nCOUNTRY: Austria",
+      "rawTitle" : "ANGST",
+      "start" : "2026-12-09T06:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/angst-12-08-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Gerald Kargl",
+          "rawName" : "ANGST",
+          "runtimeMinutes" : 87,
+          "year" : "1983"
         }
       ]
     },
@@ -5077,6 +4777,23 @@
       ]
     },
     {
+      "feedRuntimeHint" : 176,
+      "rawDescription" : "Season 2 of the Canadian mockumentary comedy series Nirvanna the Band the Show (created by Matt Johnson and Jay McCarrol) consists of eight episodes that continue the duo&#8217;s elaborate, real-world-disrupting schemes to book a gig at Toronto&#8217;s The Rivoli.",
+      "rawTitle" : "Nirvanna The Band The Show Season 2",
+      "start" : "2026-12-10T03:00:00.000Z",
+      "ticketURL" : "https:\/\/dice.fm\/event\/ok2k7r-nirvanna-the-band-the-show-season-2-9th-dec-brain-dead-studios-los-angeles-tickets",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "rawName" : "Nirvanna The Band The Show Season 2",
+          "runtimeMinutes" : 176
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Brad Bird",
       "feedRuntimeHint" : 119,
       "rawDescription" : "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder, and a multimedia star named Venus Nova.",
@@ -5093,23 +4810,6 @@
           "rawName" : "Ray Gunn",
           "runtimeMinutes" : 119,
           "year" : "2026"
-        }
-      ]
-    },
-    {
-      "feedRuntimeHint" : 176,
-      "rawDescription" : "Season 2 of the Canadian mockumentary comedy series Nirvanna the Band the Show (created by Matt Johnson and Jay McCarrol) consists of eight episodes that continue the duo&#8217;s elaborate, real-world-disrupting schemes to book a gig at Toronto&#8217;s The Rivoli.",
-      "rawTitle" : "Nirvanna The Band The Show Season 2",
-      "start" : "2026-12-10T03:00:00.000Z",
-      "ticketURL" : "https:\/\/dice.fm\/event\/ok2k7r-nirvanna-the-band-the-show-season-2-9th-dec-brain-dead-studios-los-angeles-tickets",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "rawName" : "Nirvanna The Band The Show Season 2",
-          "runtimeMinutes" : 176
         }
       ]
     },
@@ -5459,6 +5159,21 @@
       ]
     },
     {
+      "rawDescription" : "### **ABOUT THE EVENT:** \n\nWe’re back for another edition of Film Girlz Fest! Join the American Cinematheque and Film Girlz Brunch for a year-end showcase of women-made and led projects from local filmmakers. \n\nFilm Girlz Brunch is a community for femme folks in the film industry in Los Angeles. \n\n### **ABOUT THE FILMS:** \n\n“Queen of the Slide,” Dir. Liv Shyevitch, 6 min \nWhen a first grader declares herself ruler of the playground slide, a determined group of kindergarteners bands together to reclaim it and discovers how much louder their voices are together. \n\n**“They’ll Know You When You Call,” Dir. Luna Rain Garcia, 7 min **\nBlending home videos, still film photography and digital footage, the film follows a young woman who discovers that the father she believed was dead is alive and living in Mexico. \n\n**“Performance Review,” Dir. Lain Ewing, 12 min **\nWith a performance review and a product launch looming, Maggie is already juggling plenty at Elite Talent Agency, including looking after her boss’s pet frog, Ribbit. When she accidentally eats a coworker’s pot brownies, her bid to prove herself at work turns into a string of comic mishaps. \n\n**“The Story of an Hour,” Dir. Lauren Loesberg, 8 min** \nWhen her husband unexpectedly dies in a railroad accident, Louise Mallard gets her first taste of freedom. Based on the short story by Kate Chopin. \n\n**“The Patchwork Girl,” Dir. Masha Sokolova, 12 min **\nConsumed by the pursuit of perfection, teen influencer Dorothy fractures her sense of self. Now, the Patchwork Girl comes to mend her. \n\n**“Jazz Doing Things,” Dir. Adia Ivey, 12 min **\nA talented hairstylist desperate to keep her favorite client (and unrequited crush) spirals out of control as her dreams go up in flames. \n\n**“Heat Me!,” Dir. Kelly Sarri, 15 min **\nDuring a record-breaking heat wave, three generations of Greek women find themselves stuck in their apartment without air conditioning. As a quirky granddaughter, her chic mother and her sharp-witted grandmother contend with water cuts and mounting piles of plastic waste, their misadventures offer a playful look at how the climate crisis plays out at home.",
+      "rawTitle" : "Film Girlz Brunch Presents Film Girlz Fest",
+      "start" : "2026-12-12T21:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/film-girlz-brunch-presents-film-girlz-fest-12-12-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "rawName" : "Film Girlz Brunch Presents Film Girlz Fest"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "Hayao Miyazaki",
       "feedRuntimeHint" : 95,
       "rawDescription" : "**Screenwriters**: Hayao Miyazaki, Kazunori Itô\n\n**Producer**: Isao Takahata\n\nFrom visionary animation master Hayao Miyazaki, comes this epic masterpiece of sweeping scope and grandeur that remains one of the most breathtaking and exhilarating animated films of all time.\n\nA thousand years after the Seven Days of Fire destroyed civilization, warring human factions survive in a world devastated by atmospheric poisons and swarming with gigantic insects. The peaceful Valley of the Wind is nestled on the edge of the Toxic Forest and led by the courageous Princess Nausicaä, whose love of all living things leads her into terrible danger, as she fights to restore balance between humans and nature. Featuring the voices of Alison Lohman, Uma Thurman, Patrick Stewart, Edward James Olmos and Shia LaBeouf.",
@@ -5475,21 +5190,6 @@
           "rawName" : "Nausicaä of the Valley of the Wind (English Dubbed)",
           "runtimeMinutes" : 95,
           "year" : "1984"
-        }
-      ]
-    },
-    {
-      "rawDescription" : "### **ABOUT THE EVENT:** \n\nWe’re back for another edition of Film Girlz Fest! Join the American Cinematheque and Film Girlz Brunch for a year-end showcase of women-made and led projects from local filmmakers. \n\nFilm Girlz Brunch is a community for femme folks in the film industry in Los Angeles. \n\n### **ABOUT THE FILMS:** \n\n“Queen of the Slide,” Dir. Liv Shyevitch, 6 min \nWhen a first grader declares herself ruler of the playground slide, a determined group of kindergarteners bands together to reclaim it and discovers how much louder their voices are together. \n\n**“They’ll Know You When You Call,” Dir. Luna Rain Garcia, 7 min **\nBlending home videos, still film photography and digital footage, the film follows a young woman who discovers that the father she believed was dead is alive and living in Mexico. \n\n**“Performance Review,” Dir. Lain Ewing, 12 min **\nWith a performance review and a product launch looming, Maggie is already juggling plenty at Elite Talent Agency, including looking after her boss’s pet frog, Ribbit. When she accidentally eats a coworker’s pot brownies, her bid to prove herself at work turns into a string of comic mishaps. \n\n**“The Story of an Hour,” Dir. Lauren Loesberg, 8 min** \nWhen her husband unexpectedly dies in a railroad accident, Louise Mallard gets her first taste of freedom. Based on the short story by Kate Chopin. \n\n**“The Patchwork Girl,” Dir. Masha Sokolova, 12 min **\nConsumed by the pursuit of perfection, teen influencer Dorothy fractures her sense of self. Now, the Patchwork Girl comes to mend her. \n\n**“Jazz Doing Things,” Dir. Adia Ivey, 12 min **\nA talented hairstylist desperate to keep her favorite client (and unrequited crush) spirals out of control as her dreams go up in flames. \n\n**“Heat Me!,” Dir. Kelly Sarri, 15 min **\nDuring a record-breaking heat wave, three generations of Greek women find themselves stuck in their apartment without air conditioning. As a quirky granddaughter, her chic mother and her sharp-witted grandmother contend with water cuts and mounting piles of plastic waste, their misadventures offer a playful look at how the climate crisis plays out at home.",
-      "rawTitle" : "Film Girlz Brunch Presents Film Girlz Fest",
-      "start" : "2026-12-12T21:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/film-girlz-brunch-presents-film-girlz-fest-12-12-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "rawName" : "Film Girlz Brunch Presents Film Girlz Fest"
         }
       ]
     },
@@ -5614,26 +5314,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Martin Scorsese",
-      "feedRuntimeHint" : 112,
-      "rawDescription" : "### **ABOUT THE FILM:**\n\nAfter her husband dies, Alice (Ellen Burstyn) and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make it as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner. She intends to stay in Arizona just long enough to make the money needed to head back out on the road, but her plans change when she begins to fall for a rancher named David (Kris Kristofferson).\n\nFORMAT: DCP\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: USA",
-      "rawTitle" : "ALICE DOESNT LIVE HERE ANYMORE",
-      "start" : "2026-12-13T03:00:00.000Z",
-      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/alice-doesnt-live-here-anymore-12-12-2026",
-      "venueID" : "losfeliz",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Martin Scorsese",
-          "rawName" : "ALICE DOESNT LIVE HERE ANYMORE",
-          "runtimeMinutes" : 112,
-          "year" : "1974"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Lawrence Kasdan",
       "feedRuntimeHint" : 113,
       "rawDescription" : "**Screenwriter**: Lawrence Kasdan\n\n**Producer**: Fred T. Gallo\n\nThe temperature may be dropping outside, but it&#8217;s heating up here at Vidiots because our annual **Hornyfest** is back and thirstier than ever!\n\nKathleen Turner scorches the screen in this overtly erotic Neo-Noir from Lawrence Kasdan. Drawing on the tropes of the best Film Noir classics of the 40s and 50s, this audaciously sexy crime thriller gives you all the sizzling dialogue you want, and an excessive amount of flesh and sweat not allowed on screen during the Hays code era noirs. During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband. A movie so hot and horny, you can feel the steam rising off the screen. Bring someone you love, or someone you&#8217;d love to take home &#8211; it&#8217;s going to be a steamy night at Vidiots!\n\n**Picks from the Video Store**\n\nFall in love or lust with Kathleen Turner with these killer features!\n\n*Crimes of Passion, Serial Mom, V.I. Warshawski*",
@@ -5650,6 +5330,26 @@
           "rawName" : "Vidiots Hornyfest – Body Heat on 35mm",
           "runtimeMinutes" : 113,
           "year" : "1981"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Martin Scorsese",
+      "feedRuntimeHint" : 112,
+      "rawDescription" : "### **ABOUT THE FILM:**\n\nAfter her husband dies, Alice (Ellen Burstyn) and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make it as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner. She intends to stay in Arizona just long enough to make the money needed to head back out on the road, but her plans change when she begins to fall for a rancher named David (Kris Kristofferson).\n\nFORMAT: DCP\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: USA",
+      "rawTitle" : "ALICE DOESNT LIVE HERE ANYMORE",
+      "start" : "2026-12-13T03:00:00.000Z",
+      "ticketURL" : "https:\/\/www.americancinematheque.com\/now-showing\/alice-doesnt-live-here-anymore-12-12-2026",
+      "venueID" : "losfeliz",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Martin Scorsese",
+          "rawName" : "ALICE DOESNT LIVE HERE ANYMORE",
+          "runtimeMinutes" : 112,
+          "year" : "1974"
         }
       ]
     },
@@ -5752,26 +5452,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Jon Turteltaub",
-      "feedRuntimeHint" : 98,
-      "rawDescription" : "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.",
-      "rawTitle" : "Cool Runnings",
-      "start" : "2026-12-13T21:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1486901\/",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Jon Turteltaub",
-          "rawName" : "Cool Runnings",
-          "runtimeMinutes" : 98,
-          "year" : "1993"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Tay Garnett",
       "feedRuntimeHint" : 67,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nThe seas are calm and the ship is sturdy—but the shipboard romance is doomed.\n\nDan does not know that Joan is dying of an incurable disease. Joan does not know Dan is a convicted murderer en route to San Quentin. Still, they have four weeks to find happiness in each other’s arms. Or will Dan forsake the love of a lifetime for his own life, using the vessel’s Honolulu layover as a chance to escape the law?\n\nThe passage of time remains kind to ONE WAY PASAGE, an Academy Award winner for its timeless script that is directed with style and sensitivity by Tay Garnett (THE POSTMAN ALWAYS RINGS TWICE).\n\nWilliam Powell brings unmatchable urbane charm to the role of Dan. As Joan, Kay Francis displays the lustrous sincerity that made her one of the era’s favorites.\n\nTheir passage may be one-way. But you’ll find it’s a voyage worth repeating.\n\nFORMAT: 35mm\n\nDISTRIBUTOR: Warner Bros.\n\nCOUNTRY: USA",
@@ -5788,6 +5468,26 @@
           "rawName" : "ONE WAY PASSAGE",
           "runtimeMinutes" : 67,
           "year" : "1932"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Jon Turteltaub",
+      "feedRuntimeHint" : 98,
+      "rawDescription" : "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.",
+      "rawTitle" : "Cool Runnings",
+      "start" : "2026-12-13T21:00:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1486901",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Jon Turteltaub",
+          "rawName" : "Cool Runnings",
+          "runtimeMinutes" : 98,
+          "year" : "1993"
         }
       ]
     },
@@ -6063,26 +5763,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "William D. Caballero",
-      "feedRuntimeHint" : 91,
-      "rawDescription" : "**Producers**: William David Caballero,  Elaine Del Valle,  Brad Jones,  Erin Ploss-Campoamor\n\nDirector **William D. Caballero** and producer **Erin Ploss-Campoamor** in person at the December 14th screening!\n\nJoin us in the microcinema for one of the most heartfelt and imaginative documentaries of all time &#8211; William Caballero&#8217;s wonderfully creative and moving *TheyDream. TheyDream* is a deeply personal documentary presented in a variety of animation styles, that examines the transformative nature of grief, for the director, his mother, and other members of their tight knit Puerto Rican family in Fayetteville, North Carolina. As he revisits his past twenty years as a filmmaker who has employed an eclectic range of visual styles, he interweaves brand new animations with live action footage, in order to dig deeper than ever before and better understand why he makes the art that he does. Ultimately, this film becomes an intimate confession—not just about grief, but about the courage it takes to transform pain into art alongside the people we love most.",
-      "rawTitle" : "TheyDream",
-      "start" : "2026-12-15T03:00:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4946180",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "William D. Caballero",
-          "rawName" : "TheyDream",
-          "runtimeMinutes" : 91,
-          "year" : "2026"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "René Cardona",
       "feedRuntimeHint" : 78,
       "rawDescription" : "### **ABOUT THE FILM:**\n\n*In Spanish with English subtitles.*\n\nAfter a group of violent lepers escape from a sanitarium, robbing several farms, the town’s residents demand that the sheriff take action. Meanwhile, a local criminal joins forces with the lepers to commit even more robberies.\n\nFORMAT: DCP\n\nCOUNTRY: Mexico",
@@ -6103,22 +5783,22 @@
       ]
     },
     {
-      "feedDirectorHint" : "Robert Altman",
-      "feedRuntimeHint" : 120,
-      "rawDescription" : "**Screenwriters**: Robert Altman, Warren Beatty, Brian McKay, Edmund Naughton\n\n**Producers**: Mitchell Brower, David Foster\n\nGet lost in this exquisite snowy dream of a western from master filmmaker Robert Altman &#8211; an atmospheric treasure centered on the lives, hardships, and triumphs of sex workers in the Wild West. Warren Beatty plays a sly and charismatic gambler who meets brilliant working girl Julie Christie and the two set out to found a modern brothel with protections for the workers and a healthy profit. But success can&#8217;t erase the dark realities of life that cling to all the desperate characters of this frontier town. With subtle wit, authentic emotion, stunning cinematography from Vilmos Zsigmund, and an iconic soundtrack from the legendary Leonard Cohen, *McCabe & Mrs. Miller* is a masterpiece on every level.\n\n**Picks from the Video Store**\n\nTake home more physical media from maestro Altman tonight!\n\n*M.A.S.H., California Split, The Long Goodbye*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "McCabe & Mrs. Miller",
-      "start" : "2026-12-15T03:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4918289",
+      "feedDirectorHint" : "William D. Caballero",
+      "feedRuntimeHint" : 91,
+      "rawDescription" : "**Producers**: William David Caballero,  Elaine Del Valle,  Brad Jones,  Erin Ploss-Campoamor\n\nDirector **William D. Caballero** and producer **Erin Ploss-Campoamor** in person at the December 14th screening!\n\nJoin us in the microcinema for one of the most heartfelt and imaginative documentaries of all time &#8211; William Caballero&#8217;s wonderfully creative and moving *TheyDream. TheyDream* is a deeply personal documentary presented in a variety of animation styles, that examines the transformative nature of grief, for the director, his mother, and other members of their tight knit Puerto Rican family in Fayetteville, North Carolina. As he revisits his past twenty years as a filmmaker who has employed an eclectic range of visual styles, he interweaves brand new animations with live action footage, in order to dig deeper than ever before and better understand why he makes the art that he does. Ultimately, this film becomes an intimate confession—not just about grief, but about the courage it takes to transform pain into art alongside the people we love most.",
+      "rawTitle" : "TheyDream",
+      "start" : "2026-12-15T03:00:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4946180",
       "venueID" : "vidiots",
       "videoFormats" : [
         "Digital"
       ],
       "works" : [
         {
-          "director" : "Robert Altman",
-          "rawName" : "McCabe & Mrs. Miller",
-          "runtimeMinutes" : 120,
-          "year" : "1971"
+          "director" : "William D. Caballero",
+          "rawName" : "TheyDream",
+          "runtimeMinutes" : 91,
+          "year" : "2026"
         }
       ]
     },
@@ -6143,6 +5823,26 @@
       ]
     },
     {
+      "feedDirectorHint" : "Robert Altman",
+      "feedRuntimeHint" : 120,
+      "rawDescription" : "**Screenwriters**: Robert Altman, Warren Beatty, Brian McKay, Edmund Naughton\n\n**Producers**: Mitchell Brower, David Foster\n\nGet lost in this exquisite snowy dream of a western from master filmmaker Robert Altman &#8211; an atmospheric treasure centered on the lives, hardships, and triumphs of sex workers in the Wild West. Warren Beatty plays a sly and charismatic gambler who meets brilliant working girl Julie Christie and the two set out to found a modern brothel with protections for the workers and a healthy profit. But success can&#8217;t erase the dark realities of life that cling to all the desperate characters of this frontier town. With subtle wit, authentic emotion, stunning cinematography from Vilmos Zsigmund, and an iconic soundtrack from the legendary Leonard Cohen, *McCabe & Mrs. Miller* is a masterpiece on every level.\n\n**Picks from the Video Store**\n\nTake home more physical media from maestro Altman tonight!\n\n*M.A.S.H., California Split, The Long Goodbye*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "McCabe & Mrs. Miller",
+      "start" : "2026-12-15T03:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4918289",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Robert Altman",
+          "rawName" : "McCabe & Mrs. Miller",
+          "runtimeMinutes" : 120,
+          "year" : "1971"
+        }
+      ]
+    },
+    {
       "feedDirectorHint" : "John Carpenter, Larry Sulkis, Tobe Hooper",
       "feedRuntimeHint" : 94,
       "rawDescription" : "### **ABOUT THE FILM:**\n\nA horror anthology containing three stories: a female college student is terrorized at work by a serial killer; a hair transplant goes horribly wrong; and a baseball player loses an eye and gets a new one from a recently executed murderer.\n\nFORMAT: DCP\n\nDISTRIBUTOR: Storm King Productions\n\nCOUNTRY: USA",
@@ -6159,26 +5859,6 @@
           "rawName" : "BODY BAGS",
           "runtimeMinutes" : 94,
           "year" : "1993"
-        }
-      ]
-    },
-    {
-      "feedDirectorHint" : "Miloš Forman",
-      "feedRuntimeHint" : 160,
-      "rawDescription" : "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
-      "rawTitle" : "Amadeus",
-      "start" : "2026-12-17T03:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472151",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Miloš Forman",
-          "rawName" : "Amadeus",
-          "runtimeMinutes" : 160,
-          "year" : "1984"
         }
       ]
     },
@@ -6217,6 +5897,26 @@
           "rawName" : "A War on Women",
           "runtimeMinutes" : 110,
           "year" : "2026"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Miloš Forman",
+      "feedRuntimeHint" : 160,
+      "rawDescription" : "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+      "rawTitle" : "Amadeus",
+      "start" : "2026-12-17T03:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472151",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Miloš Forman",
+          "rawName" : "Amadeus",
+          "runtimeMinutes" : 160,
+          "year" : "1984"
         }
       ]
     },
@@ -6261,11 +5961,11 @@
       ]
     },
     {
-      "rawDescription" : "Monthly short film festival. Watch and vote. Audience award to the best short film each month. Annual championship in DECEMBER.",
-      "rawTitle" : "MOVIE SCREENERS CLUB (Thu. 11\/19) 7:30pm",
+      "rawDescription" : "Elia Suleiman's audacious, wildly inventive masterpiece blends surreal comedy, love across borders, and irreverent acts of resistance!",
+      "rawTitle" : "Elia Suleiman's DIVINE INTERVENTION (2002) — co-presented by Mizna",
       "start" : "2026-12-18T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/movie-screeners-club-thu-1119-730pm-tickets-1654021636239",
-      "venueID" : "gardena",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/elia-suleimans-divine-intervention-2002-co-presented-by-mizna-tickets-2004400254117",
+      "venueID" : "prs",
       "videoFormats" : [
 
       ],
@@ -6291,11 +5991,11 @@
       ]
     },
     {
-      "rawDescription" : "Elia Suleiman's audacious, wildly inventive masterpiece blends surreal comedy, love across borders, and irreverent acts of resistance!",
-      "rawTitle" : "Elia Suleiman's DIVINE INTERVENTION (2002) — co-presented by Mizna",
+      "rawDescription" : "Monthly short film festival. Watch and vote. Audience award to the best short film each month. Annual championship in DECEMBER.",
+      "rawTitle" : "MOVIE SCREENERS CLUB (Thu. 11\/19) 7:30pm",
       "start" : "2026-12-18T03:30:00.000Z",
-      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/elia-suleimans-divine-intervention-2002-co-presented-by-mizna-tickets-2004400254117",
-      "venueID" : "prs",
+      "ticketURL" : "https:\/\/www.eventbrite.com\/e\/movie-screeners-club-thu-1119-730pm-tickets-1654021636239",
+      "venueID" : "gardena",
       "videoFormats" : [
 
       ],
@@ -6308,7 +6008,7 @@
       "rawDescription" : "Brain Dead Studios presents O.V.A. Night, a surprise screening of obscure anime rarely seen on the big screen.\n\nO.V.A. (Original Video Animation) emerged in Japan during the home video boom of the 1980s. Released directly to home video, OVAs gave animators the freedom to work outside the usual restrictions of television and theatrical releases, opening the door to stranger stories, bigger ideas, and imagery that could never have made it onto TV. The result was some of the most ambitious, violent, experimental, and downright bizarre anime of the era.\n\nMany of these titles have never been properly restored or given a theatrical release, and we think they deserve to be played big, played loud, and seen with a crowd.",
       "rawTitle" : "O.V.A. Night – Vol. IV",
       "start" : "2026-12-18T04:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1488724\/",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1488724",
       "venueID" : "braindead",
       "videoFormats" : [
         "HD Digital"
@@ -6366,7 +6066,7 @@
       "rawDescription" : "Timothée Chalamet, internet favorite and star of CALL ME BY YOUR NAME, heads a grandiose vision of dynastic wars in the desert as Paul Atreides, the boy who would be king — of the galaxy. Carried by Hans Zimmer’s booming bass rhythms, this first installment of the DUNE saga did what others only dared: successfully adapted Frank Herbert’s unfilmable tale of intergalactic geopolitics. Zendaya, Rebecca Ferguson, Josh Brolin, Oscar Isaac, Stellan Skarsgård, and Jason Momoa as Duncan Idaho round out the all-star cast.",
       "rawTitle" : "Dune",
       "start" : "2026-12-19T02:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1488516\/",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1488516",
       "venueID" : "braindead",
       "videoFormats" : [
         "DCP"
@@ -6406,7 +6106,7 @@
       "rawDescription" : "Paul Atreides is back with a vengeance and an army of blue-eyed freedom fighters who have accepted him as their God – but can he live up to the hype? Facing Austin Butler as a bald psychopathic killer, he must clear his name and restore peace to the galaxy. Building on the world created in the first installment, this second part of the DUNE saga brings Frank Herbert’s vision full circle in an engrossing, capital ‘E’ epic, complete with jaw-dropping visuals and a morally complex, brisk-paced script credited to Denis Villeneuve and co-writer Jon Spaihts.",
       "rawTitle" : "Dune: Part Two",
       "start" : "2026-12-19T05:15:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1488526\/",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1488526",
       "venueID" : "braindead",
       "videoFormats" : [
         "DCP"
@@ -6461,26 +6161,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Brian Henson",
-      "feedRuntimeHint" : 86,
-      "rawDescription" : "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
-      "rawTitle" : "The Muppet Christmas Carol",
-      "start" : "2026-12-19T21:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472070",
-      "venueID" : "braindead",
-      "videoFormats" : [
-
-      ],
-      "works" : [
-        {
-          "director" : "Brian Henson",
-          "rawName" : "The Muppet Christmas Carol",
-          "runtimeMinutes" : 86,
-          "year" : "1992"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "William Greaves",
       "feedRuntimeHint" : 41,
       "rawDescription" : "### **ABOUT THE FILMS:**\n\n**“The First World Festival of Negro Arts,” 1966, Dir. William Greaves, 41 Min, Janus, USA**\n\nHosted by a newly independent Senegal and overseen by its first president, Léopold Sédar Senghor, throughout April 1966, the First World Festival of Negro Arts showcased dance, music, theater, film and literature from dozens of nations in a historic gathering that encompassed over two thousand attendees, including Langston Hughes, Duke Ellington, Wole Soyinka and Aimé Césaire, among other notable artists and dignitaries. Spotlighting performances from Ethiopia, Trinidad, Chad, Nigeria and several other African and American countries, director William Greaves employs poetic voice-over narration to reflect on the festival’s celebration of Pan-African identity as well as the role that creativity can play in fostering global connection.\n\nFORMAT: DCP\n\n**“Wealth of a Nation,” 1964, Dir. William Greaves, 22 Min, Janus, USA**\n\nCommissioned by the United States Information Agency to produce a documentary on freedom of speech, director William Greaves profiled several artists—including avant-garde sculptor Lee Bontecou, free-jazz trumpeter Bill Dixon and futurist architect William Katavolos—to explore how audacious self-expression can move a society toward higher ideals. Even in this short industrial-film format, Greaves draws on virtuoso camera work and lyrical montage to communicate a signature theme: the deeply reciprocal relationship between creative individuals and their communities.\n\nFORMAT: DCP\n\n**“Booker T. Washington: The Life and the Legacy,” 1985, Dir. William Greaves, 32 Min, Janus, USA**\n\nInfusing fiction with elements of documentary, William Greaves’s short biopic of legendary African American activist Booker T. Washington focuses on how his leadership of the Tuskegee Institute—which equally emphasized practical labor skills and classroom learning—influenced educational philosophy and practice throughout the United States. Screenwriter Lou Potter sets the action during the lifetime of Washington (Maurice Woods), but a modern-day narrator (Gil Noble) interviews the historical personages—and frequently challenges their answers. This experimental format highlights the still-contentious nature of Washington’s political stances, especially his accommodationist strategy for Black integration within the racially hostile South.\n\nFORMAT: DCP",
@@ -6511,6 +6191,26 @@
           "rawName" : "“Booker T. Washington: The Life and the Legacy,”",
           "runtimeMinutes" : 32,
           "year" : "1985"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Brian Henson",
+      "feedRuntimeHint" : 86,
+      "rawDescription" : "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
+      "rawTitle" : "The Muppet Christmas Carol",
+      "start" : "2026-12-19T21:00:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472070",
+      "venueID" : "braindead",
+      "videoFormats" : [
+
+      ],
+      "works" : [
+        {
+          "director" : "Brian Henson",
+          "rawName" : "The Muppet Christmas Carol",
+          "runtimeMinutes" : 86,
+          "year" : "1992"
         }
       ]
     },
@@ -6817,26 +6517,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Stanley Kubrick",
-      "feedRuntimeHint" : 159,
-      "rawDescription" : "Very few films are as shrouded in mystery and conspiracy as *Eyes Wide Shut*, Stanley Kubrick’s last film, having died just months before its release. \n\nAn erotic psychological thriller\/mystery starring real-life (at the time) married couple Tom Cruise and Nicole Kidman as Dr. Bill and Alice Harford, married Manhattan yuppies raising a young daughter. After Alice admits to recurring sexual fantasies about a stranger she made eye-contact with on vacation years ago, an emasculated Bill becomes obsessed with having an extramarital sexual encounter. He embarks on an all-night odyssey that leads him to a highly exclusive masked orgy for the super-wealthy, and quickly discovers that he is in over his head. \n\nBizarre. Decadent. Debaucherous. Ritualistic…all bathed in the hazy dreamlike glow of Christmas lights and red velvet.",
-      "rawTitle" : "Eyes Wide Shut",
-      "start" : "2026-12-21T04:00:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472168",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "Stanley Kubrick",
-          "rawName" : "Eyes Wide Shut",
-          "runtimeMinutes" : 159,
-          "year" : "1999"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "John A. Russo",
       "feedRuntimeHint" : 83,
       "rawDescription" : "Is *Black Christmas* not getting you there anymore? *Silent Night Deadly Night* not doing the job these days? For those of us who love Christmas horror films, year after year we find ourselves huffing the bag for another fix of cinematic candy co-cane. But the first step is admitting you have a problem, and this year you don’t have to suffer alone! Tis’ the season to be sleazy, and oh boy do we have a stocking stuffer for you! *Santa Claws* is an eerily bleak no-budget slasher that asks the question: what if a Christmas movie involved long scenes of nude modeling? Join writers and filmmakers Sarah Fensom and Chris Shields for a night of yuletide debauchery and christian devotion (okay, maybe just the first one), as they present this holiday horror curiosity from *Night of the Living Dead* co-writer and Pennsylvania independent film legend, John Russo.\n\n## SYNOPSIS:\n\nA young man finds his divorced mother having sex with a man in a Santa Claus hat and shoots them both dead. Years later, now thinking he is Santa Claus, the man develops an obsession with an erotic horror film star named Raven and begins stalking her. (Terror Vision)\n\n**dir. John A. Russo, 1996**\n*United States, digital projection*\n83 min\n\n**SUNDAY, 12\/20 · 7:30 DOORS · 8:00 SCREENING**\n\nHosted by filmmakers and writers Chris Shields & Sarah Fensom.\n\n## $10 general admission.\n\n***Basic*** *&* ***Microcinephile*** members, please log-in to your account at checkout for your discounts to apply*.* Don't have a membership? Get one *[here](https:\/\/shop.whammyanalog.com\/pages\/get-a-membership)*.\n\n*****Whammy!*** *is located at* **1***2***00 N Alvarado St***, near the intersection of Sunset & Alvarado and in between Tierra Mia Coffee and Manly & Sons Barbershop. Street parking only, please* ***do not park*** ***in the library parking lot****, as your vehicle will get locked in when the library closes. The corner of Sunset & Alvarado is served by 3 major bus lines*, the** 2, the ***4****, and the* ***93.***",
@@ -6853,6 +6533,26 @@
           "rawName" : "Santa Claws",
           "runtimeMinutes" : 83,
           "year" : "1996"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Stanley Kubrick",
+      "feedRuntimeHint" : 159,
+      "rawDescription" : "Very few films are as shrouded in mystery and conspiracy as *Eyes Wide Shut*, Stanley Kubrick’s last film, having died just months before its release. \n\nAn erotic psychological thriller\/mystery starring real-life (at the time) married couple Tom Cruise and Nicole Kidman as Dr. Bill and Alice Harford, married Manhattan yuppies raising a young daughter. After Alice admits to recurring sexual fantasies about a stranger she made eye-contact with on vacation years ago, an emasculated Bill becomes obsessed with having an extramarital sexual encounter. He embarks on an all-night odyssey that leads him to a highly exclusive masked orgy for the super-wealthy, and quickly discovers that he is in over his head. \n\nBizarre. Decadent. Debaucherous. Ritualistic…all bathed in the hazy dreamlike glow of Christmas lights and red velvet.",
+      "rawTitle" : "Eyes Wide Shut",
+      "start" : "2026-12-21T04:00:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472168",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "Stanley Kubrick",
+          "rawName" : "Eyes Wide Shut",
+          "runtimeMinutes" : 159,
+          "year" : "1999"
         }
       ]
     },
@@ -6897,26 +6597,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Hayao Miyazaki",
-      "feedRuntimeHint" : 86,
-      "rawDescription" : "All aboard the Cat Bus on which Miyazaki and Studio Ghibli’s reputation rides. From the legendary animation studio behind classics SPIRITED AWAY and PRINCESS MONONOKE comes the tale of two sisters who go on magical adventures with their friendly neighbor — a corpulent forest spirit with a heart of gold. One of the most beloved anime of all time, favored by film lovers of all ages.\n\n*In Japanese with English subtitles. *",
-      "rawTitle" : "My Neighbor Totoro",
-      "start" : "2026-12-22T03:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472178",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "35mm"
-      ],
-      "works" : [
-        {
-          "director" : "Hayao Miyazaki",
-          "rawName" : "My Neighbor Totoro",
-          "runtimeMinutes" : 86,
-          "year" : "1988"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Norman Jewison",
       "feedRuntimeHint" : 102,
       "rawDescription" : "**Screenwriter**: John Patrick Shanley\n\n**Producers**: Norman Jewison, Patrick J. Palmer\n\nGet ready to Cher the love! The incomparable Goddess Cher and the one-and-only Nicolas Cage star in this uproarious romantic comedy. No sooner does Italian-American widow Loretta accept a marriage proposal from her doltish boyfriend, Johnny, than she finds herself falling for his younger brother, Ronny. She tries to resist, but Ronny lost his hand in an accident he blames on his brother, and has no scruples about aggressively pursuing her while Johnny is out of the country. As Loretta falls deeper in love, she comes to learn that she&#8217;s not the only one in her family with a secret romance. Make sure you *Snap Out of It* and don&#8217;t miss this iconic romance!\n\n**Picks from the Video Store**\n\nWant more Cher to love? Take home these rarities from the Diva herself!\n\n*Silkwood, The Sonny & Cher Christmas Specials, Burlesque*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -6933,6 +6613,26 @@
           "rawName" : "Moonstruck",
           "runtimeMinutes" : 102,
           "year" : "1987"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Hayao Miyazaki",
+      "feedRuntimeHint" : 86,
+      "rawDescription" : "All aboard the Cat Bus on which Miyazaki and Studio Ghibli’s reputation rides. From the legendary animation studio behind classics SPIRITED AWAY and PRINCESS MONONOKE comes the tale of two sisters who go on magical adventures with their friendly neighbor — a corpulent forest spirit with a heart of gold. One of the most beloved anime of all time, favored by film lovers of all ages.\n\n*In Japanese with English subtitles. *",
+      "rawTitle" : "My Neighbor Totoro",
+      "start" : "2026-12-22T03:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472178",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "35mm"
+      ],
+      "works" : [
+        {
+          "director" : "Hayao Miyazaki",
+          "rawName" : "My Neighbor Totoro",
+          "runtimeMinutes" : 86,
+          "year" : "1988"
         }
       ]
     },
@@ -7417,26 +7117,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "David Fincher",
-      "feedRuntimeHint" : 157,
-      "rawDescription" : "Police conduct a manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
-      "rawTitle" : "Zodiac",
-      "start" : "2026-12-29T03:30:00.000Z",
-      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472260",
-      "venueID" : "braindead",
-      "videoFormats" : [
-        "DCP"
-      ],
-      "works" : [
-        {
-          "director" : "David Fincher",
-          "rawName" : "Zodiac",
-          "runtimeMinutes" : 157,
-          "year" : "2007"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Luca Guadagnino",
       "feedRuntimeHint" : 132,
       "rawDescription" : "**Screenwriters**: James Ivory,  Luca Guadagnino,  Walter Fasano from the novel by André Aciman\n\n**Producers**: Peter Spears,  Luca Guadagnino,  Emilie Georges,  Rodrigo Teixeira, Marco Morabito\n\nThe temperature may be dropping outside, but it’s heating up here at Vidiots because our annual **Hornyfest** is back and thirstier than ever!\n\nFall in love and lust with Luca Guadagnino&#8217;s tender and exquisite portrait of forbidden first love set against a stunning Mediterranean backdrop. In the summer of 1983, in the north of Italy, Elio Perlman, (Timothée Chalamet) a 17-year-old American spends his days in his family’s 17th century villa lazily transcribing music and flirting with his friend Marzia (Esther Garrel). One day Oliver (Armie Hammer), a 24-year-old graduate student working on his doctorate arrives as the annual summer intern tasked with helping Elio’s father (Michael Stuhlbarg), an eminent professor specializing in Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.* *\n\n**Picks from the Video Store**\n\nTake home all the Luca you can watch on glorious physical media!\n\n*I Am Love, Challengers, Queer*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
@@ -7453,6 +7133,26 @@
           "rawName" : "Vidiots Hornyfest – Call Me by Your Name",
           "runtimeMinutes" : 132,
           "year" : "2017"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "David Fincher",
+      "feedRuntimeHint" : 157,
+      "rawDescription" : "Police conduct a manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
+      "rawTitle" : "Zodiac",
+      "start" : "2026-12-29T03:30:00.000Z",
+      "ticketURL" : "https:\/\/studios.wearebraindead.com\/purchase\/1472260",
+      "venueID" : "braindead",
+      "videoFormats" : [
+        "DCP"
+      ],
+      "works" : [
+        {
+          "director" : "David Fincher",
+          "rawName" : "Zodiac",
+          "runtimeMinutes" : 157,
+          "year" : "2007"
         }
       ]
     },
@@ -7497,26 +7197,6 @@
       ]
     },
     {
-      "feedDirectorHint" : "Jonathan Frakes",
-      "feedRuntimeHint" : 111,
-      "rawDescription" : "**Screenwriters**: Brannon Braga, Ronald D. Moore, Rick Berman\n\n**Producer**: Rick Berman\n\nVidiots remembers our beloved interstellar captain, **Sir Patrick Stewart**, with a special screening of ***Star Trek: First Contact***!\n\nBeam yourself to the starship Vidiots for an adventure into the final frontier with the crew of the intergalactic Enterprise. The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy. So gather your crew for an experience that&#8217;s going to be out of this world!\n\n**Picks from the Video Store**\n\nTake home more Patrick Stewart classics and deep cuts on glorious physical media!\n\n*The Devil&#8217;s Disciple, A Christmas Carol, Lady Jane*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
-      "rawTitle" : "Star Trek: First Contact",
-      "start" : "2026-12-30T03:30:00.000Z",
-      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4942966",
-      "venueID" : "vidiots",
-      "videoFormats" : [
-        "Digital"
-      ],
-      "works" : [
-        {
-          "director" : "Jonathan Frakes",
-          "rawName" : "Star Trek: First Contact",
-          "runtimeMinutes" : 111,
-          "year" : "1996"
-        }
-      ]
-    },
-    {
       "feedDirectorHint" : "Paul Thomas Anderson",
       "feedRuntimeHint" : 130,
       "rawDescription" : "In 1950s London, renowned British dressmaker Reynolds Woodcock comes across Alma, a young, strong-willed woman, who soon becomes ever present in his life as his muse and lover.",
@@ -7533,6 +7213,26 @@
           "rawName" : "Phantom Thread",
           "runtimeMinutes" : 130,
           "year" : "2017"
+        }
+      ]
+    },
+    {
+      "feedDirectorHint" : "Jonathan Frakes",
+      "feedRuntimeHint" : 111,
+      "rawDescription" : "**Screenwriters**: Brannon Braga, Ronald D. Moore, Rick Berman\n\n**Producer**: Rick Berman\n\nVidiots remembers our beloved interstellar captain, **Sir Patrick Stewart**, with a special screening of ***Star Trek: First Contact***!\n\nBeam yourself to the starship Vidiots for an adventure into the final frontier with the crew of the intergalactic Enterprise. The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy. So gather your crew for an experience that&#8217;s going to be out of this world!\n\n**Picks from the Video Store**\n\nTake home more Patrick Stewart classics and deep cuts on glorious physical media!\n\n*The Devil&#8217;s Disciple, A Christmas Carol, Lady Jane*\n\n**Accessibility Options**: Amplified Audio, please see the box office for devices.",
+      "rawTitle" : "Star Trek: First Contact",
+      "start" : "2026-12-30T03:30:00.000Z",
+      "ticketURL" : "https:\/\/vidiotsfoundation.org\/purchase\/4942966",
+      "venueID" : "vidiots",
+      "videoFormats" : [
+        "Digital"
+      ],
+      "works" : [
+        {
+          "director" : "Jonathan Frakes",
+          "rawName" : "Star Trek: First Contact",
+          "runtimeMinutes" : 111,
+          "year" : "1996"
         }
       ]
     },
